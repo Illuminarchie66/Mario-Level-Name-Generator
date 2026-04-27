@@ -1,0 +1,5575 @@
+[
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 1-1",
+            "link": "https://mario.wiki/World_1-1_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "The first level in New Super Mario Bros. is a meadow with flowers, bushes, and mushrooms scattering the land. Peach's Castle is visible in the background for the first portion of the level.",
+            "setting": ["Grassy", "Plains"],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": ["Warp Pipes", "Pits"],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 1-2",
+            "link": "https://mario.wiki/World_1-2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "This is the second level in the world, and the first underground level which introduces Piranha Plants . It has a red-flag exit that unlocks a different path that directly leads to the tower of that world.",
+            "setting": ["Underground", "Cave"],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Piranha Plant"
+            ],
+            "obstacles": ["Seesaw Platform", "Warp Pipes", "Pits"],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 1-3",
+            "link": "https://mario.wiki/World_1-3_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "A mushroom level in the hills, and the first sky-themed level. It introduces Spin Blocks and Red Ring . In the level, there are quite a few tilting Mushrooms.",
+            "setting": ["Mushrooms", "Sky"],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": ["Spin Blocks", "Tilting Mushrooms"],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "World 1",
+            "level_code": "World 1-Tower",
+            "link": "https://mario.wiki/World_1-Tower_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "Stone tower which introduces Dry Bones . It is full of moving stone blocks with spikes on them. It has a red-flag exit which unlocks the World 1 - Warp Cannon .",
+            "setting": ["Tower"],
+            "enemies": [
+                "Dry Bones",
+                "Super Dry Bones"
+            ],
+            "obstacles": ["Moving Blocks", "Spikes"],
+            "boss": "Bowser Jr."
+        },
+        "output": {
+            "name": "World 1-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 1-Cannon",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "The area contains a Warp Cannon in the middle of the grassland. If the player enters the Warp Cannon, they will be launched to World 5, a snowy world , which can be seen in the background.",
+            "setting": ["Grassy"],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Paratroopa",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": ["Slopes", "Warp Pipes", "Brick Blocks"],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 1-4",
+            "link": "https://mario.wiki/World_1-4_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level is a grassy meadow with short grass hills, much like World 1-1. It introduces the Mini Mushroom .",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Paratroopa",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 1-5",
+            "link": "https://mario.wiki/World_1-5_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The second and last sky-themed level in this world. This level contains lots of magenta-colored bouncy mushrooms.",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Paratroopa",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 1-A",
+            "link": "https://mario.wiki/World_1-A_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level is the first underwater level in the game. This level introduces Cheep-Cheeps . It is the only secret level in World 1 and the only level where Sushi appear.",
+            "setting": [],
+            "enemies": [
+                "Cheep-Cheep",
+                "Sushi"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 1-Castle",
+            "link": "https://mario.wiki/World_1-Castle_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level is the first Castle level in the game, and the last level in World 1. The majority of the level consists of walking on tightropes over lava. This level introduces Podoboos .",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Podoboo"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 2-1",
+            "link": "https://mario.wiki/World_2-1_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The first level in World 2, it is a desert-based level. This level introduces Spinies and is the only level where Pokeys appear.",
+            "setting": [],
+            "enemies": [
+                "Pokey",
+                "Spiny"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 2-2",
+            "link": "https://mario.wiki/World_2-2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The second level of World 2, featuring a pyramid in the background. This level marks the first appearance of Lakitus in the game.",
+            "setting": [],
+            "enemies": [
+                "Lakitu",
+                "Piranha Plant",
+                "Red Koopa Troopa",
+                "Spiny"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 2-3",
+            "link": "https://mario.wiki/World_2-3_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The third level of World 2, the level begins in a desert, with a pipe to the underground. This level introduces the enemy Super Piranha Plant . The level has a red-flag exit , which unlocks the way to World 2-A.",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Piranha Plant",
+                "Super Piranha Plant",
+                "Swoop"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 2-A",
+            "link": "https://mario.wiki/World_2-A_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level is the only bonus level of this world. Although this world is in the middle of a desert, this level is largely inhabited by water. The level has a red-flag exit, which unlocks the way to World 2 - Warp Cannon .",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "Launches the player character to another area, usually anotherworld",
+            "layout_description": "This area, while not really a level, can be unlocked by using the red-flag exit in World 2-A. The area contains a Warp Cannon in the middle of the desert. If the player enters the Warp Cannon, they are launched to World 5 , which can be faintly seen in the background.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "Artwork fromSuper Mario Party Jamboree",
+            "link": "https://mario.wiki/Warp_Pipe"
+        },
+        "input": {
+            "world": "Transports players to other areas",
+            "layout_description": "This pipe, only unlockable by completing World 2-A and using the normal exit, allows the player to gain access to the end of World 2. If the player does so, they can skip all levels in the world between 2-4 and World 2 - Castle , where the pipe leads directly to.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 2-4",
+            "link": "https://mario.wiki/World_2-4_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The fourth level of World 2, it has a red-flag exit, which unlocks the way to World 2-6, passing a Toad House .",
+            "setting": [],
+            "enemies": [
+                "Cheep-Cheep",
+                "Goomba",
+                "Green Koopa Paratroopa",
+                "Green Koopa Troopa",
+                "Hammer Bro",
+                "Paragoomba",
+                "Piranha Plant",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 2-Tower",
+            "link": "https://mario.wiki/World_2-Tower_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The tower of World 2, the level features many rotating platforms. The boss here, like all other towers, is Bowser Jr.",
+            "setting": [],
+            "enemies": [
+                "Dry Bones"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 2-5",
+            "link": "https://mario.wiki/World_2-5_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The sixth level of World 2 after the tower, it introduces Boomerang Bros . and is the only level where Blockhoppers and Fire Snakes appear.",
+            "setting": [],
+            "enemies": [
+                "Blockhopper",
+                "Boomerang Bro",
+                "Fire Snake",
+                "Spiny"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 2-6",
+            "link": "https://mario.wiki/World_2-6_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The last level before the castle in World 2, this level is sky-based, filled with yellowish and milky-colored clouds. During most of the level, the player is on a levitating platform.",
+            "setting": [],
+            "enemies": [
+                "Piranha Plant",
+                "Super Piranha Plant",
+                "Venus Fire Trap"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 2-Castle",
+            "link": "https://mario.wiki/World_2-Castle_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The last level of World 2, it marks the first appearance of a Spiked Ball in the game. The boss here is Mummipokey . If the player defeats the boss while in their mini form , they will be rewarded with the access to World 4 instead of World 3 .",
+            "setting": [],
+            "enemies": [
+                "Bill Blaster",
+                "Bullet Bill",
+                "Giant Spiked Ball",
+                "Spiked Ball"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 3-1",
+            "link": "https://mario.wiki/World_3-1_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The first level in World 3 takes place underwater. Cheep-Chomps appear here for the first time in the series and make their only appearance in this game.",
+            "setting": [],
+            "enemies": [
+                "Cheep-Cheep",
+                "Mega Cheep-Cheep",
+                "Cheep-Chomp"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 3-A",
+            "link": "https://mario.wiki/World_3-A_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level is the first secret level in World 3. It introduces Skeeters .",
+            "setting": [],
+            "enemies": [
+                "Mini Goomba",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Cheep-Cheep",
+                "Skeeter"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 3-2",
+            "link": "https://mario.wiki/World_3-2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This is the second regular level in the world, and mostly takes place on tilting mushrooms. It has a red-flag exit which unlocks a different path that leads to World 3-B .",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 3-B",
+            "link": "https://mario.wiki/World_3-B_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This is the second secret level in the world. A level high in the sky, it is made entirely out of pipes.",
+            "setting": [],
+            "enemies": [
+                "Piranha Plant",
+                "Venus Fire Trap"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-B"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 3-C",
+            "link": "https://mario.wiki/World_3-C"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "This is the third and final secret level in the world. Completing it leads directly to the world's castle.",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Cheep-Cheep",
+                "Spike Bass"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-C"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 3-Tower",
+            "link": "https://mario.wiki/World_3-Tower_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This is the third tower in the game. Most of this tower is spent climbing on fences .",
+            "setting": [],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Green Climbing Koopa",
+                "Red Climbing Koopa",
+                "Amp",
+                "Bowser Jr."
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 3-3",
+            "link": "https://mario.wiki/World_3-3_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level takes place underwater. It is the only appearance of Bloopers .",
+            "setting": [],
+            "enemies": [
+                "Cheep-Cheep",
+                "Blooper",
+                "Blooper Nanny",
+                "Blooper Baby"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 3-Ghost House",
+            "link": "https://mario.wiki/World_3-Ghost_House_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level is the first Ghost House in the game.",
+            "setting": [],
+            "enemies": [
+                "Boo",
+                "Splunkin"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "Launches the player character to another area, usually anotherworld",
+            "layout_description": "This island and mountain-themed area can be unlocked by using the red-flag exit in World 3 - Ghost House . If the player enters the Warp Cannon , they will be taken to World 6 . To the right of the Warp Cannon is a Roulette Block .",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 3-Castle",
+            "link": "https://mario.wiki/World_3-Castle_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level is the third castle level in the game, and the last level in World 3. Much of the level consists of avoiding Skewers . At the end, Mario must fight Cheepskipper .",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-1",
+            "link": "https://mario.wiki/World_4-1_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The first level in World 4. This level introduces poison , and the player must use Dorrie to cross it. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-2",
+            "link": "https://mario.wiki/World_4-2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This is the second level in the world. It is the only sky level in the world, and mostly takes place on Seesaw Shrooms . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-3",
+            "link": "https://mario.wiki/World_4-3_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This is the third level in the world, and takes place underwater. It introduces Unagi and Mega Unagi . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-Tower",
+            "link": "https://mario.wiki/World_4-Tower_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This is the fourth tower in the game. Lava is constantly rising upwards. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-A",
+            "link": "https://mario.wiki/World_4-A_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This is the world's only secret level. It is covered in poison. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-4",
+            "link": "https://mario.wiki/World_4-4_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level contains many Wigglers . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-Ghost House",
+            "link": "https://mario.wiki/World_4-Ghost_House_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level is the second Ghost House in the game. It contains the franchise's only appearance of Balloon Boos . ",
+            "setting": [],
+            "enemies": [
+                "Balloon Boos",
+                "Boos"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "Launches the player character to another area, usually anotherworld",
+            "layout_description": "This area can be unlocked by using the red-flag exit in World 4 - Ghost House . If the player enters the Warp Cannon , they will be taken to World 7 , which can be seen in the background.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-5",
+            "link": "https://mario.wiki/World_4-5_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level takes place underground. It contains many Bob-ombs . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-6",
+            "link": "https://mario.wiki/World_4-6_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "In this level, Mario must use Dorrie to cross poison again. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 4-Castle",
+            "link": "https://mario.wiki/World_4-Castle_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level is the fourth castle level in the game, and the last level in World 4. It contains many swinging platforms and Thwomps . ",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Podoboos",
+                "Super Thwomps",
+                "Thwomps",
+                "Mega Goomba"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-1",
+            "link": "https://mario.wiki/World_5-1_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A level covered in snow featuring Snow Spikes . ",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Paratroopa",
+                "Snow Spike"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-2",
+            "link": "https://mario.wiki/World_5-2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "An underground level with ice patches , Swoops and Spike Tops . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "Artwork fromSuper Mario Party Jamboree",
+            "link": "https://mario.wiki/Warp_Pipe"
+        },
+        "input": {
+            "world": "Transports players to other areas",
+            "layout_description": "World 5 has two pairs of pipes, one leads from 5-2 to 5-3, while the other goes from 5-B straight to World 5 - Castle . Both of these are unlocked via red-flag exits .",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-A",
+            "link": "https://mario.wiki/World_5-A_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "An aerial level with Stretch Shroom platforms. ",
+            "setting": [],
+            "enemies": [
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-Tower",
+            "link": "https://mario.wiki/World_5-Tower_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A moving platform that scrolls up as Spiked Balls fall on it. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-3",
+            "link": "https://mario.wiki/World_5-3_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "An ice level featuring Snailicorns . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-Ghost House",
+            "link": "https://mario.wiki/World_5-Ghost_House_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A vertical Ghost House with Broozers . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "Launches the player character to another area, usually anotherworld",
+            "layout_description": "A Warp Cannon that takes the player to World 8 , whose dark magenta sky is already visible from this level.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-B",
+            "link": "https://mario.wiki/World_5-B_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A secret ice level. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-B"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-C",
+            "link": "https://mario.wiki/World_5-C"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A secret underground level featuring Buzzy Beetles and Broozers. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-C"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-4",
+            "link": "https://mario.wiki/World_5-4_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "An autoscrolling level with Bullet Bills and Sinking and Rising Mushrooms . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 5-Castle",
+            "link": "https://mario.wiki/World_5-Castle_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A castle level featuring conveyor belts. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-1",
+            "link": "https://mario.wiki/World_6-1_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "This level introduces thin ledges and has many Bullet Bills . ",
+            "setting": [],
+            "enemies": [
+                "Mini Goomba",
+                "Green Koopa Paratroopa",
+                "Red Koopa Paratroopa",
+                "Bill Blaster Turret",
+                "Bullet Bill"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-A",
+            "link": "https://mario.wiki/World_6-A_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A secret desert level with Lakitus and the game's only tornadoes . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-2",
+            "link": "https://mario.wiki/World_6-2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A beach level containing many Spinies and rising water. ",
+            "setting": [],
+            "enemies": [
+                "Spiny",
+                "Spiny Egg"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-Tower",
+            "link": "https://mario.wiki/World_6-Tower_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A tower level featuring many Skewers . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-3",
+            "link": "https://mario.wiki/World_6-3_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A jungle level containing many pipes and Piranha Plants . ",
+            "setting": [],
+            "enemies": [
+                "Piranha Plant",
+                "Venus Fire Trap",
+                "Moneybags"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-4",
+            "link": "https://mario.wiki/World_6-4_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A level containing many thin ledges and Fire Bars . ",
+            "setting": [],
+            "enemies": [
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-Tower",
+            "link": "https://mario.wiki/World_6-Tower_2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A tower level featuring many conveyor belts . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-5",
+            "link": "https://mario.wiki/World_6-5_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "An underwater level containing the game's only appearance of Deep-Cheeps . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-B",
+            "link": "https://mario.wiki/World_6-B_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A secret icy mountain level. ",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Red Koopa Troopa",
+                "Koopa Paratroopa",
+                "Piranha Plant",
+                "Super Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-B"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-6",
+            "link": "https://mario.wiki/World_6-6_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A mountainous level containing the game's only appearance of Chain Chomps . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 6-Castle",
+            "link": "https://mario.wiki/World_6-Castle_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A castle level whose boss is Monty Tank . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-1",
+            "link": "https://mario.wiki/World_7-1_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A level featuring multiple moving platforms set in the sky. ",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Paratroopa",
+                "Flame Chomp"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-Ghost House",
+            "link": "https://mario.wiki/World_7-Ghost_House_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A Ghost House which contains multiple doors and pathways. ",
+            "setting": [],
+            "enemies": [
+                "Boo",
+                "Splunkin"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-2",
+            "link": "https://mario.wiki/World_7-2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A wrap-around level featuring a controllable rising platform. ",
+            "setting": [],
+            "enemies": [
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-3",
+            "link": "https://mario.wiki/World_7-3_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A level featuring a giant ridable Wiggler . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-Tower",
+            "link": "https://mario.wiki/World_7-Tower_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A tower level featuring spiked platforms and moving walls. ",
+            "setting": [],
+            "enemies": [
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-4",
+            "link": "https://mario.wiki/World_7-4_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A level containing multiple mushroom platforms and trampolines . ",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-5",
+            "link": "https://mario.wiki/World_7-5_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A grassland level featuring Bob-ombs and a Mega Mushroom . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-6",
+            "link": "https://mario.wiki/World_7-6_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "World 7",
+            "layout_description": "An athletic level containing multiple mushroom platforms. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-7",
+            "link": "https://mario.wiki/World_7-7_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "World 7",
+            "layout_description": "A level featuring Donut Blocks and paddle wheels . ",
+            "setting": [],
+            "enemies": [
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-7"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-A",
+            "link": "https://mario.wiki/World_7-A"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A pipe -based level containing the game's only appearance of Squigglers . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 7-Castle",
+            "link": "https://mario.wiki/World_7-Castle_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A castle level featuring Snake Blocks , whose boss is Lakithunder . ",
+            "setting": [],
+            "enemies": [
+                "Amp",
+                "Thwomp",
+                "Ball 'N' Chain",
+                "Burner",
+                "Lakithunder",
+                "Spiny Egg",
+                "Spinies"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 7-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-1",
+            "link": "https://mario.wiki/World_8-1_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A haunted forest featuring Crowbers and Bullet Bills . ",
+            "setting": [],
+            "enemies": [
+                "Banzai Bill Cannon",
+                "Banzai Bills",
+                "Bill Blasters",
+                "Bullet Bills",
+                "Boos",
+                "Crowbers",
+                "Splunkins"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-2",
+            "link": "https://mario.wiki/World_8-2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "An underground level featuring controllable water and Skeeters . ",
+            "setting": [],
+            "enemies": [
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-Tower",
+            "link": "https://mario.wiki/World_8-Tower_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A tower level featuring moving walls and spikes. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-3",
+            "link": "https://mario.wiki/World_8-3_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "An underwater level featuring Unagi and a Mega Unagi . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-4",
+            "link": "https://mario.wiki/World_8-4_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "An overworld level featuring moving platforms and numerous amounts of Scuttlebugs . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-Castle",
+            "link": "https://mario.wiki/World_8-Castle"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A castle level featuring controllable lifts. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-5",
+            "link": "https://mario.wiki/World_8-5_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A short level which takes place inside a lava cave. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-6",
+            "link": "https://mario.wiki/World_8-6_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "A wrap-around level taking place inside a volcano , featuring rising lava. ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-7",
+            "link": "https://mario.wiki/World_8-7_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "An overworld level with multiple varieties of Hammer Bros . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-8",
+            "link": "https://mario.wiki/World_8-8_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The last normal level of the game; an overworld level featuring volcanic debris and Kab-ombs . ",
+            "setting": [],
+            "enemies": [
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-Tower",
+            "link": "https://mario.wiki/World_8-Tower_2_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The last tower level of the game; a tower featuring snake platforms and Fire Bars . ",
+            "setting": [],
+            "enemies": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros.",
+            "level_code": "World 8-Bowser's Castle",
+            "link": "https://mario.wiki/World_8-Bowser%27s_Castle_(New_Super_Mario_Bros.)"
+        },
+        "input": {
+            "world": "New Super Mario Bros.",
+            "layout_description": "The final level of the game; a large castle level featuring switches that can invert rooms. ",
+            "setting": [],
+            "enemies": [
+                "Giant Bowser",
+                "Bowser Jr.",
+                "Burners",
+                "Dry Bones",
+                "Fire Bar",
+                "Podoboos",
+                "Super Thwomp",
+                "Thwomps"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+        {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 1-Peach's Castle",
+            "link": "https://mario.wiki/Peach%27s_Castle#New_Super_Mario_Bros._Wii"
+        },
+        "input": {
+            "world": "Mushroom Kingdom(Toad Town)",
+            "layout_description": "Peach's Castle is the first location in the map. The player can buy and watch hint movies here.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 1-1",
+            "link": "https://mario.wiki/World_1-1_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The first level of New Super Mario Bros. Wii . It introduces the Propeller Suit , Goombas and Koopa Troopas . ",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 1-2",
+            "link": "https://mario.wiki/World_1-2_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The first underground level of New Super Mario Bros. Wii . It introduces the Ice Flower and Piranha Plants , and is full of moving crystal blocks and Warp Pipes . ",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Troopa",
+                "Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 1-3",
+            "link": "https://mario.wiki/World_1-3_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level introduces Yoshi , Venus Fire Traps and the only appearance of Hammer Bros . ",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Koopa Troopa",
+                "Piranha Plant",
+                "Venus Fire Trap",
+                "Hammer Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "Launches the player character to another area, usually anotherworld",
+            "layout_description": "The Warp Cannon of World 1, which leads directly to World 5 . It is unlocked by finding the hidden goal in World 1-3.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 1-Tower",
+            "link": "https://mario.wiki/World_1-Tower_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The first tower level of New Super Mario Bros. Wii . It has many moving stone blocks and Pendulum Platforms and introduces Dry Bones . The boss is Larry Koopa . ",
+            "setting": [],
+            "enemies": [
+                "Dry Bones"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 1-4",
+            "link": "https://mario.wiki/World_1-4_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The first underwater level of New Super Mario Bros. Wii . It introduces Cheep Cheeps , Deep-Cheeps , Eep Cheeps , and Clampys . ",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Koopa Paratroopa",
+                "Cheep Cheep",
+                "Eep Cheep",
+                "Deep-Cheep",
+                "Spiny Cheep Cheep",
+                "Mega Cheep-Cheep",
+                "Mega Deep-Cheep",
+                "Urchin",
+                "Clampy"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 1-5",
+            "link": "https://mario.wiki/World_1-5_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The first athletic level of New Super Mario Bros. Wii . It contains regular and screw-controlled mushrooms, as well as spinning blocks. This level introduces Koopa Paratroopas . ",
+            "setting": [],
+            "enemies": [
+                "Koopa Troopa",
+                "Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 1-6",
+            "link": "https://mario.wiki/World_1-6_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "A grassland level containing many rolling hills. Koopa Troopas and Koopa Paratroopas are the principal enemies. ",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Koopa Troopa",
+                "Koopa Paratroopa",
+                "Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 1-Castle",
+            "link": "https://mario.wiki/World_1-Castle_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The first castle level of New Super Mario Bros. Wii . It contains lava pools, Thwomps and giant spinning gears. Its boss is Larry Koopa again. ",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Thwomp",
+                "Big Thwomp"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 2-1",
+            "link": "https://mario.wiki/World_2-1_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level takes place in the desert and is the first level with sand geysers . ",
+            "setting": [],
+            "enemies": [
+                "Boomerang Bro",
+                "Goomba",
+                "Koopa Paratroopa",
+                "Koopa Troopa",
+                "Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 2-2",
+            "link": "https://mario.wiki/World_2-2_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level is filled with barrels and Spikes . There are areas with platforms infested with Koopas and Spikes. ",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Koopa Troopa",
+                "Spike",
+                "Spiny"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 2-3",
+            "link": "https://mario.wiki/World_2-3_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level is a pitch dark cave, which is dimly lit by lanterns. Fire Bros ., Fire Snakes , Venus Fire Traps and Spike Tops are common enemies in this level. ",
+            "setting": [],
+            "enemies": [
+                "Fire Bro",
+                "Fire Snake",
+                "Koopa Troopa",
+                "Piranha Flower",
+                "Spike Top",
+                "Spiny",
+                "Venus Fire Trap"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 2-Tower",
+            "link": "https://mario.wiki/World_2-Tower_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This tower features metallic fences that the player can cling on. The player will need to avoid spells from Roy coming from above. ",
+            "setting": [],
+            "enemies": [
+                "",
+                ""
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 2-4",
+            "link": "https://mario.wiki/World_2-4_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "Every few seconds, Wind blows in the level, forcing the player to the right. ",
+            "setting": [],
+            "enemies": [
+                "Koopa Troopa",
+                "Piranha Plant",
+                "Spike Top"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 2-5",
+            "link": "https://mario.wiki/World_2-5_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level has many Pokeys as well as some Lakitus , and there's also a Yoshi in this level. ",
+            "setting": [],
+            "enemies": [
+                "Koopa Paratroopa",
+                "Lakitus",
+                "Piranha Plants",
+                "Pokeys",
+                "Koopa Paratroopa",
+                "Koopa Troopa",
+                "Spinies",
+                "Super Piranha Plants",
+                "Venus Fire Traps"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 2-6",
+            "link": "https://mario.wiki/World_2-6_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is a mushroom level that mostly has moving coins and blocks. ",
+            "setting": [],
+            "enemies": [
+                "Flame Chomp",
+                "Koopa Paratroopa",
+                "Piranha Plant",
+                "Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "Launches the player character to another area, usually anotherworld",
+            "layout_description": "The Warp Cannon level of World 2. It shoots the player straight into World 5 .",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 2-Castle",
+            "link": "https://mario.wiki/World_2-Castle_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This castle is filled with lava pits, and three way corridors, of which only one is the correct path. The boss is Roy Koopa . ",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Lava Bubble",
+                "Piranha Plant",
+                "Roy Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 3-1",
+            "link": "https://mario.wiki/World_3-1_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The level starts in a snowy ground with Cooligans sliding in Mario's direction. ",
+            "setting": [],
+            "enemies": [
+                "Cooligan",
+                "Koopa Paratroopa",
+                "Koopa Troopa",
+                "Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 3-2",
+            "link": "https://mario.wiki/World_3-2_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level marks the first appearance of Ice Bros . and Bullet Bills in the game. ",
+            "setting": [],
+            "enemies": [
+                "Bill Blaster",
+                "Bullet Bill",
+                "Goomba",
+                "Koopa Troopa",
+                "Ice Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 3-3",
+            "link": "https://mario.wiki/World_3-3_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level is an icy cave level with three parts. There are floating platforms, falling Icicles , and giant falling icicles that Mario can walk on. ",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Ice Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 3-Ghost House",
+            "link": "https://mario.wiki/World_3-Ghost_House_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is the first Ghost House in the game. Big Boos , smaller Boos , and possessed furniture are the main obstacles in this level. ",
+            "setting": [],
+            "enemies": [
+                "Big Boos",
+                "Boos",
+                "Ghost Vase"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "Launches the player character to another area, usually anotherworld",
+            "layout_description": "The Warp Cannon level of World 3. It shoots the player straight into World 6 .",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 3-Tower",
+            "link": "https://mario.wiki/World_3-Tower_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level features brightly colored rotating blocks that must be used to climb to higher locations. This is also the only level to feature Amps . ",
+            "setting": [],
+            "enemies": [
+                "Amp",
+                "Ball 'n' Chain",
+                "Dry Bones",
+                "Spiked ball",
+                "Lemmy Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 3-4",
+            "link": "https://mario.wiki/World_3-4_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "There are hidden blocks in this level which will turn into solid red blocks when the ! Switch is activated further in the game. ",
+            "setting": [],
+            "enemies": [
+                "Fire Bro",
+                "Goomba",
+                "Koopa Paratroopa",
+                "Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 3-5",
+            "link": "https://mario.wiki/World_3-5_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is a vertical level, and will only autoscroll when all players step on the rotating pink block. ",
+            "setting": [],
+            "enemies": [
+                "Koopa Paratroopa",
+                "Koopa Troopa",
+                "Venus Fire Trap"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 3-Castle",
+            "link": "https://mario.wiki/World_3-Castle_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "Lemmy Koopa 's castle is riddled with giant falling icicles and frozen floors making timed jumps difficult. The player must move on Ice Snake Blocks throughout the level. ",
+            "setting": [],
+            "enemies": [
+                "Bob-ombs",
+                "Dry Bones",
+                "Lemmy Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 4-1",
+            "link": "https://mario.wiki/World_4-1_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "A level introducing Big Urchins that is mostly in water. ",
+            "setting": [],
+            "enemies": [
+                "Cheep Cheep",
+                "Mega Cheep-Cheep",
+                "Spiny Cheep Cheep",
+                "Urchin",
+                "Big Urchin",
+                "Koopa Troopa",
+                "Koopa Paratroopa",
+                "Piranha Plant",
+                "Clampy"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 4-2",
+            "link": "https://mario.wiki/World_4-2_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "Most of this course is filled with Donut Blocks and Cheep Cheeps that will jump up to attack the player. ",
+            "setting": [],
+            "enemies": [
+                "Cheep Cheep"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 4-3",
+            "link": "https://mario.wiki/World_4-3_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is the only level that features Huckit Crabs . There are also many Urchins and Big Urchins. ",
+            "setting": [],
+            "enemies": [
+                "Huckit Crab",
+                "Urchin",
+                "Big Urchin",
+                "Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 4-Tower",
+            "link": "https://mario.wiki/World_4-Tower_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This tower features many conveyor belts . Iron Block are also a common sight here, being used as both platforms and obstacles. ",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Wendy O. Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "Launches the player character to another area, usually anotherworld",
+            "layout_description": "The cannon level of World 4. It takes the player straight to World 6 .",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 4-4",
+            "link": "https://mario.wiki/World_4-4_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is the only underwater level of World 4. ",
+            "setting": [],
+            "enemies": [
+                "Cheep Cheep",
+                "Mega Cheep-Cheep",
+                "Spiny Cheep Cheep",
+                "Blooper",
+                "Blooper Nanny",
+                "Cheep-Chomp"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 4-Ghost House",
+            "link": "https://mario.wiki/World_4-Ghost_House_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is the Ghost House of World 4. Its hidden goal is a shortcut to World 4-Castle . ",
+            "setting": [],
+            "enemies": [
+                "Big Boo",
+                "Boo",
+                "Ghost Vase",
+                "Scaredy Rat"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 4-5",
+            "link": "https://mario.wiki/World_4-5_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "A beach level with Yoshi and Lakitus . ",
+            "setting": [],
+            "enemies": [
+                "Lakitu",
+                "Piranha Plant",
+                "Spinies"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 4-Castle",
+            "link": "https://mario.wiki/World_4-Castle_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is the castle level of World 4 that has the only appearance of fences and Climbing Koopas . ",
+            "setting": [],
+            "enemies": [
+                "Ball 'n' Chain",
+                "Climbing Koopa",
+                "Dry Bones",
+                "Skewer",
+                "Wet Bones",
+                "Wendy O. Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 4-Airship",
+            "link": "https://mario.wiki/World_4-Airship_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is the first airship level of the game. Bowser Jr. is fought here. ",
+            "setting": [],
+            "enemies": [
+                "Moving torches",
+                "Burners",
+                "Mechakoopas",
+                "Cannons",
+                "Bob-ombs",
+                "Bowser Jr."
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 6-1",
+            "link": "https://mario.wiki/World_6-1_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level takes place on a series of cliffs populated by Stone Spikes and Bullet Bills.",
+            "setting": [],
+            "enemies": [
+                "Bill Blaster Turrets",
+                "Bullet Bills",
+                "Koopa Paratroopa",
+                "Koopa Troopa",
+                "Stone Spike"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 6-2",
+            "link": "https://mario.wiki/World_6-2_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "A level taking place in a Piranha Plant -infested cavern, with many Rolling Hills throughout.",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Piranha Plant",
+                "Sledge Bro",
+                "Spiny",
+                "Super Piranha Plant",
+                "Swoop"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 6-3",
+            "link": "https://mario.wiki/World_6-3_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "A sewer-themed level mainly featuring Super Piranha Plants , Stalking Piranha Plants , and Buzzy Beetles .",
+            "setting": [],
+            "enemies": [
+                "Buzzy Beetle",
+                "Piranha Plant",
+                "Stalking Piranha Plant",
+                "Super Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 6-4",
+            "link": "https://mario.wiki/World_6-4_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level mainly takes place on high semisolid cliffs, which Mario and Yoshi can maneuver. This level has the first and only appearance of Monty Moles .",
+            "setting": [],
+            "enemies": [
+                "Monty Mole",
+                "Koopa Paratroopa",
+                "Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 6-Tower",
+            "link": "https://mario.wiki/World_6-Tower_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The primary feature of World 6's Fortress is two giant Skewers on the floor and ceiling, which both collide in the middle of the Fort.",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Morton Koopa Jr.",
+                "Skewer"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 6-5",
+            "link": "https://mario.wiki/World_6-5_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This island-themed level primarily features Porcupuffers jumping out of the water. Some large ? Blocks also make an appearance later on.",
+            "setting": [],
+            "enemies": [
+                "Porcupuffer",
+                "Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 6-6",
+            "link": "https://mario.wiki/World_6-6_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This dimly-lit cavern level has Mario ride a raft, with floodlights that can be rotated with the Wii Remote. Common enemies here include Mega Cheep-Cheeps and Swoops .",
+            "setting": [],
+            "enemies": [
+                "Cheep Cheep",
+                "Fire Bro",
+                "Mega Cheep-Cheeps",
+                "Piranha Plants",
+                "Swoop"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "link": "https://mario.wiki/Warp_Cannon"
+        },
+        "input": {
+            "world": "Launches the player character to another area, usually anotherworld",
+            "layout_description": "The cannon level of World 6. The cannon will shoot straight to World 8 .",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": ""
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 6-Castle",
+            "link": "https://mario.wiki/World_6-Castle_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "World 6's Castle primarily features spiked balls and Giant Spiked Balls on pendulum platforms.",
+            "setting": [],
+            "enemies": [
+                "Big Dry Bones",
+                "Dry Bones",
+                "Lava Bubble",
+                "Morton Koopa Jr.",
+                "Spiked Ball"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 6-Airship",
+            "link": "https://mario.wiki/World_6-Airship_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "World 6's airship features Mechakoopas and has the first and only appearance of Rocky Wrenches . Bowser Jr.'s battle primarily features the introduction (and only appearance) of the Remote-Controlled Clown Car .",
+            "setting": [],
+            "enemies": [
+                "Bowser Jr.",
+                "Mechakoopa",
+                "Rocky Wrench"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-1",
+            "link": "https://mario.wiki/World_8-1_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level features volcanic ash and volcanic debris .",
+            "setting": [],
+            "enemies": [
+                "Buzzy Beetle",
+                "Volcanic debris"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-2",
+            "link": "https://mario.wiki/World_8-2_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level contains more falling debris and spinning wheels on the ground. This level also contains a secret exit .",
+            "setting": [],
+            "enemies": [
+                "Giant Spiked Ball",
+                "Goomba",
+                "Hefty Goomba",
+                "Paragoomba",
+                "Spike Ball",
+                "Volcanic debris"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-3",
+            "link": "https://mario.wiki/World_8-3_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level features giant lava waves that will instantly defeat the player.",
+            "setting": [],
+            "enemies": [
+                "Flame Chomp",
+                "Koopa Troopa",
+                "Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-Tower",
+            "link": "https://mario.wiki/World_8-Tower_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This tower is the first level to feature Fire Bars .",
+            "setting": [],
+            "enemies": [
+                "Fire Bar",
+                "Goomba",
+                "Koopa Troopa",
+                "Koopa Paratroopa",
+                "Spiny",
+                "Buzzy Beetle",
+                "Bob-omb",
+                "Monty Mole",
+                "Thwomp",
+                "Magikoopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-4",
+            "link": "https://mario.wiki/World_8-4_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level takes place in an underwater cave, and features Jellybeams , Bulbers , and Stone Spikes .",
+            "setting": [],
+            "enemies": [
+                "Blooper",
+                "Bulber",
+                "Cheep Cheep",
+                "Deep-Cheep",
+                "Jellybeam",
+                "Spiny Cheep Cheep",
+                "Stone Spike"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-5",
+            "link": "https://mario.wiki/World_8-5_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level is an auto-scrolling level, featuring Tilt Lifts that can be moved by rotating the Wii Remote .",
+            "setting": [],
+            "enemies": [
+                "Parabomb",
+                "Crowber"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-6",
+            "link": "https://mario.wiki/World_8-6_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level takes place in a volcano with rising lava.",
+            "setting": [],
+            "enemies": [
+                "Lava Bubble",
+                "Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-7",
+            "link": "https://mario.wiki/World_8-7_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This level is a secret level, and can only be unlocked by taking the secret path on World 8-2.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-7"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-Airship",
+            "link": "https://mario.wiki/World_8-Airship_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is the last airship level of the game.",
+            "setting": [],
+            "enemies": [
+                "Cannon",
+                "Quartet-cannon",
+                "Rotating Cannon Pipe",
+                "Big gun",
+                "Cannonball",
+                "Giant cannonball",
+                "Mechakoopa",
+                "Bowser Jr."
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 8-Bowser's Castle",
+            "link": "https://mario.wiki/World_8-Bowser%27s_Castle_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is the final castle level of the game and is home to Bowser .",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Goomba",
+                "Fire Bar",
+                "Lava Bubble",
+                "Bowser"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 8-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 9-1",
+            "link": "https://mario.wiki/World_9-1_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The first level of World 9 is sky-themed and has the athletic background from World 1 . There are spinning rectangle platforms throughout the level.",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Koopa Paratroopa",
+                "Koopa Troopa",
+                "Venus Fire Trap"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 9-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 9-2",
+            "link": "https://mario.wiki/World_9-2_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This stage takes place in the beach setting from World 4 . The player must get to the goal while avoiding a Porcupuffer and many Koopa Troopas .",
+            "setting": [],
+            "enemies": [
+                "Cheep-Chomp",
+                "Koopa Paratroopa",
+                "Koopa Troopa",
+                "Piranha Plant",
+                "Porcupuffer"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 9-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 9-3",
+            "link": "https://mario.wiki/World_9-3_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This course has the background of World 6 . It features a heavy arsenal Missile Bills and Bull's-Eye Banzais .",
+            "setting": [],
+            "enemies": [
+                "Koopa Paratroopa",
+                "Bill Blaster",
+                "Bull's-Eye Banzai",
+                "Missile Bill",
+                "Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 9-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 9-4",
+            "link": "https://mario.wiki/World_9-4_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This course takes place over the Desert Theme of World 2 . It mainly revolves around both Bob-ombs and Venus Fire Traps .",
+            "setting": [],
+            "enemies": [
+                "Bob-omb",
+                "Venus Fire Trap"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 9-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 9-5",
+            "link": "https://mario.wiki/World_9-5_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This is an icy course based on World 3 , where the player must get to the top of the Icy Mountain while avoiding Cooligans , Fuzzies , and Big Fuzzies .",
+            "setting": [],
+            "enemies": [
+                "Big Fuzzy",
+                "Cooligan",
+                "Fuzzy",
+                "Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 9-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 9-6",
+            "link": "https://mario.wiki/World_9-6_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This volcanic course is based on World 8 and contains numerous platforms which emerge from and descend into lava .",
+            "setting": [],
+            "enemies": [
+                "Flame Chomps"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 9-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 9-7",
+            "link": "https://mario.wiki/World_9-7_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "This course, based on World 5 , takes place in a snowy forest, with floors made of ice blocks containing Munchers and Warp Pipes containing Venus Fire Traps .",
+            "setting": [],
+            "enemies": [
+                "Fire Bro",
+                "Muncher",
+                "Prickly Goomba",
+                "Venus Fire Trap",
+                "Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 9-7"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. Wii",
+            "level_code": "World 9-8",
+            "link": "https://mario.wiki/World_9-8_(New_Super_Mario_Bros._Wii)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. Wii",
+            "layout_description": "The last course of the game is an auto-scrolling sky level, akin to World 7 , which features King Bills as well as Goombas and Fuzzies.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 9-8"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-Rainbow",
+            "link": "https://mario.wiki/World_1-Rainbow"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The first Rainbow Course in the game.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-1",
+            "link": "https://mario.wiki/World_1-1_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A very basic level filled with common enemies like Goombas and Koopa Troopas .",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Goomba Tower",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-2",
+            "link": "https://mario.wiki/World_1-2_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The first underground level in the game, and introduces red POW Blocks and the Mega Mushroom .",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-3",
+            "link": "https://mario.wiki/World_1-3_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A grassy level littered with blocks containing the Super Leaf .",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-Tower",
+            "link": "https://mario.wiki/World_1-Tower_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A tower filled with Snake Blocks and undead enemies such as Bone Goombas . The boss is two Reznors on one wheel.",
+            "setting": [],
+            "enemies": [
+                "Bone Goomba",
+                "Dry Bones",
+                "Bone Piranha Plant",
+                "Reznor"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-Warp Cannon",
+            "link": "https://mario.wiki/World_1-Warp_Cannon_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The first Warp Cannon course in the game, which features a dashing mechanic.",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-4",
+            "link": "https://mario.wiki/World_1-4_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The first aerial/sky level in the game and introduces the Gold Ring .",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Gold Goomba",
+                "Gold Koopa",
+                "Gold Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-5",
+            "link": "https://mario.wiki/World_1-5_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The first underwater level in the game, filled with Cheep Cheeps and the occasional Spiny Cheep Cheep .",
+            "setting": [],
+            "enemies": [
+                "Cheep Cheep",
+                "Spiny Cheep Cheep",
+                "Big Cheep Cheep",
+                "Cheep Chomp"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-A",
+            "link": "https://mario.wiki/World_1-A_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A pipe-filled maze with many Piranha Plants and Koopa Troopas.",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Goomba",
+                "Piranha Plant",
+                "Goomba Tower",
+                "Big Piranha Plant",
+                "Green Koopa Paratroopa",
+                "Gold Goomba",
+                "Gold Goomba Tower",
+                "Gold Koopa",
+                "Gold Koopa Paratroopa",
+                "Gold Piranha Plant",
+                "Gold Big Piranha"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 1-Castle",
+            "link": "https://mario.wiki/World_1-Castle_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The first castle level in the game, filled with ropes and Lava Bubbles . The boss is Roy Koopa .",
+            "setting": [],
+            "enemies": [
+                "Lava Bubble",
+                "Dry Bones",
+                "Thwomp",
+                "Big Thwomp",
+                "Roy Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 1-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-1",
+            "link": "https://mario.wiki/World_2-1_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "It is a sandy level filled with many moving Brick Block platforms and grounded Piranha Plants .",
+            "setting": [],
+            "enemies": [
+                "Piranha Plant",
+                "Red Koopa Troopa",
+                "Goomba",
+                "Goomba Tower",
+                "Green Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-2",
+            "link": "https://mario.wiki/World_2-2_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "It is a level high in the sky, littered with gold-colored platforms. It also features Hammer Bros ., Boomerang Bros ., and Sledge Bros .",
+            "setting": [],
+            "enemies": [
+                "Paragoomba",
+                "Red Koopa Troopa",
+                "Hammer Bro",
+                "Boomerang Bro",
+                "Sledge Bro",
+                "Gold Paragoomba",
+                "Gold Koopa",
+                "Gold Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-3",
+            "link": "https://mario.wiki/World_2-3_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A simple desert level mostly taking place underground with many Pokeys .",
+            "setting": [],
+            "enemies": [
+                "Pokey",
+                "Buzzy Beetle",
+                "Spike Top",
+                "Piranha Plant",
+                "Goomba"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-A",
+            "link": "https://mario.wiki/World_2-A_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is an aerial, ruin-like level filled with Fuzzies that attempt to hinder Mario's progress.",
+            "setting": [],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Fuzzy"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-Tower",
+            "link": "https://mario.wiki/World_2-Tower_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "It is a generic tower level with a few Bone Goombas and Dry Bones . The bosses are four Reznor on one wheel .",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Big Dry Bones",
+                "Bone Goomba",
+                "Reznor"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-Ghost House",
+            "link": "https://mario.wiki/World_2-Ghost_House"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "It is the first Ghost House in the game, and also marks the first appearance of the monstrous Boohemoth .",
+            "setting": [],
+            "enemies": [
+                "Boo",
+                "Boohemoth",
+                "Peepa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-4",
+            "link": "https://mario.wiki/World_2-4_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "It is a level filled with Pokeys , Spinies , and Fire Snakes . It also has many blocks that stack up to form pyramid-like structures.",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Red Koopa Troopa",
+                "Fire Snake",
+                "Pokey",
+                "Spiny"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-5",
+            "link": "https://mario.wiki/World_2-5_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "It is a level with many sand blocks and also introduces Chain Chomps .",
+            "setting": [],
+            "enemies": [
+                "Chain Chomp",
+                "Boomerang Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-B",
+            "link": "https://mario.wiki/World_2-B_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is filled with Para-bombs parachuting from the sky and from cannons.",
+            "setting": [],
+            "enemies": [
+                "Bob-omb Cannon",
+                "Bob-omb",
+                "Para-bomb",
+                "Pokey"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-B"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 2-Castle",
+            "link": "https://mario.wiki/World_2-Castle_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The level is spent almost entirely on a platform on lava that only moves if the player is stepping on it. The boss is Iggy Koopa .",
+            "setting": [],
+            "enemies": [
+                "Buzzy Beetle",
+                "Fireball",
+                "Thwomp",
+                "Big Chain Chomp",
+                "Iggy Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 2-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldMushroom-Rainbow",
+            "link": "https://mario.wiki/World_Mushroom-Rainbow"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The Rainbow Course .",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldMushroom-1",
+            "link": "https://mario.wiki/World_Mushroom-1_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level takes place in the sky with many colored block platforms.",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Piranha Plant",
+                "Gold Goomba",
+                "Gold Koopa",
+                "Gold Koopa Paratroopa",
+                "Gold Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldMushroom-2",
+            "link": "https://mario.wiki/World_Mushroom-2_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "It is a water-themed autoscroll level packed with many Urchins and Deep Cheeps .",
+            "setting": [],
+            "enemies": [
+                "Urchin",
+                "Deep Cheep",
+                "Big Deep Cheep"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldMushroom-Ghost House",
+            "link": "https://mario.wiki/World_Mushroom-Ghost_House"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is a maze-like Ghost House where almost every door leads to a different room, thus comprising of several areas.",
+            "setting": [],
+            "enemies": [
+                "Boo",
+                "Big Boo",
+                "Gold Boo",
+                "Gold Big Boo"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldMushroom-A",
+            "link": "https://mario.wiki/World_Mushroom-A"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This is an ice-themed level taking place underground. Common enemies here are Dry Bones and spiked balls .",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Spike Ball",
+                "Giant Spike Ball"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldMushroom-3",
+            "link": "https://mario.wiki/World_Mushroom-3_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "It is an underground-themed level cramped with sandy-looking objects, Buzzy Beetles , and red POW Blocks .",
+            "setting": [],
+            "enemies": [
+                "Buzzy Beetle",
+                "Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldMushroom-Warp Cannon",
+            "link": "https://mario.wiki/World_Mushroom-Warp_Cannon"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The Warp Cannon course of this world. It takes the player to World Flower. It also has a level theme not seen in any other course.",
+            "setting": [],
+            "enemies": [
+                "Crowber",
+                "Boomerang Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldMushroom-B",
+            "link": "https://mario.wiki/World_Mushroom-B"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is reminiscent of World 1 and is an autoscroll level composed of many Beanstalks and Koopa Troopas .",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Red Koopa Paratroopa",
+                "Chain Chomp",
+                "Gold Koopa",
+                "Gold Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldMushroom-Castle",
+            "link": "https://mario.wiki/World_Mushroom-Castle"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "It is a level full of Whomps that attempt to crush Mario, along with giant spiked balls that destroy everything in their path.",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Big Dry Bones",
+                "Spike Ball",
+                "Giant Spike Ball",
+                "Thwomp",
+                "Big Thwomp",
+                "Whomp",
+                "Big Whomp",
+                "Bone Piranha Plant",
+                "Big Bone Piranha Plant",
+                "Larry Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-Rainbow",
+            "link": "https://mario.wiki/World_3-Rainbow"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The Rainbow Course , which features coins that rain down from above.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-1",
+            "link": "https://mario.wiki/World_3-1_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The level is mainly made up of hills of sand. Cheep Cheeps that jump out of the water first appear here.",
+            "setting": [],
+            "enemies": [
+                "Cheep Cheep",
+                "Piranha Plant",
+                "Gold Cheep Cheep",
+                "Gold Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-2",
+            "link": "https://mario.wiki/World_3-2_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is an underwater level in a beach area.",
+            "setting": [],
+            "enemies": [
+                "Cheep Cheep",
+                "Big Cheep Cheep",
+                "Spiny Cheep Cheep",
+                "Urchin",
+                "Small Urchin"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-3",
+            "link": "https://mario.wiki/World_3-3_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A cobweb-filled jungle level that also features Scuttlebugs .",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Scuttlebug"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-A",
+            "link": "https://mario.wiki/World_3-A_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "An underwater level infested with Urchins.",
+            "setting": [],
+            "enemies": [
+                "Cheep Cheep",
+                "Big Cheep Cheep",
+                "Urchin",
+                "Small Urchin"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-Tower",
+            "link": "https://mario.wiki/World_3-Tower_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "An autoscrolling, submerged tower with many Spiked Pillars and moving walls.",
+            "setting": [],
+            "enemies": [
+                "Fishbones",
+                "Spike Pillar",
+                "Reznor"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-Warp Cannon",
+            "link": "https://mario.wiki/World_3-Warp_Cannon_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The Warp Cannon course of this world, which leads to World Flower .",
+            "setting": [],
+            "enemies": [
+                "Scuttlebug",
+                "Wiggler"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-4",
+            "link": "https://mario.wiki/World_3-4_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is a jungle-themed level with many Wigglers and vines.",
+            "setting": [],
+            "enemies": [
+                "Wiggler",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-Ghost House",
+            "link": "https://mario.wiki/World_3-Ghost_House_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is a Ghost House that has multiple paths and is also infested with Peepas and Boos .",
+            "setting": [],
+            "enemies": [
+                "Boo",
+                "Peepa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-5",
+            "link": "https://mario.wiki/World_3-5_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is an underwater level filled with massive boulders that attempt to crush Mario, along with Bloopers hiding in pipes.",
+            "setting": [],
+            "enemies": [
+                "Boulder",
+                "Blooper",
+                "Blooper Nanny",
+                "Blooper Baby"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-B",
+            "link": "https://mario.wiki/World_3-B_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level marks the first appearance of the Mini Mushroom and prominently features it, for the level must be completed with it.",
+            "setting": [],
+            "enemies": [
+                "Big Cheep Cheep",
+                "Green Koopa Paratroopa",
+                "Bullet Bill",
+                "Bill Blaster",
+                "Spike Block"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-B"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 3-Castle",
+            "link": "https://mario.wiki/World_3-Castle_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is a water-themed castle cramped with dangerous Grinders that attempt to hinder Mario.",
+            "setting": [],
+            "enemies": [
+                "Grinder",
+                "Big Grinder",
+                "Bone Goomba",
+                "Dry Bones",
+                "Cheep Cheep",
+                "Wendy O. Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 3-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-Rainbow",
+            "link": "https://mario.wiki/World_4-Rainbow"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "The Rainbow Course , featuring coins that drop from the sky and leap from below.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-1",
+            "link": "https://mario.wiki/World_4-1_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A snowy level featuring chunks of ice and Goombas .",
+            "setting": [],
+            "enemies": [
+                "Mini Goomba",
+                "Chunk of ice",
+                "Chunk of ice",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Goomba",
+                "Gold Goomba",
+                "Gold Mini Goomba",
+                "Gold Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-Ghost House",
+            "link": "https://mario.wiki/World_4-Ghost_House_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "An autoscrolling Ghost House level controlled by Boos that control walls on both sides of Mario.",
+            "setting": [],
+            "enemies": [
+                "Boo",
+                "Big Boo"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-2",
+            "link": "https://mario.wiki/World_4-2_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "An icy level with several Koopa Troopas and Piranha Plants scattered throughout.",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Piranha Plant",
+                "Buzzy Beetle"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-A",
+            "link": "https://mario.wiki/World_4-A_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level contains many Mushroom Trampolines and Goomba-releasing Warp Pipes .",
+            "setting": [],
+            "enemies": [
+                "Goomba"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-Tower",
+            "link": "https://mario.wiki/World_4-Tower_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A level containing rising ice platforms that Mario must maneuver while avoiding enemies such Bone Piranha Plants and Buzzy Beetles .",
+            "setting": [],
+            "enemies": [
+                "Bone Goomba",
+                "Bone Piranha Plant",
+                "Big Bone Piranha Plant",
+                "Buzzy Beetle",
+                "Reznor"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-B",
+            "link": "https://mario.wiki/World_4-B_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level takes place in an icy cave, where Amps can be found following circular tracks .",
+            "setting": [],
+            "enemies": [
+                "Amp",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-B"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-3",
+            "link": "https://mario.wiki/World_4-3_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "An icy level containing many slopes and Piranha Plants.",
+            "setting": [],
+            "enemies": [
+                "Piranha Plant",
+                "Red Koopa Troopa",
+                "Big Piranha Plant",
+                "Goomba",
+                "Gold Goomba",
+                "Gold Koopa",
+                "Gold Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-4",
+            "link": "https://mario.wiki/World_4-4_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A level that takes place in the sky, where Balance Lifts and tilting mushrooms are found.",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Gold Goomba",
+                "Gold Koopa",
+                "Gold Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-C",
+            "link": "https://mario.wiki/World_4-C"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A cave level that features Fuzzies and POW Blocks .",
+            "setting": [],
+            "enemies": [
+                "Fuzzy",
+                "Big Fuzzy"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-C"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-5",
+            "link": "https://mario.wiki/World_4-5_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "An underwater level containing Cheep Chomps .",
+            "setting": [],
+            "enemies": [
+                "Cheep Cheep",
+                "Cheep Chomp"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 4-Castle",
+            "link": "https://mario.wiki/World_4-Castle_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "World 4's Castle level contains many spiked balls and Snake Blocks . Morton Koopa Jr. is the boss of this level.",
+            "setting": [],
+            "enemies": [
+                "Spike Ball",
+                "Giant Spike Ball",
+                "Fire Bar",
+                "Dry Bones",
+                "Morton Koopa Jr."
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 4-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldFlower-Rainbow",
+            "link": "https://mario.wiki/World_Flower-Rainbow"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "The Rainbow Course , featuring spinning bars of coins.",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldFlower-1",
+            "link": "https://mario.wiki/World_Flower-1_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level takes place in the mountains during sunset, and the floor is mainly made up of pipes, mainly infested with Piranha Plants .",
+            "setting": [],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Goomba",
+                "Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldFlower-A",
+            "link": "https://mario.wiki/World_Flower-A"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level takes place underground, in an icy area.",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Buzzy Beetle",
+                "Spike Top"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldFlower-Warp Cannon",
+            "link": "https://mario.wiki/World_Flower-Warp_Cannon"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "In this level, Mario needs to navigate through a rather difficult course of parachuting Para-bombs and rotating and stationary electric Amps , while preventing falling down the large abyss.",
+            "setting": [],
+            "enemies": [
+                "Amp",
+                "Para-bomb"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldFlower-Ghost House",
+            "link": "https://mario.wiki/World_Flower-Ghost_House"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A Ghost House with Peepas and a Boohemoth .",
+            "setting": [],
+            "enemies": [
+                "Boo",
+                "Big Boo",
+                "Goomba",
+                "Boohemoth",
+                "Peepa",
+                "Gold Goomba",
+                "Gold Boo",
+                "Gold Big Boo"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldFlower-2",
+            "link": "https://mario.wiki/World_Flower-2_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level takes place in a forest, where toxic waters can be found with a Porcupuffer swimming in it trying to attack Mario.",
+            "setting": [],
+            "enemies": [
+                "Porcupuffer",
+                "Red Koopa Troopa",
+                "Red Koopa Paratroopa",
+                "Scuttlebug"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldFlower-3",
+            "link": "https://mario.wiki/World_Flower-3_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level takes place in the sky, although a large proportion of the level is land.",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Goomba",
+                "Goomba Tower"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldFlower-B",
+            "link": "https://mario.wiki/World_Flower-B"
+        },
+        "input": {
+            "world": "400 seconds",
+            "layout_description": "This is an aerial level with many bouncy mushroom platforms and Lakitus .",
+            "setting": [],
+            "enemies": [
+                "Lakitu",
+                "Spiny Egg",
+                "Spiny",
+                "Gold Lakitu"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldFlower-Castle",
+            "link": "https://mario.wiki/World_Flower-Castle"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This castle is made up of gray bouncing mushroom platforms and conveyor belts. The boss is Lemmy Koopa .",
+            "setting": [],
+            "enemies": [
+                "Bone Goomba",
+                "Bob-omb",
+                "Rubber ball",
+                "Lemmy Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-1",
+            "link": "https://mario.wiki/World_5-1_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A level that takes place mostly on colored mushroom blocks in the sky.",
+            "setting": [],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Gold Koopa",
+                "Gold Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-2",
+            "link": "https://mario.wiki/World_5-2_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level contains a lot of Lakitus , where the player must use these enemies to their advantage.",
+            "setting": [],
+            "enemies": [
+                "Piranha Plant",
+                "Lakitu",
+                "Spiny Egg",
+                "Spiny",
+                "Red Koopa Troopa",
+                "Gold Koopa",
+                "Gold Lakitu",
+                "Gold Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-Ghost House",
+            "link": "https://mario.wiki/World_5-Ghost_House_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A level featuring masses of blocks forming a platform that rocks back and forth.",
+            "setting": [],
+            "enemies": [
+                "Big Boo",
+                "Boo",
+                "Peepa",
+                "Swoop"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-3",
+            "link": "https://mario.wiki/World_5-3_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This place includes lots of slopes, and Mario can use Koopa Shells and Gold Rings to take advantage of the level's rather peculiar architecture.",
+            "setting": [],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Goomba",
+                "Mini Goomba",
+                "Green Koopa Paratroopa",
+                "Spike Block",
+                "Gold Goomba",
+                "Gold Mini Goomba",
+                "Gold Koopa",
+                "Gold Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-Tower",
+            "link": "https://mario.wiki/World_5-Tower_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This Tower level's primary feature is a moving fence that moves with rising lava, along with Burners .",
+            "setting": [],
+            "enemies": [
+                "Climbing Koopa",
+                "Dry Bones",
+                "Burner",
+                "Reznor"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-4",
+            "link": "https://mario.wiki/World_5-4_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level uses rising and sinking mushroom platforms a lot.",
+            "setting": [],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Gold Koopa",
+                "Gold Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-A",
+            "link": "https://mario.wiki/World_5-A_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "An auto-scrolling level that mostly takes place on a golden ship flying through the sky.",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Gold Koopa",
+                "Gold Koopa Paratroopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-5",
+            "link": "https://mario.wiki/World_5-5_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level has several Bullet Bills , and it also includes Snake Blocks .",
+            "setting": [],
+            "enemies": [
+                "Bullet Bill",
+                "Bill Blaster Turret",
+                "Banzai Bill",
+                "Banzai Bill Cannon",
+                "Gold Bullet Bill",
+                "Gold Banzai Bill"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-6",
+            "link": "https://mario.wiki/World_5-6_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This mountain level features a lot of rickshaw-like lifts. It is the only mountain level of the world despite it being the setting on the map. The Piranha Plant is the most common enemy in the level.",
+            "setting": [],
+            "enemies": [
+                "Piranha Plant",
+                "Big Piranha Plant",
+                "Venus Fire Trap",
+                "Red Koopa Troopa",
+                "Red Koopa Paratroopa",
+                "Goomba",
+                "Big Venus Fire Trap",
+                "Spike Block"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-6"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 5-Castle",
+            "link": "https://mario.wiki/World_5-Castle_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This Castle level centers around fences, including a unique type of fence that can be changed to move up or down the wire using or or .",
+            "setting": [],
+            "enemies": [
+                "Climbing Koopa",
+                "Lava Bubble",
+                "Dry Bones",
+                "Bone Piranha Plant",
+                "Big Bone Piranha Plant",
+                "Ludwig von Koopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 5-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-Rainbow",
+            "link": "https://mario.wiki/World_6-Rainbow"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "The Rainbow Course , featuring coins that spin in circles and Mushroom Trampolines .",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-1",
+            "link": "https://mario.wiki/World_6-1_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A volcano level that contains volcanic debris and POW Blocks .",
+            "setting": [],
+            "enemies": [
+                "Volcanic debris",
+                "Buzzy Beetle",
+                "Spike Top"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-1"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-Ghost House",
+            "link": "https://mario.wiki/World_6-Ghost_House_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level is a maze that involves many ? Switches , Warp Doors , and moving platforms.",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Boo",
+                "Big Boo",
+                "Gold Goomba",
+                "Gold Boo",
+                "Gold Big Boo"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-2",
+            "link": "https://mario.wiki/World_6-2_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level takes place in a volcano, where Mario must ride segmented platforms while avoiding enemies such as Goombas and Para-bombs .",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Goomba Tower",
+                "Mini Goomba",
+                "Paragoomba",
+                "Piranha Plant",
+                "Venus Fire Trap",
+                "Lava Bubble",
+                "Fireball",
+                "Dry Bones",
+                "Para-bomb",
+                "Gold Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-2"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-B",
+            "link": "https://mario.wiki/World_6-B_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level contains platforms that change direction whenever he jumps on it. Mario must ride these platforms while avoiding Bullet Bills and Flame Chomps .",
+            "setting": [],
+            "enemies": [
+                "Flame Chomp",
+                "Bullet Bill",
+                "Bill Blaster",
+                "Banzai Bill",
+                "Banzai Bill Cannon",
+                "Gold Bullet Bill",
+                "Gold Banzai Bill"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-B"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-3",
+            "link": "https://mario.wiki/World_6-3_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "An underground level containing Fire Bros and Stretch Shrooms .",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Fire Bro",
+                "Gold Koopa",
+                "Gold Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-3"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-A",
+            "link": "https://mario.wiki/World_6-A_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level takes place in a volcano containing raising lava, platforms that sink when Mario touches them, and Dry Bones .",
+            "setting": [],
+            "enemies": [
+                "Lava Bubble",
+                "Dry Bones",
+                "Big Dry Bones"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-A"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-Tower",
+            "link": "https://mario.wiki/World_6-Tower_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The Tower of World 6. It has several Burners , some of which are blocks that temporarily deactivate the Burners when hit. Reznors are the bosses of the tower.",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Big Dry Bones",
+                "Burner"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-4",
+            "link": "https://mario.wiki/World_6-4_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "A haunted level that contains many Crowbers and Lifts carried by Peepas .",
+            "setting": [],
+            "enemies": [
+                "Peepa",
+                "Crowber",
+                "Boo"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-4"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-5",
+            "link": "https://mario.wiki/World_6-5_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level features intermittent Seesaws , along with spiked balls and Bowser sculptures .",
+            "setting": [],
+            "enemies": [
+                "Bowser Sculpture",
+                "Green Koopa Troopa",
+                "Spike Ball"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-5"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "World 6-Bowser Castle",
+            "link": "https://mario.wiki/World_6-Bowser%27s_Castle"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The final level in the main game. This level contains many Burners, along with the Koopalings , who can turn Mario to stone by flashing the Koopa Clown Car 's eyes. Bowser is the boss of the level.",
+            "setting": [],
+            "enemies": [
+                "Lava Bubble",
+                "Burner",
+                "Dry Bones",
+                "Big Dry Bones",
+                "Bowser Sculpture",
+                "Bowser's Fireball",
+                "Bowser"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World 6-"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldStar-Rainbow",
+            "link": "https://mario.wiki/World_Star-Rainbow"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "The World Star Rainbow Course .",
+            "setting": [],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldStar-1",
+            "link": "https://mario.wiki/World_Star-1_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "This level takes place at night. It consists of many Brick Blocks which if the player has a Gold Flower can become a lot of coins .",
+            "setting": [],
+            "enemies": [
+                "Goomba",
+                "Paragoomba",
+                "Green Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Coin Coffer"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldStar-2",
+            "link": "https://mario.wiki/World_Star-2_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level takes place high in the sky, on top of what is supposed to be a deserted castle.",
+            "setting": [],
+            "enemies": [
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldStar-3",
+            "link": "https://mario.wiki/World_Star-3_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This rather short level's theme is a combination of a beach and Ghost House theme.",
+            "setting": [],
+            "enemies": [
+                "Peepa",
+                "Fishbones",
+                "Whomp",
+                "Big Whomp"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldStar-4",
+            "link": "https://mario.wiki/World_Star-4_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This is an auto-scrolling beach-themed level.",
+            "setting": [],
+            "enemies": [
+                "Porcupuffer",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldStar-5",
+            "link": "https://mario.wiki/World_Star-5_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "This level combines the elements of grass and sky.",
+            "setting": [],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Lakitu",
+                "Spiny Egg",
+                "Spiny",
+                "Gold Koopa",
+                "Gold Lakitu"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldStar-6",
+            "link": "https://mario.wiki/World_Star-6_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "Most of this level takes place in an underwater fortress.",
+            "setting": [],
+            "enemies": [
+                "Fishbones"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldStar-7",
+            "link": "https://mario.wiki/World_Star-7_(New_Super_Mario_Bros._2)"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The level is a volcano level and is very similar to World 6-1 .",
+            "setting": [],
+            "enemies": [
+                "Lava Bubble",
+                "Fire Snake",
+                "Fire Bar",
+                "Fireball",
+                "Fire Breath",
+                "Bowser Sculpture",
+                "Coin Coffer"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. 2",
+            "level_code": "WorldStar-Castle",
+            "link": "https://mario.wiki/World_Star-Castle"
+        },
+        "input": {
+            "world": "New Super Mario Bros. 2",
+            "layout_description": "The final Castle of the game. Dry Bowser is fought here.",
+            "setting": [],
+            "enemies": [
+                "Dry Bones",
+                "Grinder",
+                "Bowser Sculpture",
+                "Bowser's Fireball",
+                "Dry Bowser"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "World"
+        }
+    }
+]
