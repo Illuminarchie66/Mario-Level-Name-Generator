@@ -6,7 +6,7 @@
             "link": "https://mario.wiki/World_1-1_(New_Super_Mario_Bros.)"
         },
         "input": {
-            "world": "World 1",
+            "world": "World 1 (Grassy)",
             "layout_description": "The first level in New Super Mario Bros. is a meadow with flowers, bushes, and mushrooms scattering the land. Peach's Castle is visible in the background for the first portion of the level.",
             "setting": ["Grassy", "Plains"],
             "enemies": [
@@ -28,7 +28,7 @@
             "link": "https://mario.wiki/World_1-2_(New_Super_Mario_Bros.)"
         },
         "input": {
-            "world": "World 1",
+            "world": "World 1 (Grassy)",
             "layout_description": "This is the second level in the world, and the first underground level which introduces Piranha Plants . It has a red-flag exit that unlocks a different path that directly leads to the tower of that world.",
             "setting": ["Underground", "Cave"],
             "enemies": [
@@ -51,7 +51,7 @@
             "link": "https://mario.wiki/World_1-3_(New_Super_Mario_Bros.)"
         },
         "input": {
-            "world": "World 1",
+            "world": "World 1 (Grassy)",
             "layout_description": "A mushroom level in the hills, and the first sky-themed level. It introduces Spin Blocks and Red Ring . In the level, there are quite a few tilting Mushrooms.",
             "setting": ["Mushrooms", "Sky"],
             "enemies": [
@@ -68,12 +68,12 @@
     },
     {
         "meta": {
-            "game": "World 1",
+            "game": "World 1 (Grassy)",
             "level_code": "World 1-Tower",
             "link": "https://mario.wiki/World_1-Tower_(New_Super_Mario_Bros.)"
         },
         "input": {
-            "world": "World 1",
+            "world": "World 1 (Grassy)",
             "layout_description": "Stone tower which introduces Dry Bones . It is full of moving stone blocks with spikes on them. It has a red-flag exit which unlocks the World 1 - Warp Cannon .",
             "setting": ["Tower"],
             "enemies": [
@@ -94,7 +94,7 @@
             "link": "https://mario.wiki/Warp_Cannon"
         },
         "input": {
-            "world": "World 1",
+            "world": "World 1 (Grassy)",
             "layout_description": "The area contains a Warp Cannon in the middle of the grassland. If the player enters the Warp Cannon, they will be launched to World 5, a snowy world , which can be seen in the background.",
             "setting": ["Grassy"],
             "enemies": [
@@ -112,7 +112,7 @@
     },
     {
         "meta": {
-            "game": "New Super Mario Bros.",
+            "game": "World 1 (Grassy)",
             "level_code": "World 1-4",
             "link": "https://mario.wiki/World_1-4_(New_Super_Mario_Bros.)"
         },
@@ -140,7 +140,7 @@
             "link": "https://mario.wiki/World_1-5_(New_Super_Mario_Bros.)"
         },
         "input": {
-            "world": "New Super Mario Bros.",
+            "world": "World 1 (Grassy)",
             "layout_description": "The second and last sky-themed level in this world. This level contains lots of magenta-colored bouncy mushrooms.",
             "setting": [],
             "enemies": [
@@ -163,7 +163,7 @@
             "link": "https://mario.wiki/World_1-A_(New_Super_Mario_Bros.)"
         },
         "input": {
-            "world": "New Super Mario Bros.",
+            "world": "World 1 (Grassy)",
             "layout_description": "This level is the first underwater level in the game. This level introduces Cheep-Cheeps . It is the only secret level in World 1 and the only level where Sushi appear.",
             "setting": [],
             "enemies": [
@@ -184,7 +184,7 @@
             "link": "https://mario.wiki/World_1-Castle_(New_Super_Mario_Bros.)"
         },
         "input": {
-            "world": "New Super Mario Bros.",
+            "world": "World 1 (Grassy)",
             "layout_description": "This level is the first Castle level in the game, and the last level in World 1. The majority of the level consists of walking on tightropes over lava. This level introduces Podoboos .",
             "setting": [],
             "enemies": [
@@ -205,9 +205,9 @@
             "link": "https://mario.wiki/World_2-1_(New_Super_Mario_Bros.)"
         },
         "input": {
-            "world": "New Super Mario Bros.",
-            "layout_description": "The first level in World 2, it is a desert-based level. This level introduces Spinies and is the only level where Pokeys appear.",
-            "setting": [],
+            "world": "World 2 (Desert)",
+            "layout_description": "A desert-based level which introduces Spinies and Pokeys and is the only level where Pokeys appear. There are pyramids in the background, and many floating platforms where Pokeys roam.",
+            "setting": [""],
             "enemies": [
                 "Pokey",
                 "Spiny"
