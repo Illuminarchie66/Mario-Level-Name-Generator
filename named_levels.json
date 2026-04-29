@@ -9522,36 +9522,18 @@
     {
         "meta": {
             "game": "New Super Mario Bros. Wii",
-            "level_code": "World 1-Peach's Castle",
-            "link": "https://mario.wiki/Peach%27s_Castle#New_Super_Mario_Bros._Wii"
-        },
-        "input": {
-            "world": "World 1 (Grassy)",
-            "layout_description": "Peach's Castle is the first location in the map. The player can buy and watch hint movies here.",
-            "setting": [],
-            "enemies": [],
-            "obstacles": [],
-            "boss": ""
-        },
-        "output": {
-            "name": "World 1-"
-        }
-    },
-    {
-        "meta": {
-            "game": "New Super Mario Bros. Wii",
             "level_code": "World 1-1",
             "link": "https://mario.wiki/World_1-1_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "The first level of New Super Mario Bros. Wii . It introduces the Propeller Suit , Goombas and Koopa Troopas . ",
-            "setting": [],
+            "world": "World 1 (Grassy)",
+            "layout_description": "The first level of New Super Mario Bros. Wii . It introduces the Propeller Suit , Goombas and Koopa Troopas . It takes place in grassy plains with rolling hills.",
+            "setting": ["Grassy", "Hills"],
             "enemies": [
                 "Goomba",
                 "Koopa Troopa"
             ],
-            "obstacles": [],
+            "obstacles": ["Propeller Suit", "Rolling Hills", "Pits", "Warp Pipes"],
             "boss": ""
         },
         "output": {
@@ -9565,15 +9547,15 @@
             "link": "https://mario.wiki/World_1-2_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "The first underground level of New Super Mario Bros. Wii . It introduces the Ice Flower and Piranha Plants , and is full of moving crystal blocks and Warp Pipes . ",
-            "setting": [],
+            "world": "World 1 (Grassy)",
+            "layout_description": "The first underground level of New Super Mario Bros. Wii full of purple crystals. It introduces the Ice Flower and Piranha Plants , and is full of moving crystal blocks and Warp Pipes . You use the crystals to jump over pits.",
+            "setting": ["Underground", "Crystal"],
             "enemies": [
                 "Goomba",
                 "Green Koopa Troopa",
                 "Piranha Plant"
             ],
-            "obstacles": [],
+            "obstacles": ["Shifting Crystals", "Pits", "Warp Pipes"],
             "boss": ""
         },
         "output": {
@@ -9587,8 +9569,8 @@
             "link": "https://mario.wiki/World_1-3_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This level introduces Yoshi , Venus Fire Traps and the only appearance of Hammer Bros . ",
+            "world": "World 1 (Grassy)",
+            "layout_description": "This level introduces Yoshi , Venus Fire Traps and Hammer Bros . There are many bushes with fruits that Yoshi can eat. There are simple grassy hills and caves to navigate through.",
             "setting": [],
             "enemies": [
                 "Goomba",
@@ -9597,7 +9579,7 @@
                 "Venus Fire Trap",
                 "Hammer Bro"
             ],
-            "obstacles": [],
+            "obstacles": ["Yoshi"],
             "boss": ""
         },
         "output": {
@@ -9607,13 +9589,13 @@
     {
         "meta": {
             "game": "New Super Mario Bros. Wii",
-            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "level_code": "World 1-Cannon",
             "link": "https://mario.wiki/Warp_Cannon"
         },
         "input": {
-            "world": "Launches the player character to another area, usually anotherworld",
-            "layout_description": "The Warp Cannon of World 1, which leads directly to World 5 . It is unlocked by finding the hidden goal in World 1-3.",
-            "setting": [],
+            "world": "World 1 (Grassy)",
+            "layout_description": "The Warp Cannon of World 1, which leads directly to World 5 (Jungle world) . It is unlocked by finding the hidden goal in World 1-3. There is a cannon on a grassy hill.",
+            "setting": ["Grassy"],
             "enemies": [],
             "obstacles": [],
             "boss": ""
@@ -9629,14 +9611,14 @@
             "link": "https://mario.wiki/World_1-Tower_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "The first tower level of New Super Mario Bros. Wii . It has many moving stone blocks and Pendulum Platforms and introduces Dry Bones . The boss is Larry Koopa . ",
-            "setting": [],
+            "world": "World 1 (Grassy)",
+            "layout_description": "The first tower level of New Super Mario Bros. Wii . It has many moving stone blocks and Pendulum Platforms and introduces Dry Bones . The stone blocks shift and threaten to crush Mario. The boss is Larry Koopa . ",
+            "setting": ["Tower"],
             "enemies": [
                 "Dry Bones"
             ],
-            "obstacles": [],
-            "boss": ""
+            "obstacles": ["Stone Blocks", "Pendulum Platforms"],
+            "boss": "Larry Koopa"
         },
         "output": {
             "name": "World 1-"
@@ -9649,12 +9631,10 @@
             "link": "https://mario.wiki/World_1-4_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "The first underwater level of New Super Mario Bros. Wii . It introduces Cheep Cheeps , Deep-Cheeps , Eep Cheeps , and Clampys . ",
-            "setting": [],
+            "world": "World 1 (Grassy)",
+            "layout_description": "The first underwater level of New Super Mario Bros. Wii . It introduces Cheep Cheeps , Deep-Cheeps , Eep Cheeps , and Clampys . You swim through the water getting pushed by geyser pipes and avoiding Cheep Cheeps.",
+            "setting": ["Underwater"],
             "enemies": [
-                "Goomba",
-                "Koopa Paratroopa",
                 "Cheep Cheep",
                 "Eep Cheep",
                 "Deep-Cheep",
@@ -9662,9 +9642,11 @@
                 "Mega Cheep-Cheep",
                 "Mega Deep-Cheep",
                 "Urchin",
-                "Clampy"
+                "Clampy",
+                "Goomba",
+                "Koopa Paratroopa"
             ],
-            "obstacles": [],
+            "obstacles": ["Geyser Pipe", "Water"],
             "boss": ""
         },
         "output": {
@@ -9678,14 +9660,14 @@
             "link": "https://mario.wiki/World_1-5_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "The first athletic level of New Super Mario Bros. Wii . It contains regular and screw-controlled mushrooms, as well as spinning blocks. This level introduces Koopa Paratroopas . ",
-            "setting": [],
+            "world": "World 1 (Grassy)",
+            "layout_description": "This level is high in the sky with the mushrooms. It contains regular and screw-controlled mushrooms, as well as spinning blocks. This level introduces Koopa Paratroopas . ",
+            "setting": ["Mushrooms", "Sky"],
             "enemies": [
-                "Koopa Troopa",
-                "Koopa Paratroopa"
+                "Koopa Paratroopa",
+                "Koopa Troopa"
             ],
-            "obstacles": [],
+            "obstacles": ["Screwshrooms", "Spinning Blocks", "Propeller Suit"],
             "boss": ""
         },
         "output": {
@@ -9699,16 +9681,16 @@
             "link": "https://mario.wiki/World_1-6_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "A grassland level containing many rolling hills. Koopa Troopas and Koopa Paratroopas are the principal enemies. ",
-            "setting": [],
+            "world": "World 1 (Grassy)",
+            "layout_description": "A grassland level containing many rolling hills. Koopa Troopas and Koopa Paratroopas are the principal enemies. There are many bouncing Paratroopas over the rolling hills.",
+            "setting": ["Grassy", "Hills"],
             "enemies": [
                 "Goomba",
                 "Koopa Troopa",
                 "Koopa Paratroopa",
                 "Piranha Plant"
             ],
-            "obstacles": [],
+            "obstacles": ["Rolling Hills", "Pits", "Warp Pipes"],
             "boss": ""
         },
         "output": {
@@ -9722,16 +9704,16 @@
             "link": "https://mario.wiki/World_1-Castle_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "The first castle level of New Super Mario Bros. Wii . It contains lava pools, Thwomps and giant spinning gears. Its boss is Larry Koopa again. ",
-            "setting": [],
+            "world": "World 1 (Grassy)",
+            "layout_description": "The first castle level of New Super Mario Bros. Wii . It contains lava pools, Thwomps and giant spinning gears. Mario jumps across the giant gears to avoid the lava. Its boss is Larry Koopa with a room with purple pillars that rise and fall. ",
+            "setting": ["Castle"],
             "enemies": [
                 "Dry Bones",
                 "Thwomp",
                 "Big Thwomp"
             ],
-            "obstacles": [],
-            "boss": ""
+            "obstacles": ["Giant Cogs", "Lava"],
+            "boss": "Larry Koopa"
         },
         "output": {
             "name": "World 1-"
@@ -9744,9 +9726,9 @@
             "link": "https://mario.wiki/World_2-1_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This level takes place in the desert and is the first level with sand geysers . ",
-            "setting": [],
+            "world": "World 2 (Desert)",
+            "layout_description": "This level takes place in the desert and is the first level with sand geysers . There are pyramids and cacti in the background, and sandstone pillars that Mario jumps across between the sand geysers.",
+            "setting": ["Desert"],
             "enemies": [
                 "Boomerang Bro",
                 "Goomba",
@@ -9754,7 +9736,7 @@
                 "Koopa Troopa",
                 "Piranha Plant"
             ],
-            "obstacles": [],
+            "obstacles": ["Sand Geyser"],
             "boss": ""
         },
         "output": {
@@ -9768,16 +9750,16 @@
             "link": "https://mario.wiki/World_2-2_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This level is filled with barrels and Spikes . There are areas with platforms infested with Koopas and Spikes. ",
-            "setting": [],
+            "world": "World 2 (Desert)",
+            "layout_description": "This level is filled with barrels and Spikes . There are areas with platforms infested with Koopas and Spikes. This is very sandy with palm trees. There is a giant sandpit full of blue coins.",
+            "setting": ["Desert"],
             "enemies": [
-                "Goomba",
-                "Koopa Troopa",
                 "Spike",
-                "Spiny"
+                "Spiny",
+                "Goomba",
+                "Koopa Troopa"
             ],
-            "obstacles": [],
+            "obstacles": ["Quicksand"],
             "boss": ""
         },
         "output": {
@@ -9791,9 +9773,9 @@
             "link": "https://mario.wiki/World_2-3_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This level is a pitch dark cave, which is dimly lit by lanterns. Fire Bros ., Fire Snakes , Venus Fire Traps and Spike Tops are common enemies in this level. ",
-            "setting": [],
+            "world": "World 2 (Desert)",
+            "layout_description": "This level is a pitch dark cave made of sandstone, which is dimly lit by lanterns. Fire Bros ., Fire Snakes , Venus Fire Traps and Spike Tops are common enemies in this level. ",
+            "setting": ["Cave", "Underground", "Dark"],
             "enemies": [
                 "Fire Bro",
                 "Fire Snake",
@@ -9803,7 +9785,7 @@
                 "Spiny",
                 "Venus Fire Trap"
             ],
-            "obstacles": [],
+            "obstacles": ["Dark", "Warp Pipes", "Pits"],
             "boss": ""
         },
         "output": {
@@ -9817,15 +9799,14 @@
             "link": "https://mario.wiki/World_2-Tower_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
+            "world": "World 2 (Desert)",
             "layout_description": "This tower features metallic fences that the player can cling on. The player will need to avoid spells from Roy coming from above. ",
-            "setting": [],
+            "setting": ["Tower"],
             "enemies": [
-                "",
-                ""
+                "Dry Bones"
             ],
-            "obstacles": [],
-            "boss": ""
+            "obstacles": ["Metal Fences", "Spikes"],
+            "boss": "Roy Koopa"
         },
         "output": {
             "name": "World 2-"
@@ -9838,15 +9819,15 @@
             "link": "https://mario.wiki/World_2-4_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "Every few seconds, Wind blows in the level, forcing the player to the right. ",
-            "setting": [],
+            "world": "World 2 (Desert)",
+            "layout_description": "A level in a sandy plain. Every few seconds, Wind blows in the level, forcing the player to the right. There are rope ladders to climb and large pits for the player to avoid.",
+            "setting": ["Desert", "Windy"],
             "enemies": [
                 "Koopa Troopa",
                 "Piranha Plant",
                 "Spike Top"
             ],
-            "obstacles": [],
+            "obstacles": ["Wind"],
             "boss": ""
         },
         "output": {
@@ -9860,21 +9841,21 @@
             "link": "https://mario.wiki/World_2-5_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This level has many Pokeys as well as some Lakitus , and there's also a Yoshi in this level. ",
-            "setting": [],
+            "world": "World 2 (Desert)",
+            "layout_description": "This level is in a sandy desert full of quicksand. It has many Pokeys as well as some Lakitus , and there's also a Yoshi in this level. There are also many sandy blocks that Pokeys patrol.",
+            "setting": ["Desert"],
             "enemies": [
-                "Koopa Paratroopa",
-                "Lakitus",
-                "Piranha Plants",
                 "Pokeys",
+                "Lakitus",
+                "Koopa Paratroopa",
+                "Piranha Plants",
                 "Koopa Paratroopa",
                 "Koopa Troopa",
                 "Spinies",
                 "Super Piranha Plants",
                 "Venus Fire Traps"
             ],
-            "obstacles": [],
+            "obstacles": ["Quicksand"],
             "boss": ""
         },
         "output": {
@@ -9888,16 +9869,16 @@
             "link": "https://mario.wiki/World_2-6_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This is a mushroom level that mostly has moving coins and blocks. ",
-            "setting": [],
+            "world": "World 2 (Desert)",
+            "layout_description": "This is a mushroom level over the desert in the sky that mostly has moving coins and spinning blocks. ",
+            "setting": ["Desert", "Sky", "Mushrooms"],
             "enemies": [
                 "Flame Chomp",
                 "Koopa Paratroopa",
                 "Piranha Plant",
                 "Koopa Troopa"
             ],
-            "obstacles": [],
+            "obstacles": ["Spinning Blocks", "Floating Platforms", "Pits"],
             "boss": ""
         },
         "output": {
@@ -9907,16 +9888,16 @@
     {
         "meta": {
             "game": "New Super Mario Bros. Wii",
-            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "level_code": "World 2-Cannon",
             "link": "https://mario.wiki/Warp_Cannon"
         },
         "input": {
-            "world": "Launches the player character to another area, usually anotherworld",
-            "layout_description": "The Warp Cannon level of World 2. It shoots the player straight into World 5 .",
+            "world": "World 2 (Desert)",
+            "layout_description": "The Warp Cannon level of World 2. It shoots the player straight into World 5 (Jungle). Cannon is found in the middle of a sandy plain.",
             "setting": [],
             "enemies": [],
             "obstacles": [],
-            "boss": ""
+            "boss": "Roy Koopa"
         },
         "output": {
             "name": ""
@@ -9929,17 +9910,16 @@
             "link": "https://mario.wiki/World_2-Castle_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This castle is filled with lava pits, and three way corridors, of which only one is the correct path. The boss is Roy Koopa . ",
-            "setting": [],
+            "world": "World 2 (Desert)",
+            "layout_description": "This castle is filled with lava pits, and three way corridors, of which only one is the correct path - designed to confuse the player. It is full of Dry Bones and Lava Bubbles, as well as brick block bridges over lava. The boss is Roy Koopa who hides in pipes during your fight. ",
+            "setting": ["Castle"],
             "enemies": [
                 "Dry Bones",
                 "Lava Bubble",
-                "Piranha Plant",
-                "Roy Koopa"
+                "Piranha Plant"
             ],
-            "obstacles": [],
-            "boss": ""
+            "obstacles": ["Pathways", "Lava"],
+            "boss": "Roy Koopa"
         },
         "output": {
             "name": "World 2-"
@@ -9952,16 +9932,16 @@
             "link": "https://mario.wiki/World_3-1_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "The level starts in a snowy ground with Cooligans sliding in Mario's direction. ",
-            "setting": [],
+            "world": "World 3 (Snowy)",
+            "layout_description": "A snow level in a forest. The level starts in a snowy ground with Cooligans sliding in Mario's direction. It is full of Cooligans and many icy routes and paths. It introduces the penguin suit, allowing the player to slide on the ice. ",
+            "setting": ["Snowy", "Ice"],
             "enemies": [
                 "Cooligan",
                 "Koopa Paratroopa",
                 "Koopa Troopa",
                 "Piranha Plant"
             ],
-            "obstacles": [],
+            "obstacles": ["Ice", "Pits"],
             "boss": ""
         },
         "output": {
@@ -9975,17 +9955,16 @@
             "link": "https://mario.wiki/World_3-2_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This level marks the first appearance of Ice Bros . and Bullet Bills in the game. ",
-            "setting": [],
+            "world": "World 3 (Snowy)",
+            "layout_description": "This level takes place in snowy plains with some pretty pink trees. This level marks the first appearance of Ice Bros and Bullet Bills in the game. There is a Yoshi that can be found in the level.",
+            "setting": ["Snowy", "Forest"],
             "enemies": [
-                "Bill Blaster",
                 "Bullet Bill",
                 "Goomba",
                 "Koopa Troopa",
                 "Ice Bro"
             ],
-            "obstacles": [],
+            "obstacles": ["Moving Platform", "Pits"],
             "boss": ""
         },
         "output": {
@@ -9999,14 +9978,14 @@
             "link": "https://mario.wiki/World_3-3_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
+            "world": "World 3 (Snowy)",
             "layout_description": "This level is an icy cave level with three parts. There are floating platforms, falling Icicles , and giant falling icicles that Mario can walk on. ",
-            "setting": [],
+            "setting": ["Underground", "Ice", "Cave"],
             "enemies": [
                 "Goomba",
                 "Ice Bro"
             ],
-            "obstacles": [],
+            "obstacles": ["Icicle", "Huge Icicle", "Water", "Floating Platforms"],
             "boss": ""
         },
         "output": {
@@ -10020,15 +9999,15 @@
             "link": "https://mario.wiki/World_3-Ghost_House_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This is the first Ghost House in the game. Big Boos , smaller Boos , and possessed furniture are the main obstacles in this level. ",
-            "setting": [],
+            "world": "World 3 (Snowy)",
+            "layout_description": "This is the first Ghost House in the game. Big Boos , smaller Boos , and possessed furniture are the main obstacles in this level. There are many poles to climb, and then falling platforms to drop down on.",
+            "setting": ["Ghost House"],
             "enemies": [
                 "Big Boos",
                 "Boos",
                 "Ghost Vase"
             ],
-            "obstacles": [],
+            "obstacles": ["Poles", "Falling Platforms"],
             "boss": ""
         },
         "output": {
@@ -10038,13 +10017,13 @@
     {
         "meta": {
             "game": "New Super Mario Bros. Wii",
-            "level_code": "A Warp Cannon inWorld 1ofNew Super Mario Bros. Wii",
+            "level_code": "World 3-Cannon",
             "link": "https://mario.wiki/Warp_Cannon"
         },
         "input": {
-            "world": "Launches the player character to another area, usually anotherworld",
-            "layout_description": "The Warp Cannon level of World 3. It shoots the player straight into World 6 .",
-            "setting": [],
+            "world": "World 3 (Snowy)",
+            "layout_description": "The Warp Cannon level of World 3. It shoots the player straight into World 6 (Mountain) .",
+            "setting": ["Snowy"],
             "enemies": [],
             "obstacles": [],
             "boss": ""
@@ -10060,18 +10039,17 @@
             "link": "https://mario.wiki/World_3-Tower_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "This level features brightly colored rotating blocks that must be used to climb to higher locations. This is also the only level to feature Amps . ",
-            "setting": [],
+            "world": "World 3 (Snowy)",
+            "layout_description": "This tower level features brightly colored rotating blocks that must be used to climb to higher locations and a large floating platform that brings you up. This is also the only level to feature Amps . Many dry bones jump on the platform as spike balls drop on you.",
+            "setting": ["Tower"],
             "enemies": [
                 "Amp",
                 "Ball 'n' Chain",
                 "Dry Bones",
-                "Spiked ball",
-                "Lemmy Koopa"
+                "Spiked ball"
             ],
-            "obstacles": [],
-            "boss": ""
+            "obstacles": ["Floating Platforms"],
+            "boss": "Lemmy Koopa"
         },
         "output": {
             "name": "World 3-"
@@ -10084,16 +10062,16 @@
             "link": "https://mario.wiki/World_3-4_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "There are hidden blocks in this level which will turn into solid red blocks when the ! Switch is activated further in the game. ",
-            "setting": [],
+            "world": "World 3 (Snowy)",
+            "layout_description": "In this ice covered level, there are hidden blocks in this level which will turn into solid red blocks when the ! Switch is activated further in the game. Fire Bros. jump across the ice.",
+            "setting": ["Ice", "Snowy"],
             "enemies": [
                 "Fire Bro",
                 "Goomba",
                 "Koopa Paratroopa",
                 "Koopa Troopa"
             ],
-            "obstacles": [],
+            "obstacles": ["Pits", "!-Switches"],
             "boss": ""
         },
         "output": {
@@ -10107,15 +10085,15 @@
             "link": "https://mario.wiki/World_3-5_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
+            "world": "World 3 (Snowy)",
             "layout_description": "This is a vertical level, and will only autoscroll when all players step on the rotating pink block. ",
-            "setting": [],
+            "setting": ["Sky", "Mushrooms", "Ice"],
             "enemies": [
                 "Koopa Paratroopa",
                 "Koopa Troopa",
                 "Venus Fire Trap"
             ],
-            "obstacles": [],
+            "obstacles": ["Spinning Blocks", "Ice Blocks"],
             "boss": ""
         },
         "output": {
@@ -10129,16 +10107,15 @@
             "link": "https://mario.wiki/World_3-Castle_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
-            "layout_description": "Lemmy Koopa 's castle is riddled with giant falling icicles and frozen floors making timed jumps difficult. The player must move on Ice Snake Blocks throughout the level. ",
-            "setting": [],
+            "world": "World 3 (Snowy)",
+            "layout_description": "Lemmy Koopa 's castle is riddled with giant falling icicles and frozen floors making timed jumps difficult. The player must move on slippery Ice Snake Blocks throughout the level. Lemmy throws bouncy balls as you cross the icy gaps.",
+            "setting": ["Castle", "Ice"],
             "enemies": [
                 "Bob-ombs",
-                "Dry Bones",
-                "Lemmy Koopa"
+                "Dry Bones"
             ],
-            "obstacles": [],
-            "boss": ""
+            "obstacles": ["Snake Block", "Ice", "Icicle", "Huge Icicle", "Bouncy Balls"],
+            "boss": "Lemmy Koopa"
         },
         "output": {
             "name": "World 3-"
@@ -10151,7 +10128,7 @@
             "link": "https://mario.wiki/World_4-1_(New_Super_Mario_Bros._Wii)"
         },
         "input": {
-            "world": "New Super Mario Bros. Wii",
+            "world": "World 4 (Tropical)",
             "layout_description": "A level introducing Big Urchins that is mostly in water. ",
             "setting": [],
             "enemies": [
