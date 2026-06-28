@@ -1,0 +1,3152 @@
+[
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 1-1",
+            "link": "https://mario.wiki/Super_Bell_Hill"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "A beginning course with grassy fields, Beanpoles, small ponds, and white wooden bridges. There are also Super Bell trees. The Super Bell is introduced in this level. Also has a mega mushroom at the end.",
+            "setting": [
+                "Grassy",
+                "Hills"
+            ],
+            "enemies": [
+                "Goomba",
+                "Cat Goomba"
+            ],
+            "obstacles": [
+                "Crates"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Super Bell Hill"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 1-2",
+            "link": "https://mario.wiki/Koopa_Troopa_Cave"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "An underground cave course with lamps that players can touch to reveal hidden coins. The stage contains Koopa Troopas and introduces the Fire Flower.",
+            "setting": [
+                "Underground",
+                "Cave"
+            ],
+            "enemies": [
+                "Koopa Troopa",
+                "Unshelled Koopa",
+                "Goomba",
+                "Mini Goomba",
+                "Goomba Tower"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Koopa Troopa Cave"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 1-A",
+            "link": "https://mario.wiki/Chargin%27_Chuck_Blockade"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "A small fortress arena with two Chargin' Chucks for the players to defeat.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Chargin' Chuck"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Chargin' Chuck Blockade"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 1-3",
+            "link": "https://mario.wiki/Mount_Beanpole"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "A tall, grassy mountain course with Beanpoles for the players to climb on, and colored blocks similar to those from Super Mario Bros. 3 .",
+            "setting": [
+                "Grassy",
+                "Mountain"
+            ],
+            "enemies": [
+                "Cat Goomba",
+                "Piranha Plant",
+                "Mega Piranha Plant"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mount Beanpole"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 1-4",
+            "link": "https://mario.wiki/Plessie%27s_Plunging_Falls"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "A tropical course containing a large river that can only be crossed with the new creature, Plessie . There are plenty of waterfalls throughout the course as well.",
+            "setting": [
+                "Water",
+                "Tropical",
+                "River"
+            ],
+            "enemies": [
+                "Splounder"
+            ],
+            "obstacles": [
+                "Plessie"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Plessie's Plunging Falls"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 1-5",
+            "link": "https://mario.wiki/Switch_Scramble_Circus"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "A festival circus tent course with Switch Panels . To open the curtains you must step on all the switch panels.",
+            "setting": [
+                "Circus"
+            ],
+            "enemies": [
+                "Biddybud",
+                "Stingby",
+                "Para-Biddybud",
+                "Magikoopa"
+            ],
+            "obstacles": [
+                "Switch Panels"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Switch Scramble Circus"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 1-Castle",
+            "link": "https://mario.wiki/Bowser%27s_Highway_Showdown"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "The first Castle course, with Bowser in his car on a large road over lava . It requires ten Green Stars to unlock, and must be unlocked to progress.",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Goomba",
+                "Goomba Tower",
+                "Thwomp",
+                "Kick Bomb",
+                "Bowser"
+            ],
+            "obstacles": [],
+            "boss": "Bowser"
+        },
+        "output": {
+            "name": "Bowser's Highway Showdown"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 1-Captain Toad",
+            "link": "https://mario.wiki/Captain_Toad_Goes_Forth"
+        },
+        "input": {
+            "world": "World 1",
+            "layout_description": "The first Captain Toad's Adventures level, which takes place in a grassy plain and contains Biddybuds and moving platforms.",
+            "setting": [
+                "Grassy",
+                "Plains"
+            ],
+            "enemies": [
+                "Biddybud"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Captain Toad Goes Forth"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 2-1",
+            "link": "https://mario.wiki/Conkdor_Canyon"
+        },
+        "input": {
+            "world": "World 2",
+            "layout_description": "A desert level with Conkdors . It takes place on high mountainous desert ruins, with high up bridges.",
+            "setting": [
+                "Desert",
+                "Ruins",
+                "Mountain"
+            ],
+            "enemies": [
+                "Conkdor",
+                "Stingby"
+            ],
+            "obstacles": [
+                "Bridges",
+                "Shifting Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Conkdor Canyon"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 2-2",
+            "link": "https://mario.wiki/Puffprod_Peaks"
+        },
+        "input": {
+            "world": "World 2",
+            "layout_description": "A cosmic level high in the sky with Touchstones . It requires 15 Green Stars to unlock.",
+            "setting": [
+                "Cosmic",
+                "Pillow"
+            ],
+            "enemies": [
+                "Piranha Plant",
+                "Galoomba",
+                "Mini Goomba",
+                "Coin Coffer"
+            ],
+            "obstacles": [
+                "Touchstone"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Puffprod Peaks"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 2-3",
+            "link": "https://mario.wiki/Shadow-Play_Alley"
+        },
+        "input": {
+            "world": "World 2",
+            "layout_description": "An underground level that introduces shadow gameplay and the Potted Piranha Plant .",
+            "setting": [
+                "Underground",
+                "Brick",
+                "Shadow"
+            ],
+            "enemies": [
+                "Piranha Plant",
+                "Fuzzy",
+                "Mega Piranha Plant",
+                "Fire Piranha Plant",
+                "Blurker",
+                "Mini Goomba"
+            ],
+            "obstacles": [
+                "Shadow"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Shadow-Play Alley"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 2-4",
+            "link": "https://mario.wiki/Really_Rolling_Hills"
+        },
+        "input": {
+            "world": "World 2",
+            "layout_description": "A grassy level with rolling hills, colored blocks, Galoombas and Skipsqueaks . It also contains a Mario switch that yields a stamp once Mario presses it.",
+            "setting": [
+                "Grassy",
+                "Plains"
+            ],
+            "enemies": [
+                "Skipsqueak",
+                "Galoomba",
+                "Mini Goomba",
+                "Spiny Skipsqueak",
+                "Goomba"
+            ],
+            "obstacles": [
+                "Rolling Hills"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Really Rolling Hills"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 2-A",
+            "link": "https://mario.wiki/Big_Galoomba_Blockade"
+        },
+        "input": {
+            "world": "World 2",
+            "layout_description": "A small rock arena with Big Galoombas surrounded by lava.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Big Galoomba"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Big Galoomba Blockade"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 2-5",
+            "link": "https://mario.wiki/Double_Cherry_Pass"
+        },
+        "input": {
+            "world": "World 2",
+            "layout_description": "A pink grassy level that introduces the Double Cherry and the Blocksteppers .",
+            "setting": [
+                "Pink",
+                "Cliffs"
+            ],
+            "enemies": [
+                "Galoomba",
+                "Blockstepper",
+                "Fire Bro"
+            ],
+            "obstacles": [
+                "Double Cherry"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Double Cherry Pass"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 2-Tank",
+            "link": "https://mario.wiki/Bowser%27s_Bullet_Bill_Brigade"
+        },
+        "input": {
+            "world": "World 2",
+            "layout_description": "An auto-scrolling tank level located on a long trail, that also introduces Cannon Boxes and Boom Boom .",
+            "setting": [
+                "Castle",
+                "Bridge",
+                "Militant"
+            ],
+            "enemies": [
+                "Blockstepper",
+                "Bullet Bill",
+                "Cannon",
+                "Fire Piranha Plant",
+                "Boom Boom"
+            ],
+            "obstacles": [
+                "Tanks"
+            ],
+            "boss": "Boom Boom"
+        },
+        "output": {
+            "name": "Bowser's Bullet Bill Brigade"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 2-Mystery House",
+            "link": "https://mario.wiki/Mystery_House_Melee"
+        },
+        "input": {
+            "world": "World 2",
+            "layout_description": "The first Mystery House where the player has to beat five Mystery Box levels on time in order to continue.",
+            "setting": [
+                "Mystery Box"
+            ],
+            "enemies": [
+                "Galoomba",
+                "Koopa Troopa",
+                "Unshelled Koopa",
+                "Cat Goomba",
+                "Conkdor",
+                "Fire Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mystery House Melee"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "3-1",
+            "link": "https://mario.wiki/Snowball_Park"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "A snow/ice level with snowballs , Ice Skates , and a Propeller Box . This level introduces the Super Leaf . Lots of ice to skate upon.",
+            "setting": [
+                "Snowy",
+                "Hills"
+            ],
+            "enemies": [
+                "Snow Pokey",
+                "Para-Biddybud",
+                "Skating Goomba",
+                "Mini Goomba",
+                "Biddybud"
+            ],
+            "obstacles": [
+                "Ice Skate"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Snowball Park"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 3-2",
+            "link": "https://mario.wiki/Chain-Link_Charge"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "An auto-scrolling sky level with moving fences and donut blocks. This level requires 30 Green Stars to unlock. You climb along the fences to avoid falling in the void.",
+            "setting": [
+                "Sky",
+                "Sky Islands",
+                "Fences"
+            ],
+            "enemies": [
+                "Biddybud",
+                "Para-Biddybud"
+            ],
+            "obstacles": [
+                "Fence Grating",
+                "Donut Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Chain-Link Charge"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "3-3",
+            "link": "https://mario.wiki/Shifty_Boo_Mansion"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "The first Ghost House level that features moving staircases and Boos .",
+            "setting": [
+                "Ghost House",
+                "Haunted"
+            ],
+            "enemies": [
+                "Boo",
+                "Big Boo",
+                "Peepa"
+            ],
+            "obstacles": [
+                "Moving Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Shifty Boo Mansion"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "3-4",
+            "link": "https://mario.wiki/Pretty_Plaza_Panic"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "A bright pink grass level with only 100 seconds to reach the Goal Pole . There are clouds and ornate architecture for fences and platforms.",
+            "setting": [
+                "Pink",
+                "Grassy"
+            ],
+            "enemies": [
+                "Goomba",
+                "Mini Goomba",
+                "Piranha Plant"
+            ],
+            "obstacles": [
+                "Spinning Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Pretty Plaza Panic"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 3-A",
+            "link": "https://mario.wiki/Magikoopa_Blockade"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "A small fortress arena with three Magikoopas for Mario to defeat.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Magikoopa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Magikoopa Blockade"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "3-5",
+            "link": "https://mario.wiki/Pipeline_Lagoon"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "An underwater level with Cheep Cheeps and Porcupuffers . This is also the second appearance of the Cannon Box . There is a sunken ship at the bottom, and a cute beach at the start and end.",
+            "setting": [
+                "Underwater",
+                "Tropical"
+            ],
+            "enemies": [
+                "Innertube Goomba",
+                "Cheep Cheep",
+                "Porcupuffer",
+                "Coin Coffer"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Pipeline Lagoon"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "3-6",
+            "link": "https://mario.wiki/Mount_Must_Dash"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "A Super Mario Kart -styled mountain level with Dash Panels and Spring Platforms .",
+            "setting": [
+                "Mario Kart",
+                "Hills"
+            ],
+            "enemies": [
+                "Piranha Plant",
+                "Para-Biddybud"
+            ],
+            "obstacles": [
+                "Dash Panels"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mount Must Dash"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "3-7",
+            "link": "https://mario.wiki/Switchboard_Falls"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "An autumn-themed forest level with Switchboards . There are large paths, mountains and waterfalls to navigate the switchboards through.",
+            "setting": [
+                "Autumn",
+                "Waterfall",
+                "Mountain"
+            ],
+            "enemies": [
+                "Stingby",
+                "Fizzlit",
+                "Fuzzler",
+                "Coin Coffer"
+            ],
+            "obstacles": [
+                "Switchboard"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Switchboard Falls"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 3-Train",
+            "link": "https://mario.wiki/The_Bullet_Bill_Express"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "A boss level that takes place on a Bowser train. This level introduces Pom Pom .",
+            "setting": [
+                "Bridge",
+                "Train"
+            ],
+            "enemies": [
+                "Bullet Bill",
+                "Flopter",
+                "Cat Bullet Bill",
+                "Cat Banzai Bill",
+                "Goomba",
+                "Goomba Tower",
+                "Fire Bro",
+                "Pom Pom"
+            ],
+            "obstacles": [],
+            "boss": "Pom Pom"
+        },
+        "output": {
+            "name": "The Bullet Bill Express"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 3-B",
+            "link": "https://mario.wiki/A_Banquet_with_Hisstocrat"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "A circus tent-like boss arena featuring Hisstocrat and his minions.",
+            "setting": [
+                "Circus",
+                "Sand"
+            ],
+            "enemies": [
+                "Hisstocrat"
+            ],
+            "obstacles": [],
+            "boss": "Hisstocrat"
+        },
+        "output": {
+            "name": "A Banquet with Hisstocrat"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 3-Captain Toad",
+            "link": "https://mario.wiki/Captain_Toad_Makes_a_Splash"
+        },
+        "input": {
+            "world": "World 3",
+            "layout_description": "The second Captain Toad level featuring a water section and a Rammerhead .",
+            "setting": [
+                "Water",
+                "Town"
+            ],
+            "enemies": [
+                "Rammerhead"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Captain Toad Makes a Splash"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "4-1",
+            "link": "https://mario.wiki/Ant_Trooper_Hill"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "A canyon level, where Ant Troopers make their debut.",
+            "setting": [
+                "Desert",
+                "Mountain"
+            ],
+            "enemies": [
+                "Ant Trooper",
+                "Horned Ant Trooper",
+                "Big Ant Trooper"
+            ],
+            "obstacles": [
+                "Spikes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Ant Trooper Hill"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "4-2",
+            "link": "https://mario.wiki/Piranha_Creeper_Creek"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "A forest level with toxic water and many Piranha Creepers. You jump across wooden platforms.",
+            "setting": [
+                "Jungle",
+                "Poison"
+            ],
+            "enemies": [
+                "Piranha Creeper",
+                "Stingby"
+            ],
+            "obstacles": [
+                "Poison"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Piranha Creeper Creek"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 4-A",
+            "link": "https://mario.wiki/Brolder_Blockade"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "An Enemy Blockade with three Brolders on a small, rock-like platform surrounded by lava.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Brolder"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Brolder Blockade"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 4-3",
+            "link": "https://mario.wiki/Beep_Block_Skyway"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "A technologic-style course located in space with many Beep Blocks .",
+            "setting": [
+                "Cosmic"
+            ],
+            "enemies": [
+                "Boomerang Bro"
+            ],
+            "obstacles": [
+                "Beep Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Beep Block Skyway"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 4-4",
+            "link": "https://mario.wiki/Big_Bounce_Byway"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "A grass and athletic level with orange trampolines and hordes of Para-Biddybuds .",
+            "setting": [
+                "Grassy",
+                "Sky",
+                "Mountain"
+            ],
+            "enemies": [
+                "Biddybud",
+                "Para-Biddybud",
+                "Spiny",
+                "Hop-Chop"
+            ],
+            "obstacles": [
+                "Bounce Mushrooms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Big Bounce Byway"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "4-5",
+            "link": "https://mario.wiki/Spike%27s_Lost_City"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "A ruins level with Spikes and Galoombas . An ancient desert city full of Spikes and swinging platforms.",
+            "setting": [
+                "Desert",
+                "Ruins"
+            ],
+            "enemies": [
+                "Spike",
+                "Galoomba"
+            ],
+            "obstacles": [
+                "Swinging Platforms",
+                "Spike Balls"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spike's Lost City"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 4-B",
+            "link": "https://mario.wiki/Fire_Bros._Hideout_1"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "The first Fire Bros. Hideout, featuring three of them in a small fortress arena. There are 100 seconds on the timer.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Fire Bros."
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fire Bros. Hideout #1"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 4-Castle",
+            "link": "https://mario.wiki/Lava_Rock_Lair"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "A castle course full of lava. The boss is Boss Brolder . 50 Green Stars are required to open this level.",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Brolder",
+                "Goomba",
+                "Goomba Tower",
+                "Lava Bubble",
+                "Boss Brolder"
+            ],
+            "obstacles": [],
+            "boss": "Boss Brolder"
+        },
+        "output": {
+            "name": "Lava Rock Lair"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 4-",
+            "link": "https://mario.wiki/Mystery_House_Mad_Dash"
+        },
+        "input": {
+            "world": "World 4",
+            "layout_description": "The second Mystery House containing ten Green Stars .",
+            "setting": [
+                "Mystery Box"
+            ],
+            "enemies": [
+                "Horned Ant Trooper",
+                "Banzai Bill",
+                "Spike",
+                "Thwomp",
+                "Goomba",
+                "Mini Goomba",
+                "Cat Bullet Bill"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mystery House Mad Dash"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-1",
+            "link": "https://mario.wiki/Sunshine_Seaside"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "A beach level with Koopa Troopas , where five Key Coins are required to proceed to a water section with Plessie .",
+            "setting": [
+                "Beach",
+                "Tropical",
+                "Water"
+            ],
+            "enemies": [
+                "Koopa Troopa",
+                "Unshelled Koopa",
+                "Biddybud",
+                "Para-Biddybud",
+                "Chargin' Chuck",
+                "Mini Goomba",
+                "Splounder",
+                "Coin Coffer"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Sunshine Seaside"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-2",
+            "link": "https://mario.wiki/Tricky_Trapeze_Theater"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "A circus level with trapezes and a Mega Mushroom section.",
+            "setting": [
+                "Circus",
+                "Brick"
+            ],
+            "enemies": [
+                "Fizzlit",
+                "Piranha Plant",
+                "Mega Piranha Plant"
+            ],
+            "obstacles": [
+                "Swinging Platforms",
+                "Spike Rollers",
+                "Swinging Ropes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Tricky Trapeze Theater"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-3",
+            "link": "https://mario.wiki/Backstreet_Bustle"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "A very short underground course with blue Lava , Double Cherries , and 100 seconds on the timer. Requires 80 green stars to access. It has a castle-brick design.",
+            "setting": [
+                "Underground",
+                "Brick",
+                "Lava"
+            ],
+            "enemies": [
+                "Fire Piranha Plants",
+                "Goombas",
+                "Lava Bubbles"
+            ],
+            "obstacles": [
+                "Lava"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Backstreet Bustle"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-A",
+            "link": "https://mario.wiki/Chargin%27_Chuck_Blockade_Is_Back"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "An Enemy Battle similar to Chargin' Chuck Blockade , but with five Chargin' Chucks instead of two, while still taking place in the same small fortress arena.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Chargin' Chuck"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Chargin' Chuck Blockade Is Back"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-4",
+            "link": "https://mario.wiki/Sprawling_Savanna"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "A large savanna-themed mountain with Rabbits and Ant Troopers . Very large and open space with a large mountain at the end.",
+            "setting": [
+                "Savanna",
+                "Grassy",
+                "Sunset"
+            ],
+            "enemies": [
+                "Ant Trooper",
+                "Big Ant Trooper",
+                "Fuzzy",
+                "Coin Coffer"
+            ],
+            "obstacles": [
+                "Clear Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Sprawling Savanna"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-5",
+            "link": "https://mario.wiki/Bob-ombs_Below"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "An underground course with Bob-ombs and many POW Blocks .",
+            "setting": [
+                "Brick",
+                "Underground"
+            ],
+            "enemies": [
+                "Bob-omb",
+                "Goomba",
+                "Goomba Tower",
+                "Piranha Plant",
+                "Fire Piranha Plant",
+                "Baddie Box"
+            ],
+            "obstacles": [
+                "POW Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Bob-ombs Below"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-6",
+            "link": "https://mario.wiki/Cakewalk_Flip"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "A cake-themed course with Red-Blue Panels and the occasional Double Cherry .",
+            "setting": [
+                "Dessert",
+                "Castle"
+            ],
+            "enemies": [
+                "Goomba",
+                "Piranha Plant",
+                "Fire Piranha Plant",
+                "Ring Burner"
+            ],
+            "obstacles": [
+                "Double Cherry"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Cakewalk Flip"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-7",
+            "link": "https://mario.wiki/Searchlight_Sneak"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "A fortress level with spotlights, Hop-Chops , and lots of Cat Bullet Bills . If you get spotted by a spotlight, Bullet Bills launch at you.",
+            "setting": [
+                "Castle",
+                "Brick"
+            ],
+            "enemies": [
+                "Cat Bullet Bill",
+                "Hop-Chop",
+                "Goomba"
+            ],
+            "obstacles": [
+                "Spotlights"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Searchlight Sneak"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-B",
+            "link": "https://mario.wiki/Fire_Bros._Hideout_2"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "The second Fire Bros. Hideout in the game, featuring one of them above a Goomba Tower and two rising stone platforms on top of a much larger and flatter rock-like floor surrounded by lava. There are 100 seconds on the timer.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Fire Bros."
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fire Bros. Hideout #2"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-Train",
+            "link": "https://mario.wiki/Coin_Express"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "A Gold Train with a large amount of coins. Accessible by a secret pipe south of King Ka-thunk's Castle. Visible from the northeast corner of World 5. Cannot be played again until 25 more levels are cleared.",
+            "setting": [
+                "Train",
+                "Gold"
+            ],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Coin Express"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-Castle",
+            "link": "https://mario.wiki/King_Ka-thunk%27s_Castle"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "A ruins/temple-styled Castle course with Ka-thunks . The boss is King Ka-thunk .",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Ka-thunk",
+                "Chargin' Chuck",
+                "King Ka-thunk"
+            ],
+            "obstacles": [
+                "king Ka-thunk"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "King Ka-thunk's Castle"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 5-Toad",
+            "link": "https://mario.wiki/Captain_Toad_Plays_Peek-a-Boo"
+        },
+        "input": {
+            "world": "World 5",
+            "layout_description": "The Captain Toad's Adventures course of World 5. It is a haunted level that features Peepas and a Big Boo .",
+            "setting": [
+                "Haunted",
+                "Pillow"
+            ],
+            "enemies": [
+                "Boo",
+                "Peepa",
+                "Big Boo"
+            ],
+            "obstacles": [
+                "Touchstone",
+                "Warp Door"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Captain Toad Plays Peek-a-Boo"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-1",
+            "link": "https://mario.wiki/Clear_Pipe_Cruise"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "A mountain-themed level with many Clear Pipes and Fuzzies .",
+            "setting": [
+                "Clouds",
+                "Cliffs"
+            ],
+            "enemies": [
+                "Fire Piranha Plant",
+                "Piranha Plant",
+                "Fuzzy",
+                "Spike ball"
+            ],
+            "obstacles": [
+                "Clear Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Clear Pipe Cruise"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-2",
+            "link": "https://mario.wiki/Spooky_Seasick_Wreck"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "A level taking place on top of multiple haunted ships with many Bullies and Peepas , and an underwater section.",
+            "setting": [
+                "Haunted",
+                "Shipwreck"
+            ],
+            "enemies": [
+                "Bully",
+                "Boo",
+                "Peepa"
+            ],
+            "obstacles": [
+                "Shifting Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spooky Seasick Wreck"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-3",
+            "link": "https://mario.wiki/Hands-On_Hall"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "An Oriental-styled level featuring the Goomba Mask . Requires 100 Green Stars to unlock.",
+            "setting": [
+                "Oriental"
+            ],
+            "enemies": [
+                "Goomba",
+                "Spike",
+                "Galoomba",
+                "Thwomp",
+                "Coin Coffer"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Hands-On Hall"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "6-4",
+            "link": "https://mario.wiki/Deep_Jungle_Drift"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "A Jungle-themed level with purple, poisonous water and many gates to climb.",
+            "setting": [
+                "Jungle",
+                "Poison"
+            ],
+            "enemies": [
+                "Stingby",
+                "Fire Piranha Plant",
+                "Piranha Creeper"
+            ],
+            "obstacles": [
+                "Fence Grating"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Deep Jungle Drift"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-A",
+            "link": "https://mario.wiki/Prince_Bully_Blockade"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "A small fortress arena with Clear Pipes, where Prince Bully is fought for the first time.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Prince Bully"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Prince Bully Blockade"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-5",
+            "link": "https://mario.wiki/Ty-Foo_Flurries"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "A snow-themed level with many Ty-foos , spikes and ice skates. You must skate along the ice to avoid their wind gusts.",
+            "setting": [
+                "Snowy"
+            ],
+            "enemies": [
+                "Ty-foo",
+                "Walleye",
+                "Skating Goomba",
+                "Mini Goomba"
+            ],
+            "obstacles": [
+                "Ice Skate"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Ty-Foo Flurries"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-6",
+            "link": "https://mario.wiki/Bullet_Bill_Base"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "A mechanical level with many conveyor belts and Bullet Bills . There are some Super Bell Trees dotted about the level too.",
+            "setting": [
+                "Mechanical",
+                "Brick",
+                "Lair"
+            ],
+            "enemies": [
+                "Galoomba",
+                "Bullet Bill",
+                "Banzai Bill"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Bullet Bill Base"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-B",
+            "link": "https://mario.wiki/Fire_Bros._Hideout_3"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "A small fortress arena with one Fire Bro along with two Hammer Bros . and two Boomerang Bros . There are 100 seconds on the timer.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Fire Bro",
+                "Boomerang Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fire Bros. Hideout #3"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-7",
+            "link": "https://mario.wiki/Fuzzy_Time_Mine"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "A vertical, auto-scrolling mine level where a swarm of Fuzzies chases the player.",
+            "setting": [
+                "Underground"
+            ],
+            "enemies": [
+                "Fuzzy Horde",
+                "Goomba",
+                "Parabones"
+            ],
+            "obstacles": [
+                "Cloud Platforms",
+                "Shifting Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fuzzy Time Mine"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-Tank",
+            "link": "https://mario.wiki/Bowser%27s_Bob-omb_Brigade"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "The second Tank course, featuring Boom Boom as a boss again.",
+            "setting": [
+                "Brick",
+                "Bridge"
+            ],
+            "enemies": [
+                "Blockstepper",
+                "Fire Bro",
+                "Hammer Bro",
+                "Baddie Box",
+                "Bob-omb",
+                "Boom Boom"
+            ],
+            "obstacles": [
+                "Tanks"
+            ],
+            "boss": "Boom Boom"
+        },
+        "output": {
+            "name": "Bowser's Bob-omb Brigade"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-C",
+            "link": "https://mario.wiki/Motley_Bossblob%27s_Big_Battle"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "A circus tent level where players battle against Motley Bossblob .",
+            "setting": [
+                "Circus"
+            ],
+            "enemies": [
+                "Motley Bossblob"
+            ],
+            "obstacles": [],
+            "boss": "Motley Bossblob"
+        },
+        "output": {
+            "name": "Motley Bossblob's Big Battle"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World 6-",
+            "link": "https://mario.wiki/Mystery_House_Throwdown"
+        },
+        "input": {
+            "world": "World 6",
+            "layout_description": "The third Mystery House challenge, this time with five rooms where the player has to use baseballs.",
+            "setting": [
+                "Mystery Box"
+            ],
+            "enemies": [
+                "Para-Biddybud",
+                "Thwomp"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mystery House Throwdown"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-1",
+            "link": "https://mario.wiki/Fort_Fire_Bros."
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "A blue lava-filled course with Fire Bros and many Clear Pipes .",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Fire Bro",
+                "Lava Bubble",
+                "Goomba",
+                "Goomba Tower",
+                "Fire Bar",
+                "Thwomp",
+                "Blockstepper"
+            ],
+            "obstacles": [
+                "Lava"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fort Fire Bros."
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-2",
+            "link": "https://mario.wiki/Switchblack_Ruins"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "An underground temple-like course with Switch Panels and Fire Piranha Plants . You light up the areas with fire.",
+            "setting": [
+                "Underground",
+                "Dark"
+            ],
+            "enemies": [
+                "Spiny",
+                "Fire Piranha Plant"
+            ],
+            "obstacles": [
+                "Blackout",
+                "Switch Panels"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Switchblack Ruins"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-3",
+            "link": "https://mario.wiki/Red-Hot_Run"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "A 100-second lava level with Dash Panels and Donut Blocks . You have to run fast across the platforms.",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Goomba"
+            ],
+            "obstacles": [
+                "Dash Panels",
+                "Donut Blocks",
+                "Spikes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Red-Hot Run"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-4",
+            "link": "https://mario.wiki/Boiling_Blue_Bully_Belt"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "A course with Bullies and blue lava. There are rising and sinking platforms that follow path patterns.",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Bully",
+                "Parabones",
+                "Spiked roller"
+            ],
+            "obstacles": [
+                "Sinking Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Boiling Blue Bully Belt"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-A",
+            "link": "https://mario.wiki/Brolder_Blockade_Is_Back"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "A blockade featuring Brolders and Boss Brolder on a large rock-like floor surrounded by lava.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Boss Brolder",
+                "Brolder"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Brolder Blockade Is Back"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World Castle-B",
+            "link": "https://mario.wiki/Prince_Bully_Blockade_Is_Back"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "A blockade featuring Prince Bully in a small fortress arena. This time he shoots out three blue fireballs at a time and his shoes are blue.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Prince Bully"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Prince Bully Blockade Is Back"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World Castle-C",
+            "link": "https://mario.wiki/Fire_Bros._Hideout_4"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "The final Enemy Battle of the game with seven Fire Bros in a small fortress arena. There are 100 seconds on the timer.",
+            "setting": [
+                "Blockade"
+            ],
+            "enemies": [
+                "Fire Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fire Bros. Hideout #4"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-5",
+            "link": "https://mario.wiki/Trick_Trap_Tower"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "A tower surrounded by lava with Thwomps and Fizzlits . It is a delicate climb up avoiding the obstacles.",
+            "setting": [
+                "Mechanical",
+                "Tower",
+                "Lava"
+            ],
+            "enemies": [
+                "Thwomp",
+                "Parabones",
+                "Magikoopa",
+                "Fizzlit"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Trick Trap Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-6",
+            "link": "https://mario.wiki/Rammerhead_Reef"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "An underwater course with Rammerheads .",
+            "setting": [
+                "Underwater",
+                "Cave"
+            ],
+            "enemies": [
+                "Rammerheads",
+                "Small Rammerheads",
+                "Blooper",
+                "Madpole",
+                "Koopa Troopa",
+                "Unshelled Koopa",
+                "Spike ball"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Rammerhead Reef"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-7",
+            "link": "https://mario.wiki/Simmering_Lava_Lake"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "A volcano course with rising and sinking lava with Fire Bros.",
+            "setting": [
+                "Lava",
+                "Volcanic",
+                "Mechanical"
+            ],
+            "enemies": [
+                "Parabones",
+                "Splorch",
+                "Charvaargh"
+            ],
+            "obstacles": [
+                "Sinking Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Simmering Lava Lake"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-Castle",
+            "link": "https://mario.wiki/Bowser%27s_Lava_Lake_Keep"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "A castle course filled with lava featuring the second encounter with Bowser , in his Muscle Car . He is fought on a long road over hot lava. Unlocking this course requires 130 Green Stars .",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Boomerang Bro",
+                "Flopter",
+                "Ka-thunk",
+                "Fire Bro",
+                "Lava Bubble",
+                "Hammer Bro",
+                "Kick Bomb",
+                "Bowser"
+            ],
+            "obstacles": [],
+            "boss": "Bowser"
+        },
+        "output": {
+            "name": "Bowser's Lava Lake Keep"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCastle-Captain Toad",
+            "link": "https://mario.wiki/Captain_Toad_Gets_Thwomped"
+        },
+        "input": {
+            "world": "World Castle",
+            "layout_description": "The Captain Toad's Adventures course of World Castle taking place in a mechanical area with Thwomps and Bullet Bills .",
+            "setting": [
+                "Mechanical"
+            ],
+            "enemies": [
+                "Thwomp",
+                "Bullet Bill"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Captain Toad Gets Thwomped"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-1",
+            "link": "https://mario.wiki/Spiky_Spike_Bridge"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "A rainy outdoor fortress course with Spikes and Parabones .",
+            "setting": [
+                "Fortress",
+                "Cloudy"
+            ],
+            "enemies": [
+                "Parabones",
+                "Fire Bro"
+            ],
+            "obstacles": [
+                "Spikes",
+                "Spike Bridges"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spiky Spike Bridge"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-2",
+            "link": "https://mario.wiki/Plessie%27s_Dune_Downhill"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "A desert course with Plessie .",
+            "setting": [
+                "Desert"
+            ],
+            "enemies": [
+                "Splounder",
+                "Para-Biddybud"
+            ],
+            "obstacles": [
+                "Cloud Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Plessie's Dune Downhill"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-3",
+            "link": "https://mario.wiki/Cookie_Cogworks"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "A cookie-themed course with spinning cookies.",
+            "setting": [
+                "Dessert",
+                "Cookie"
+            ],
+            "enemies": [
+                "Spiny Skipsqueak",
+                "Piranha Plant",
+                "Mega Piranha Plant",
+                "Horned Ant Trooper"
+            ],
+            "obstacles": [
+                "Spinning Cookies"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Cookie Cogworks"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-Train",
+            "link": "https://mario.wiki/The_Bowser_Express"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "A train course with Pom Pom as the boss. it travels alongside a carnival in the background.",
+            "setting": [
+                "Train",
+                "Carnival"
+            ],
+            "enemies": [
+                "Skipsqueak",
+                "Goomba",
+                "Goomba Tower",
+                "Conkdor",
+                "Bully",
+                "Madpole",
+                "Horned Ant Trooper",
+                "Mini Goomba",
+                "Hammer Bro",
+                "Fire Bro",
+                "Pom Pom"
+            ],
+            "obstacles": [],
+            "boss": "Pom Pom"
+        },
+        "output": {
+            "name": "The Bowser Express"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-4",
+            "link": "https://mario.wiki/Footlight_Lane"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "An outdoor fortress course at night with blue invisible platforms, small sections of which appear when the player stands on them. Bullet bills are launched at the player, which reveal the path when they explode. Thwomps reveal the path when the land.",
+            "setting": [
+                "Fortress",
+                "Cloud"
+            ],
+            "enemies": [
+                "Thwomp",
+                "Parabones",
+                "Bullet Bill",
+                "Cat Bullet Bill",
+                "Spiked roller"
+            ],
+            "obstacles": [
+                "Invisible Path"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Footlight Lane"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-5",
+            "link": "https://mario.wiki/Deepwater_Dungeon"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "An underwater fortress course, and the second in World Bowser where Plessie can be ridden, though only in a small segment of the course.",
+            "setting": [
+                "Underwater",
+                "Castle"
+            ],
+            "enemies": [
+                "Madpole",
+                "Para-Biddybud"
+            ],
+            "obstacles": [
+                "Spikes",
+                "Moving Water",
+                "Donut Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Deepwater Dungeon"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-6",
+            "link": "https://mario.wiki/A_Beam_in_the_Dark"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "A dark Ghost House with Light Boxes . It also contains a Luigi switch that yields a stamp once Luigi steps on it.",
+            "setting": [
+                "Ghost House"
+            ],
+            "enemies": [
+                "Boos",
+                "Big Boos",
+                "Peepas",
+                "Parabones"
+            ],
+            "obstacles": [
+                "Moving Platforms",
+                "Light Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "A Beam in the Dark"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-7",
+            "link": "https://mario.wiki/Grumblump_Inferno"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "A lava course with several Grumblumps , large crystal blocks with faces; they start slowly rolling when the player walks on them and will go faster when ground-pounded on.",
+            "setting": [
+                "Lava",
+                "Castle"
+            ],
+            "enemies": [
+                "Grumblump",
+                "Skipsqueak",
+                "Fire Piranha Plant",
+                "Hammer Bro",
+                "Splorch"
+            ],
+            "obstacles": [
+                "Lava"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Grumblump Inferno"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-A",
+            "link": "https://mario.wiki/Motley_Bossblob%27s_Encore"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "A rematch with a now golden Motley Bossblob , though still taking place in the same circus tent-like arena.",
+            "setting": [
+                "Carnival"
+            ],
+            "enemies": [
+                "Motley Bossblob"
+            ],
+            "obstacles": [],
+            "boss": "Motley Bossblob"
+        },
+        "output": {
+            "name": "Motley Bossblob's Encore"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-B",
+            "link": "https://mario.wiki/Hisstocrat_Returns"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "A boss battle with the magenta Hisstocrat taking place in a circus tent-like course.",
+            "setting": [
+                "Carnival",
+                "Sand"
+            ],
+            "enemies": [
+                "Volcanic debris",
+                "Hisstocrat"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Hisstocrat Returns"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-Castle",
+            "link": "https://mario.wiki/The_Great_Tower_of_Bowser_Land"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "The final main level in the game where the final boss, Meowser , is fought. The level itself takes place in the carnival area surrounding the very tall tower in the center of it. 170 Green Stars are required to unlock this level.",
+            "setting": [
+                "Skyscraper"
+            ],
+            "enemies": [
+                "Fire Bro",
+                "Cat Goomba",
+                "Bully",
+                "Volcanic debris",
+                "Meowser"
+            ],
+            "obstacles": [],
+            "boss": "Meowser"
+        },
+        "output": {
+            "name": "The Great Tower of Bowser Land"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldBowser-Mystery House",
+            "link": "https://mario.wiki/Mystery_House_Claw_Climb"
+        },
+        "input": {
+            "world": "World Bowser",
+            "layout_description": "The Mystery House of World Bowser; the Cat form is used in all of the sections.",
+            "setting": [
+                "Mystery Box"
+            ],
+            "enemies": [],
+            "obstacles": [
+                "Cat Power Up"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mystery House Claw Climb"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-1",
+            "link": "https://mario.wiki/Rainbow_Run_(level)"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "A space course with Skipsqueaks and rainbow-colored pathways.",
+            "setting": [
+                "Cosmic",
+                "Rainbow"
+            ],
+            "enemies": [
+                "Ring Burner",
+                "Skipsqueak",
+                "Spiny Skipsqueak",
+                "Para-Biddybud",
+                "Splounder",
+                "Parabones"
+            ],
+            "obstacles": [
+                "Spinning Platforms",
+                "Plessie"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Rainbow Run"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-2",
+            "link": "https://mario.wiki/Super_Galaxy"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "A space course based on and themed around Super Mario Galaxy . Rosalina is unlocked as a playable character upon first completion of this level.",
+            "setting": [
+                "Cosmic"
+            ],
+            "enemies": [
+                "Octoomba",
+                "Galoomba"
+            ],
+            "obstacles": [
+                "Spinning Platforms",
+                "Rotating Platforms",
+                "Dash Panels"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Super Galaxy"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-3",
+            "link": "https://mario.wiki/Rolling_Ride_Run"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "A wooden-themed athletic course with rolling cylinders. You roll a platform at speed along rails amongst wooden toy blocks. ",
+            "setting": [
+                "Wooden"
+            ],
+            "enemies": [
+                "Goomba",
+                "Conkdor",
+                "Stingby",
+                "Blurker"
+            ],
+            "obstacles": [
+                "Spinning Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Rolling Ride Run"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-4",
+            "link": "https://mario.wiki/The_Great_Goal_Pole"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "A sky course with a winged Goal Pole . The pole starts out at the beginning of the level, but it starts flying away so the player must chase it down. There are 100 seconds on the timer and no + Clocks present.",
+            "setting": [
+                "Sky",
+                "Clouds"
+            ],
+            "enemies": [
+                "Para-Biddybud",
+                "Walleye"
+            ],
+            "obstacles": [
+                "Winged Goal Pole"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "The Great Goal Pole"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-5",
+            "link": "https://mario.wiki/Super_Block_Land"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "A grassland level filled with giant blocks.",
+            "setting": [
+                "Grassy",
+                "Blocky"
+            ],
+            "enemies": [
+                "Bob-omb",
+                "Chargin' Chuck",
+                "Baddie Box"
+            ],
+            "obstacles": [
+                "Giant Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Super Block Land"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-6",
+            "link": "https://mario.wiki/Honeycomb_Starway"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "A space course with top-bottom view, featuring \"honeycomb\" platforms. It follows the top-bottom view of hexagon paths as enemies appear from the sides.",
+            "setting": [
+                "Cosmic"
+            ],
+            "enemies": [
+                "Para-Biddybud",
+                "Spiked roller",
+                "Fire Piranha Plant",
+                "Stingby"
+            ],
+            "obstacles": [
+                "Honeycomb Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Honeycomb Starway"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-7",
+            "link": "https://mario.wiki/Gargantuan_Grotto"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "A jungle with Big Galoombas and Mega Mushrooms .",
+            "setting": [
+                "Giant",
+                "Jungle"
+            ],
+            "enemies": [
+                "Goomba",
+                "Goomba Tower",
+                "Big Galoomba",
+                "Mini Goomba",
+                "Blurker",
+                "Blooper"
+            ],
+            "obstacles": [
+                "Mega Mushroom",
+                "Giant Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Gargantuan Grotto"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-8",
+            "link": "https://mario.wiki/Peepa%27s_Fog_Bog"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "An outdoor snowy Ghost House course with fog, gravestones, disappearing and reappearing ground, and a poison river along which players must safely ride wooden rafts.",
+            "setting": [
+                "Snowy",
+                "Haunted"
+            ],
+            "enemies": [
+                "Peepa",
+                "Snow Pokey",
+                "Boo",
+                "Mini Goomba"
+            ],
+            "obstacles": [
+                "Warp Door",
+                "Poison"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Peepa's Fog Bog"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-9",
+            "link": "https://mario.wiki/Cosmic_Cannon_Cluster"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "A futuristic space course with the Cannon Boxes . 210 Green Stars are required to unlock the level. You take a lean platform along rails, and use a cannon box to switch the paths.",
+            "setting": [
+                "Cosmic",
+                "Mechanical"
+            ],
+            "enemies": [
+                "Cannon",
+                "Parabones",
+                "Spiny"
+            ],
+            "obstacles": [
+                "Lean Platform",
+                "Cannon Boxes",
+                "Rail Switches"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Cosmic Cannon Cluster"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldStar-Captain Toad",
+            "link": "https://mario.wiki/Captain_Toad_Takes_a_Spin"
+        },
+        "input": {
+            "world": "World Star",
+            "layout_description": "The Captain Toad's Adventures course of World Star, where he can rotate the stage, which itself is mechanical-themed.",
+            "setting": [
+                "Cosmic",
+                "Mechanical"
+            ],
+            "enemies": [
+                "Fizzlit"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Captain Toad Takes a Spin"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldMushroom-1",
+            "link": "https://mario.wiki/Night_Falls_on_Really_Rolling_Hills"
+        },
+        "input": {
+            "world": "World Mushroom",
+            "layout_description": "A harder version of Really Rolling Hills set at night. The player only gets 30 seconds at the start of the level and must collect extra cyan 10+ clocks. There are spikey enemies and grassy rolling hills across the plains.",
+            "setting": [
+                "Grassy",
+                "Night"
+            ],
+            "enemies": [
+                "Spiny Skipsqueak",
+                "Spiny"
+            ],
+            "obstacles": [
+                "Rolling Hills"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Night Falls on Really Rolling Hills"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldMushroom-2",
+            "link": "https://mario.wiki/Spiky_Mount_Beanpole"
+        },
+        "input": {
+            "world": "World Mushroom",
+            "layout_description": "A harder version of Mount Beanpole set at sunset. The player must find five Key Coins in order to unlock the Warp Box to the goal pole. This level also introduces the Lucky Bell . Adds more Spike enemies and harder platforming.",
+            "setting": [
+                "Grassy",
+                "Hills",
+                "Bell Tree"
+            ],
+            "enemies": [
+                "Spiny",
+                "Spike"
+            ],
+            "obstacles": [
+                "Cloud Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spiky Mount Beanpole"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldMushroom-3",
+            "link": "https://mario.wiki/Deep-Black_Jungle_Drift"
+        },
+        "input": {
+            "world": "World Mushroom",
+            "layout_description": "A harder version of Deep Jungle Drift that takes place in the dead of night. Because the level is so dark, the players are able to use Light Boxes which emit light rays in their color.",
+            "setting": [
+                "Jungle",
+                "Poison",
+                "Haunted",
+                "Night"
+            ],
+            "enemies": [
+                "Boo",
+                "Big Boo",
+                "Peepa"
+            ],
+            "obstacles": [
+                "Poison",
+                "Blackout",
+                "Light Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Deep-Black Jungle Drift"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldMushroom-4",
+            "link": "https://mario.wiki/Trouble_in_Shadow-Play_Alley"
+        },
+        "input": {
+            "world": "World Mushroom",
+            "layout_description": "A harder and shorter version of Shadow-Play Alley featuring cannonballs and a Goomba Tower . The Player has only 100 seconds to finish the level, and, there are no time clocks in this level. It takes place in a dungeon entirely with shadows.",
+            "setting": [
+                "Underground",
+                "Shadow"
+            ],
+            "enemies": [
+                "Goomba",
+                "Goomba Tower",
+                "Cannon",
+                "Mini Goomba"
+            ],
+            "obstacles": [
+                "Shadow"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Trouble in Shadow-Play Alley"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldMushroom-5",
+            "link": "https://mario.wiki/Back_to_Hands-On_Hall"
+        },
+        "input": {
+            "world": "World Mushroom",
+            "layout_description": "A slightly more difficult version of Hands-On Hall set during the day. An Oriental themed stage.",
+            "setting": [
+                "Oriental"
+            ],
+            "enemies": [
+                "Goomba",
+                "Goomba Tower",
+                "Hammer Bro",
+                "Boomerang Bro",
+                "Fire Bro",
+                "Blurker",
+                "Flopter",
+                "Lava Bubble",
+                "Spike ball"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Back to Hands-On Hall"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldMushroom-6",
+            "link": "https://mario.wiki/Gigantic_Seasick_Wreck"
+        },
+        "input": {
+            "world": "World Mushroom",
+            "layout_description": "A more difficult version of Spooky Seasick Wreck with Ty-foos and Mega Mushrooms . You jump from tattered ships that are rocking around.",
+            "setting": [
+                "Shipwreck"
+            ],
+            "enemies": [
+                "Octoomba",
+                "Ty-foo",
+                "Bully"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Gigantic Seasick Wreck"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldMushroom-7",
+            "link": "https://mario.wiki/Broken_Blue_Bully_Belt"
+        },
+        "input": {
+            "world": "World Mushroom",
+            "layout_description": "A harder version of Boiling Blue Bully Belt , which requires 240 Green Stars to play. Full of blue fire and lava with moving and sinking platforms.",
+            "setting": [
+                "Lava",
+                "Fortress"
+            ],
+            "enemies": [
+                "Splorch",
+                "Parabones",
+                "Lava Bubble",
+                "Spiked rollers"
+            ],
+            "obstacles": [
+                "Sinking Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Broken Blue Bully Belt"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldMushroom-Mystery Box",
+            "link": "https://mario.wiki/Mystery_House_Brawl"
+        },
+        "input": {
+            "world": "World Mushroom",
+            "layout_description": "The Mystery House of World Mushroom featuring the player defeating various enemies to get the Green Stars.",
+            "setting": [
+                "Mystery Box"
+            ],
+            "enemies": [
+                "Chargin' Chuck",
+                "Snow Pokey",
+                "Flopter",
+                "Boomerang Bro",
+                "Coin Coffer",
+                "Goomba",
+                "Goomba Tower",
+                "Fizzlit",
+                "Magikoopa",
+                "Piranha Creeper",
+                "Hammer Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mystery House Brawl"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-1",
+            "link": "https://mario.wiki/Switch_Shock_Circus"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A harder version of Switch Scramble Circus with Fizzlits . You must bounce around and dodge the shocking enemies.",
+            "setting": [
+                "Circus"
+            ],
+            "enemies": [
+                "Fizzlit",
+                "Hammer Bro"
+            ],
+            "obstacles": [
+                "Bounce Mushrooms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Switch Shock Circus"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-2",
+            "link": "https://mario.wiki/Floating_Fuzzy_Time_Mine"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A  harder version of Fuzzy Time Mine with water. Fuzzies chase you up the chasm as you try to escape.",
+            "setting": [
+                "Underground"
+            ],
+            "enemies": [
+                "Fuzzy Horde",
+                "Spiny"
+            ],
+            "obstacles": [
+                "Spikes",
+                "Moving Water"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Floating Fuzzy Time Mine"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-3",
+            "link": "https://mario.wiki/Piranha_Creeper_Creek_after_Dark"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A harder version of Piranha Creeper Creek that takes place in the night. The player has to light up all of the torches in the three areas of this level in order to collect all three Green Stars .",
+            "setting": [
+                "Jungle",
+                "Poison",
+                "Night"
+            ],
+            "enemies": [
+                "Piranha Creeper",
+                "Fire Piranha Plant",
+                "Parabones",
+                "Coin Coffer"
+            ],
+            "obstacles": [
+                "Blackout",
+                "Poison"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Piranha Creeper Creek after Dark"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-4",
+            "link": "https://mario.wiki/Faster_Fort_Fire_Bros."
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A harder version of Fort Fire Bros. The player starts with only 30 seconds remaining and must collect additional cyan + Clocks across blue lava to gain more time. ",
+            "setting": [
+                "Lava"
+            ],
+            "enemies": [
+                "Fire Bro",
+                "Lava Bubble",
+                "Goomba",
+                "Goomba Tower",
+                "Fire Bar",
+                "Thwomp",
+                "Blockstepper"
+            ],
+            "obstacles": [
+                "Lava",
+                "Crystal Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Faster Fort Fire Bros."
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-5",
+            "link": "https://mario.wiki/Sprawling_Savanna_Rabbit_Run"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A slightly harder version of Sprawling Savanna that takes place in the morning. The course has 500 seconds. It is also the only standard course in the game that is not connected to the previous course by a yellow path, and is available as soon as World Flower -1 is unlocked. Also contains a Toad switch that yields a Green Star once Toad presses it.",
+            "setting": [
+                "Savanna"
+            ],
+            "enemies": [
+                "Conkdor",
+                "Madpole",
+                "Innertube Goomba",
+                "Coin Coffer"
+            ],
+            "obstacles": [
+                "Dash Panels"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Sprawling Savanna Rabbit Run"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-6",
+            "link": "https://mario.wiki/Shiftier_Boo_Mansion"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A harder version of Shifty Boo Mansion , in a 1940s black-and-white TV aspect and with the exit hidden.",
+            "setting": [
+                "Ghost House",
+                "Monochrome"
+            ],
+            "enemies": [
+                "Big Boo",
+                "Peepa"
+            ],
+            "obstacles": [
+                "Warp Door"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Shiftier Boo Mansion"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-7",
+            "link": "https://mario.wiki/Pipeline_Boom_Lagoon"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A harder version of Pipeline Lagoon , with Cannon Boxes .",
+            "setting": [
+                "Underwater",
+                "Tropical"
+            ],
+            "enemies": [
+                "Madpole",
+                "Mini Goomba",
+                "Blooper",
+                "Rammerhead",
+                "Coin Coffer"
+            ],
+            "obstacles": [
+                "Cannon Boxes",
+                "Spikes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Pipeline Boom Lagoon"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-8",
+            "link": "https://mario.wiki/Blast_Block_Skyway"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A harder version of Beep Block Skyway . The beep blocks in this level switch four times faster than before. Also contains a Mario switch that yields coins when Mario stands on it.",
+            "setting": [
+                "Cosmic"
+            ],
+            "enemies": [
+                "Spike",
+                "Parabones"
+            ],
+            "obstacles": [
+                "Beep Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Blast Block Skyway"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-9",
+            "link": "https://mario.wiki/Towering_Sunshine_Seaside"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A harder and shorter version of Sunshine Seaside that takes place at sunset, featuring Goomba Towers with Fire Bros . It has 100 seconds on the timer.",
+            "setting": [
+                "Tropical",
+                "Beach",
+                "Sunset"
+            ],
+            "enemies": [
+                "Goomba",
+                "Goomba Tower",
+                "Fire Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Towering Sunshine Seaside"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-10",
+            "link": "https://mario.wiki/Honeycomb_Skyway"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A harder version of Honeycomb Starway set during the day. It is the only level in the game that is a remix of a previous level from a bonus world.",
+            "setting": [
+                "Cosmic",
+                "Sky"
+            ],
+            "enemies": [
+                "Para-Biddybud",
+                "Fire Piranha Plant",
+                "Mega Piranha Plant",
+                "Fire Bar"
+            ],
+            "obstacles": [
+                "Honeycomb Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Honeycomb Skyway"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-11",
+            "link": "https://mario.wiki/Spiky_Spike_Bridge_Sneak"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "A harder version of Spiky Spike Bridge . This level contains searchlights from Searchlight Sneak , which, if stepped in, cause spikes to appear on the bridges.",
+            "setting": [
+                "Fortress",
+                "Cloud"
+            ],
+            "enemies": [
+                "Fire Bro"
+            ],
+            "obstacles": [
+                "Spikes",
+                "Spike Bridges"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spiky Spike Bridge Sneak"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldFlower-12",
+            "link": "https://mario.wiki/Boss_Blitz"
+        },
+        "input": {
+            "world": "World Flower",
+            "layout_description": "As the name suggests, the level is a boss rush where the player must fight six previous bosses. The first five bosses must be fought in order to gain the five keys required to unlock the Warp Box: King Ka-thunk , Pom Pom , Hisstocrat (male and female together), Boss Brolder and Boom Boom . The unlocked Warp Box leads to the sixth and final boss fight: a second rematch with Motley Bossblob , which when defeated leaves a Warp Box which leads to the Goal Pole. All boss fights are now set in space at night. ",
+            "setting": [
+                "Boss Rush"
+            ],
+            "enemies": [
+                "King Ka-thunk",
+                "Pom Pom",
+                "Hisstocrat",
+                "Brolder",
+                "Boss Brolder",
+                "Boom Boom",
+                "Motley Bossblob"
+            ],
+            "obstacles": [],
+            "boss": "Motley Bossblob"
+        },
+        "output": {
+            "name": "Boss Blitz"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCrown-Crown",
+            "link": "https://mario.wiki/Champion%27s_Road"
+        },
+        "input": {
+            "world": "World Crown",
+            "layout_description": "The final standard course of the game, taking place in space and containing six difficult sections, followed by a congratulations message at the end. It has a slew of difficult challenges in space.",
+            "setting": [
+                "Space"
+            ],
+            "enemies": [
+                "Octoomba",
+                "Fire Bro",
+                "Chargin' Chuck",
+                "Magikoopa",
+                "Fire Bar",
+                "Spiked roller",
+                "Piranha Plant",
+                "Fuzzy",
+                "Horned Ant Trooper",
+                "Piranha Creeper",
+                "Ring Burner"
+            ],
+            "obstacles": [
+                "Dash Panels",
+                "Blast Blocks",
+                "Warp Pipes",
+                "Crystal Pipes",
+                "Spike Rollers",
+                "Spikes",
+                "Fire Bars",
+                "Ring Burners"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Champion's Road"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "WorldCrown-Captain Toad",
+            "link": "https://mario.wiki/Captain_Toad%27s_Fiery_Finale"
+        },
+        "input": {
+            "world": "World Crown",
+            "layout_description": "The final Captain Toad's Adventures course, with a big lava pit and a stamp.",
+            "setting": [
+                "Lava",
+                "Cosmic"
+            ],
+            "enemies": [
+                "Fire Piranha Plant"
+            ],
+            "obstacles": [
+                "Donut Blocks",
+                "Lava"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Captain Toad's Fiery Finale"
+        }
+    },
+    {
+        "meta": {
+            "game": "Super Mario 3D World",
+            "level_code": "World Crown-Mystery Box",
+            "link": "https://mario.wiki/Mystery_House_Marathon"
+        },
+        "input": {
+            "world": "World Crown",
+            "layout_description": "The final Mystery House, with 30 Green Stars and a stamp at the end.",
+            "setting": [
+                "Mystery Box"
+            ],
+            "enemies": [
+                "Koopa Troopa",
+                "Unshelled Koopa",
+                "Brolder",
+                "Peepa",
+                "Goomba",
+                "Mini Goomba",
+                "Para-Biddybud",
+                "Hop-Chop",
+                "Thwomp",
+                "Walleye",
+                "Fuzzy",
+                "Piranha Plant",
+                "Bully",
+                "Cat Bullet Bill",
+                "Piranha Creeper",
+                "Spike",
+                "Boom Boom"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mystery House Marathon"
+        }
+    }
+]

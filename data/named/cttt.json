@@ -1,0 +1,1679 @@
+[
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-1",
+            "link": "https://mario.wiki/Plucky_Pass_Beginnings"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A basic grassy level with a Shy Guy and the Toad Brigade up a wooden fort in some simple plains.",
+            "setting": [
+                "Grassy",
+                "Plains"
+            ],
+            "enemies": [
+                "Shy Guy"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Plucky Pass Beginnings"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-2",
+            "link": "https://mario.wiki/Walleye_Tumble_Temple"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A ruins level with Walleyes taking place over a gentle river with grassy banks.",
+            "setting": [
+                "Ruins",
+                "River"
+            ],
+            "enemies": [
+                "Walleye"
+            ],
+            "obstacles": [
+                "Collapsing Bridge"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Walleye Tumble Temple"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-3",
+            "link": "https://mario.wiki/Touchstone_Trouble"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A level with a blue and pink Touchstone that rotate and move when interacted with .",
+            "setting": [
+                "Blocky",
+                "Cosmic"
+            ],
+            "enemies": [],
+            "obstacles": [
+                "Touchstones"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Touchstone Trouble"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-4",
+            "link": "https://mario.wiki/Mushroom_Mesa"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A grassy course with Flaptors and Shy Guys . A stone mushroom sits in the centre, and there are stoney ruins left around.",
+            "setting": [
+                "Grassy",
+                "Stone"
+            ],
+            "enemies": [
+                "Flaptor",
+                "Shy Guy"
+            ],
+            "obstacles": [
+                "Turnips"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mushroom Mesa"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-5",
+            "link": "https://mario.wiki/Double_Cherry_Palace"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "The first course with a Double Cherry. Is a stone palace with gold onion dome spires and a hedge maze.",
+            "setting": [
+                "Palace",
+                "Castle"
+            ],
+            "enemies": [
+                "Shy Guy"
+            ],
+            "obstacles": [
+                "Double Cherry"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Double Cherry Palace"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-6",
+            "link": "https://mario.wiki/Shy_Guy_Heights"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A course with many Shy Guys. There is a small grassy hedge maze that leads into a small wooden village, decorated with red banners.",
+            "setting": [
+                "Grassy",
+                "Village"
+            ],
+            "enemies": [
+                "Shy Guy",
+                "Flaptor"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Shy Guy Heights"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-7",
+            "link": "https://mario.wiki/Spinwheel_Library"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A Ghost House with a Spinwheel that can rotate the center part of the course. There are many bookcases and books you walk across.",
+            "setting": [
+                "Ghost House",
+                "Library"
+            ],
+            "enemies": [],
+            "obstacles": [
+                "Spinwheel"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spinwheel Library"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-8",
+            "link": "https://mario.wiki/Mine_Cart_Tunnel_Throwdown"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A course that features a mine cart. Follows an underground rocky path with a hazardous minecart filled with turnips.",
+            "setting": [
+                "Underground",
+                "Rocky"
+            ],
+            "enemies": [
+                "Para-Biddybud"
+            ],
+            "obstacles": [
+                "Minecart"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mine Cart Tunnel Throwdown"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-9",
+            "link": "https://mario.wiki/Spinwheel_Bullet_Bill_Base"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A mechanical course with Bullet Bills. There is a spinwheel with industrial platforms over lava. ",
+            "setting": [
+                "Mechanical",
+                "Lava"
+            ],
+            "enemies": [
+                "Flaptor",
+                "Bullet Bill"
+            ],
+            "obstacles": [
+                "Lava",
+                "Spinwheel"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spinwheel Bullet Bill Base"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-10",
+            "link": "https://mario.wiki/The_King_of_Pyropuff_Peak"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A volcanic course where Draggadon is fought. You climb to the top while avoiding Draggadon's fire.",
+            "setting": [
+                "Lava",
+                "Rocky",
+                "Volcanic"
+            ],
+            "enemies": [
+                "Draggadon"
+            ],
+            "obstacles": [
+                "Volcanic debris"
+            ],
+            "boss": "Draggadon"
+        },
+        "output": {
+            "name": "The King of Pyropuff Peak"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-11",
+            "link": "https://mario.wiki/Piranha_Creeper_Cove"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A course with Piranha Creepers . Takes place on the beach with tropical palm trees.",
+            "setting": [
+                "Beach",
+                "Tropical"
+            ],
+            "enemies": [
+                "Piranha Creeper",
+                "Piranha Sprout"
+            ],
+            "obstacles": [
+                "Bridges",
+                "Ladder",
+                "Water"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Piranha Creeper Cove"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-12",
+            "link": "https://mario.wiki/Briny_Bowl_Swimming_Hole"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A course mostly underwater. There are a lot of sunken crates, with tropical palm trees on a grassy top.",
+            "setting": [
+                "Grassy",
+                "Tropical",
+                "Underwater"
+            ],
+            "enemies": [
+                "Cheep Cheep",
+                "Flaptor"
+            ],
+            "obstacles": [
+                "Water",
+                "Warp Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Briny Bowl Swimming Hole"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-13",
+            "link": "https://mario.wiki/Turnip_Cannon_Jungle"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A jungle course with palm trees and a Turnip Cannon . You fire the cannon at the enemies in the stage.",
+            "setting": [
+                "Jungle",
+                "Tropical"
+            ],
+            "enemies": [
+                "Piranha Creeper",
+                "Flaptor"
+            ],
+            "obstacles": [
+                "Turnip Cannon"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Turnip Cannon Jungle"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-14",
+            "link": "https://mario.wiki/Pop-Up_Prairie_Town"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A Western town populated by Shy Guys with platforms movable by blowing into the microphone. Takes place in a desert / savanna with cacti and dry grass.",
+            "setting": [
+                "Desert",
+                "Savanna",
+                "Town"
+            ],
+            "enemies": [
+                "Shy Guy"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Pop-Up Prairie Town"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-15",
+            "link": "https://mario.wiki/Drop-Road_Dash"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "An athletic course with Donut Blocks and Dash Pads in the sky.",
+            "setting": [
+                "Sky"
+            ],
+            "enemies": [
+                "Para-Biddybud"
+            ],
+            "obstacles": [
+                "Donut Blocks",
+                "Dash Panels"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Drop-Road Dash"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-16",
+            "link": "https://mario.wiki/Bizarre_Doors_of_Boo_Mansion"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A course at a Ghost House with many doors and touchstones.",
+            "setting": [
+                "Ghost House"
+            ],
+            "enemies": [
+                "Goomba",
+                "Goomba Tower",
+                "Boo",
+                "Big Boo"
+            ],
+            "obstacles": [
+                "Touchstones",
+                "Warp Door"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Bizarre Doors of Boo Mansion"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-17",
+            "link": "https://mario.wiki/Blizzard_on_the_Star_Express"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A level set on a snowy train at night. There are star icons on the train.",
+            "setting": [
+                "Train",
+                "Snowy"
+            ],
+            "enemies": [
+                "Biddybud",
+                "Shy Guy",
+                "Flaptor"
+            ],
+            "obstacles": [
+                "Movable Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Blizzard on the Star Express"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 1-18",
+            "link": "https://mario.wiki/Wingo%27s_Watchtower"
+        },
+        "input": {
+            "world": "Episode 1",
+            "layout_description": "A dark tower where Wingo is fought. Onion dome spires and stone structures make up the tower.",
+            "setting": [
+                "Tower"
+            ],
+            "enemies": [
+                "Wingo"
+            ],
+            "obstacles": [],
+            "boss": "Wingo"
+        },
+        "output": {
+            "name": "Wingo's Watchtower"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-1",
+            "link": "https://mario.wiki/Chute_Scoot_Slopes"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A level featuring slides and Spinwheels on a grassy plain.",
+            "setting": [
+                "Grassy",
+                "Blocky"
+            ],
+            "enemies": [
+                "Flaptor",
+                "Chargin' Chuck",
+                "Shy Guy"
+            ],
+            "obstacles": [
+                "Spinwheel",
+                "Slides"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Chute Scoot Slopes"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-2",
+            "link": "https://mario.wiki/Stumper_Sneakaround"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A dark forest course featuring Stumpers. There are many hollowed tree trunks and nailed wooden structures.",
+            "setting": [
+                "Forest",
+                "Wooden",
+                "Dark"
+            ],
+            "enemies": [
+                "Stumper",
+                "Piranha Creeper"
+            ],
+            "obstacles": [
+                "Bridges"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Stumper Sneakaround"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-3",
+            "link": "https://mario.wiki/Mine_Cart_Sunset_Rundown"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A mine cart level in the mountains.",
+            "setting": [
+                "Mountain",
+                "Rocky"
+            ],
+            "enemies": [
+                "Piranha Plant",
+                "Para-Biddybud"
+            ],
+            "obstacles": [
+                "Minecart"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mine Cart Sunset Rundown"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-4",
+            "link": "https://mario.wiki/Sinister_Street_Signs"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A dark course in a brick town featuring Mud Troopers . There are dead trees and P-Switches.",
+            "setting": [
+                "Town",
+                "Brick",
+                "Ghostly"
+            ],
+            "enemies": [
+                "Chargin' Chuck",
+                "Mud Trooper"
+            ],
+            "obstacles": [
+                "Invisible Path",
+                "P-Switches"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Sinister Street Signs"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-5",
+            "link": "https://mario.wiki/Floaty_Fun_Water_Park"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A grassy water course featuring Goombas in floaties. There are small wooden walkways.",
+            "setting": [
+                "Underwater",
+                "Grassy"
+            ],
+            "enemies": [
+                "Innertube Goomba",
+                "Cheep Cheep"
+            ],
+            "obstacles": [
+                "Warp Pipes",
+                "Water"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Floaty Fun Water Park"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-6",
+            "link": "https://mario.wiki/Drift-Along_Canyon"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A level featuring toxic water and rafts alongside a rocky jungle.",
+            "setting": [
+                "Rocky",
+                "Jungle",
+                "Poison"
+            ],
+            "enemies": [
+                "Hammer Bro",
+                "Bull's-Eye Bill"
+            ],
+            "obstacles": [
+                "Poison"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Drift-Along Canyon"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-7",
+            "link": "https://mario.wiki/Sliding_Slab_Shuffle"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A brick building featuring Touchstones and bullet bills.",
+            "setting": [
+                "Brick",
+                "Building",
+                "Grassy"
+            ],
+            "enemies": [
+                "Bullet Bill"
+            ],
+            "obstacles": [
+                "Touchstone"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Sliding Slab Shuffle"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-8",
+            "link": "https://mario.wiki/Spooky_Specters_at_Shadow_Manor"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A Ghost House course with Boos and Peepas and many creepy lamps.",
+            "setting": [
+                "Ghost House",
+                "Dark"
+            ],
+            "enemies": [
+                "Boo",
+                "Peepa",
+                "Big Boo"
+            ],
+            "obstacles": [
+                "Spinwheel",
+                "Dark"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spooky Specters at Shadow Manor"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-9",
+            "link": "https://mario.wiki/Draggadon%27s_Revenge"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A volcanic course with a rematch against Draggadon. Scale to the top of the peak avoiding Draggadon's fireballs.",
+            "setting": [
+                "Volcanic",
+                "Lava",
+                "Rocky"
+            ],
+            "enemies": [
+                "Draggadon"
+            ],
+            "obstacles": [
+                "Volcanic debris",
+                "Lava",
+                "Spinwheel",
+                "Propeller Platform"
+            ],
+            "boss": "Draggadon"
+        },
+        "output": {
+            "name": "Draggadon's Revenge"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-10",
+            "link": "https://mario.wiki/Spinwheel_Cog_Ruins"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A course featuring Spinwheels and cogs in desert ruins..",
+            "setting": [
+                "Desert",
+                "Ruins"
+            ],
+            "enemies": [
+                "Walleye"
+            ],
+            "obstacles": [
+                "Spinwheel",
+                "Cogs"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spinwheel Cog Ruins"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-11",
+            "link": "https://mario.wiki/Windup_Stairs"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A level taking place on a windup box, with wooden platforms, spikes, and stone walkways.",
+            "setting": [
+                "Wooden"
+            ],
+            "enemies": [
+                "Spike"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Windup Stairs"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-12",
+            "link": "https://mario.wiki/Up_%27n%27_Down_Terrace"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A level taking place in a white stone flowery gazebo in a grassy plane with a cute hedgemaze.",
+            "setting": [
+                "Grassy",
+                "Plains"
+            ],
+            "enemies": [
+                "Piranha Sprout"
+            ],
+            "obstacles": [
+                "P-Switches"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Up 'n' Down Terrace"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-13",
+            "link": "https://mario.wiki/Clear_Pipe_Puzzleplex"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A large maze of Clear Pipes above a grand city.",
+            "setting": [
+                "City",
+                "Carnival"
+            ],
+            "enemies": [
+                "Fuzzy",
+                "Spike ball"
+            ],
+            "obstacles": [
+                "Clear Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Clear Pipe Puzzleplex"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-14",
+            "link": "https://mario.wiki/Midnight_in_the_Wandering_Woods"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A dark forest course featuring Stumpers and Peepas, with iridescent mushrooms and wooden structures.",
+            "setting": [
+                "Forest",
+                "Dark",
+                "Wooden"
+            ],
+            "enemies": [
+                "Stumper",
+                "Peepa"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Midnight in the Wandering Woods"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-15",
+            "link": "https://mario.wiki/Double_Cherry_Spires"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A palace-like course that makes use of the Double Cherry . There are white spires with purple starry tops with a starry sky.",
+            "setting": [
+                "Aurora",
+                "Spire",
+                "Palace"
+            ],
+            "enemies": [],
+            "obstacles": [
+                "Double Cherry"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Double Cherry Spires"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-16",
+            "link": "https://mario.wiki/Bullet_Bill%27s_Touchy_Trials"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A fortress-like level featuring Bullet Bills and Touchstones, with industrial plating and blue lava.",
+            "setting": [
+                "Lava",
+                "Mechanical"
+            ],
+            "enemies": [
+                "Bullet Bill"
+            ],
+            "obstacles": [
+                "Touchstone",
+                "Lava"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Bullet Bill's Touchy Trials"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-17",
+            "link": "https://mario.wiki/Spinwheel_Sky_Fort"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A level featuring Spinwheels and Bull's-Eye Bills in the sky on blocky castle structures.",
+            "setting": [
+                "Sky",
+                "Castle"
+            ],
+            "enemies": [
+                "Bullet Bill",
+                "Bull's-Eye Bill",
+                "Piranha Plant"
+            ],
+            "obstacles": [
+                "Spinwheel"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spinwheel Sky Fort"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 2-18",
+            "link": "https://mario.wiki/Battle_Tower_Blitz"
+        },
+        "input": {
+            "world": "Episode 2",
+            "layout_description": "A large level featuring many towers where enemies are fought.",
+            "setting": [
+                "Tower",
+                "Ornate",
+                "Brick",
+                "Cloudy"
+            ],
+            "enemies": [
+                "Fire Bro",
+                "Magikoopa",
+                "Goomba",
+                "Goomba Tower",
+                "Hammer Bro"
+            ],
+            "obstacles": [
+                "Touchstone",
+                "Turnip Cannon",
+                "Clear Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Battle Tower Blitz"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-1",
+            "link": "https://mario.wiki/Rolling_Inferno"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A level featuring Charvaarghs and rolling platforms over lava.",
+            "setting": [
+                "Lava"
+            ],
+            "enemies": [
+                "Charvaargh"
+            ],
+            "obstacles": [
+                "Lava",
+                "Rolling Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Rolling Inferno"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-2",
+            "link": "https://mario.wiki/Seesaw_Sizzle"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A lava temple featuring Spikes and tilting platforms.",
+            "setting": [
+                "Lava",
+                "Ornate",
+                "Brick"
+            ],
+            "enemies": [
+                "Spike"
+            ],
+            "obstacles": [
+                "Seesaw Platforms",
+                "Lava"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Seesaw Sizzle"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-3",
+            "link": "https://mario.wiki/Beep_Block_Sky_Plaza"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A course featuring the Beep Blocks that change with the beat, and other floating platforms.",
+            "setting": [
+                "Sky",
+                "Cosmic"
+            ],
+            "enemies": [
+                "Fire Bro"
+            ],
+            "obstacles": [
+                "Beep Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Beep Block Sky Plaza"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-4",
+            "link": "https://mario.wiki/Pickax_Cave_Plummet"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A savanna level with Super Pickaxes and Rock Blocks, with a small underwater pool .",
+            "setting": [
+                "Savanna",
+                "Rocky",
+                "Sunset"
+            ],
+            "enemies": [
+                "Piranha Sprout",
+                "Mud Trooper"
+            ],
+            "obstacles": [
+                "Rock Blocks",
+                "Water"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Pickax Cave Plummet"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-5",
+            "link": "https://mario.wiki/Stumpy_Springs_Sanctuary"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A course featuring a huge tree with Ant Troopers. Huge hollowed out trees with a large water geyser.",
+            "setting": [
+                "Wooden",
+                "Grassy",
+                "Forest"
+            ],
+            "enemies": [
+                "Ant Trooper"
+            ],
+            "obstacles": [
+                "Water Geyser"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Stumpy Springs Sanctuary"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-6",
+            "link": "https://mario.wiki/Biddybud_Snow_Stroll"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A snow level where players walk on the right tiles to get the Power Star . They start on the snowy top and go underneath to the mechanical underground.",
+            "setting": [
+                "Snowy",
+                "Mechanical"
+            ],
+            "enemies": [
+                "Biddybud",
+                "Fuzzy"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Biddybud Snow Stroll"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-7",
+            "link": "https://mario.wiki/Cagey_Conkdor_Caper"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A cage-level with many Conkdors .",
+            "setting": [
+                "Cage",
+                "Sky"
+            ],
+            "enemies": [
+                "Conkdor"
+            ],
+            "obstacles": [
+                "Warp Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Cagey Conkdor Caper"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-8",
+            "link": "https://mario.wiki/Up_%27n%27_Down_Desert"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A ruin level in a desert where players need to press P Switches causing stone platforms to rise and fall.",
+            "setting": [
+                "Desert",
+                "Ruins"
+            ],
+            "enemies": [
+                "Piranha Sprout"
+            ],
+            "obstacles": [
+                "P-Switches"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Up 'n' Down Desert"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-9",
+            "link": "https://mario.wiki/Mine_Cart_Ruins_Rumble"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "The game's final mine cart level; a grassy ruin level containing Ant Troopers and Mud Troopers, in temple ruins with torches and overgrown vines .",
+            "setting": [
+                "Grassy",
+                "Ruins",
+                "Ornate"
+            ],
+            "enemies": [
+                "Mud Trooper",
+                "Ant Trooper"
+            ],
+            "obstacles": [
+                "Minecart"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mine Cart Ruins Rumble"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-10",
+            "link": "https://mario.wiki/Multi-Vator_Mayhem"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A course featuring Double Cherries and multi-person platforms. There is a large tree and many wooden platforms.",
+            "setting": [
+                "Grassy",
+                "Wooden"
+            ],
+            "enemies": [
+                "Flaptor",
+                "Shy Guy"
+            ],
+            "obstacles": [
+                "Double Cherry",
+                "Multi-person Platform"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Multi-Vator Mayhem"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-11",
+            "link": "https://mario.wiki/Flip_Panel_Footpath"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A level featuring many Flip Panels in brick spires in the sky with onion dome roofs.",
+            "setting": [
+                "Tower",
+                "Spire",
+                "Brick"
+            ],
+            "enemies": [],
+            "obstacles": [
+                "Flip Panels",
+                "Flying Carpet"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Flip Panel Footpath"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-12",
+            "link": "https://mario.wiki/Rock_Block_Badlands"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A large brick fortress with two Turnip Cannons and many Rock Blocks. Takes place in  adesert, with dark orange blocks.",
+            "setting": [
+                "Castle",
+                "Desert",
+                "Sand"
+            ],
+            "enemies": [
+                "Goomba",
+                "Goomba Tower",
+                "Bullet Bill",
+                "Bull's-Eye Bill"
+            ],
+            "obstacles": [
+                "Rock Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Rock Block Badlands"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-13",
+            "link": "https://mario.wiki/Secret_of_the_Golden_Realm"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A boss battle against Gold Draggadon inside a golden lava cave. Ascend the peak avoiding the golden fireballs.",
+            "setting": [
+                "Gold",
+                "Volcanic",
+                "Lava"
+            ],
+            "enemies": [
+                "Gold Draggadon"
+            ],
+            "obstacles": [
+                "Volcanic debris",
+                "Lava",
+                "Donut Blocks",
+                "Flip Panels",
+                "Touchstone"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Secret of the Golden Realm"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-14",
+            "link": "https://mario.wiki/Shy_Guy_Shadow_Den"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A dark temple level with many Shy Guys lit up by torches.",
+            "setting": [
+                "Dark",
+                "Underground",
+                "Ruins"
+            ],
+            "enemies": [
+                "Shy Guy",
+                "Fire Piranha Plant"
+            ],
+            "obstacles": [
+                "Dark"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Shy Guy Shadow Den"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-15",
+            "link": "https://mario.wiki/Razzle-Dazzle_Slider"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A pinball table over a bright city where the player needs to slide down and activate the five Color Panels at the end to reveal the Power Star.",
+            "setting": [
+                "City",
+                "Sky"
+            ],
+            "enemies": [
+                "Piranha Plant",
+                "Ant Trooper",
+                "Walleye"
+            ],
+            "obstacles": [
+                "Clear Pipe Cannon"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Razzle-Dazzle Slider"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-16",
+            "link": "https://mario.wiki/Poison_Canal_Cannon_Run"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A level with poison and Double Cherries inside of overgrown jungle temple ruins.",
+            "setting": [
+                "Poison",
+                "Jungle",
+                "Ruins"
+            ],
+            "enemies": [
+                "Fuzzy"
+            ],
+            "obstacles": [
+                "Poison",
+                "Touchstone",
+                "Clear Pipe Cannon"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Poison Canal Cannon Run"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-17",
+            "link": "https://mario.wiki/Fright_Train_Flight"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A haunted train level where players must avoid Mud Troopers and dig through Rock Blocks.",
+            "setting": [
+                "Train",
+                "Ghostly"
+            ],
+            "enemies": [
+                "Mud Trooper",
+                "Chargin' Chuck",
+                "Flaptor"
+            ],
+            "obstacles": [
+                "Rock Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fright Train Flight"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-18",
+            "link": "https://mario.wiki/No_Sleep_at_Magikoopa_Keep"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A spooky tower level featuring many Magikoopas as you ascend the tower.",
+            "setting": [
+                "Tower",
+                "Ornate",
+                "Brick"
+            ],
+            "enemies": [
+                "Magikoopa",
+                "Stumper",
+                "Piranha Plant"
+            ],
+            "obstacles": [
+                "Warp Pipes",
+                "Propeller Platform"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "No Sleep at Magikoopa Keep"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-19",
+            "link": "https://mario.wiki/Retro_Ramp-Up"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A pixelated retro level based on the Donkey Kong arcade game.",
+            "setting": [
+                "Pixelated",
+                "Tower"
+            ],
+            "enemies": [
+                "Spike",
+                "Para-Biddybud"
+            ],
+            "obstacles": [
+                "Rock Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Retro Ramp-Up"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-20",
+            "link": "https://mario.wiki/Twisty-Turny_Planet"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A level in the sky with rolling hills .",
+            "setting": [
+                "Cloudy",
+                "Grassy",
+                "Sky"
+            ],
+            "enemies": [],
+            "obstacles": [
+                "Warp Pipes",
+                "Rolling Hills"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Twisty-Turny Planet"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-21",
+            "link": "https://mario.wiki/Ghost_Gallery_Gambit"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A Ghost-House level that slowly sinks into poison.",
+            "setting": [
+                "Ghost House",
+                "Poison"
+            ],
+            "enemies": [
+                "Boo",
+                "Peepa",
+                "Big Boo"
+            ],
+            "obstacles": [
+                "Poison",
+                "Seesaw Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Ghost Gallery Gambit"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-22",
+            "link": "https://mario.wiki/Touchstone_Turmoil"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A level featuring an orange and a blue Touchstone .",
+            "setting": [
+                "Cosmic",
+                "Blocky"
+            ],
+            "enemies": [
+                "Para-Biddybud"
+            ],
+            "obstacles": [
+                "Touchstone"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Touchstone Turmoil"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-23",
+            "link": "https://mario.wiki/Color_Crate_Carousel"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A large rotating wooden structure in the sky with a Gold Mushroom.",
+            "setting": [
+                "Wooden",
+                "Sky",
+                "Sunset"
+            ],
+            "enemies": [],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Color Crate Carousel"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-24",
+            "link": "https://mario.wiki/Trick-Track_Hall"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A Japanese-styled building level with Spikes and touchstones .",
+            "setting": [
+                "Japanese",
+                "Ornate",
+                "Building"
+            ],
+            "enemies": [
+                "Spike",
+                "Piranha Sprout"
+            ],
+            "obstacles": [
+                "Touchstone"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Trick-Track Hall"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-25",
+            "link": "https://mario.wiki/Deep-Space_Gyromajig"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A space level that rotates when P Switches are pressed filled with Conkdors and Bullet Bills.",
+            "setting": [
+                "Space",
+                "Cosmic",
+                "Mechanical"
+            ],
+            "enemies": [
+                "Bullet Bill",
+                "Conkdor"
+            ],
+            "obstacles": [
+                "Rotating Platforms",
+                "Rock Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Deep-Space Gyromajig"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-26",
+            "link": "https://mario.wiki/Magma_Road_Marathon"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A level featuring Dash Panels and lava along a rocky path.",
+            "setting": [
+                "Lava",
+                "Rocky"
+            ],
+            "enemies": [
+                "Charvaargh"
+            ],
+            "obstacles": [
+                "Lava",
+                "Dash Panels",
+                "Propeller Platform",
+                "Clear Pipe Cannon"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Magma Road Marathon"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-27",
+            "link": "https://mario.wiki/Scalding_Scaffold_Sinkhole"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "A large industrial tower that sinks into the lava.",
+            "setting": [
+                "Lava",
+                "Mechanical"
+            ],
+            "enemies": [
+                "Piranha Sprout"
+            ],
+            "obstacles": [
+                "Lava",
+                "Spikes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Scalding Scaffold Sinkhole"
+        }
+    },
+    {
+        "meta": {
+            "game": "Captain Toad's Treasure Tracker",
+            "level_code": "Episode 3-28",
+            "link": "https://mario.wiki/Wingo%27s_Whackdown"
+        },
+        "input": {
+            "world": "Episode 3",
+            "layout_description": "The final battle against Wingo at his dark brick Tower.",
+            "setting": [
+                "Tower",
+                "Storm"
+            ],
+            "enemies": [
+                "Piranha Sprout",
+                "Wingo"
+            ],
+            "obstacles": [
+                "Clear Pipe Cannon"
+            ],
+            "boss": "Wingo"
+        },
+        "output": {
+            "name": "Wingo's Whackdown"
+        }
+    }
+]

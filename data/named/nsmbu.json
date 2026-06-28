@@ -1,0 +1,2374 @@
+[
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 1-1",
+            "link": "https://mario.wiki/Acorn_Plains_Way"
+        },
+        "input": {
+            "world": "Acorn Plains",
+            "layout_description": "A simple grassy level that introduces Waddlewings and Super Acorns.",
+            "setting": [
+                "Acorn",
+                "Grassy",
+                "Plains"
+            ],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Troopa",
+                "Piranha Plant",
+                "Waddlewing"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Acorn Plains Way"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 1-2",
+            "link": "https://mario.wiki/Tilted_Tunnel"
+        },
+        "input": {
+            "world": "Acorn Plains",
+            "layout_description": "An underground level with tilted pipes and moving crystals. The crystals shift and move as platforms. This level also contains a secret exit.",
+            "setting": [
+                "Underground",
+                "Crystals",
+                "Cave"
+            ],
+            "enemies": [
+                "Goomba",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Piranha Plant",
+                "Buzzy Beetle"
+            ],
+            "obstacles": [
+                "Crystals",
+                "Warp Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Tilted Tunnel"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 1-Tower",
+            "link": "https://mario.wiki/Crushing-Cogs_Tower"
+        },
+        "input": {
+            "world": "Acorn Plains",
+            "layout_description": "The first Tower course of the game with shifting platforms and several spinning cogs . Boom Boom is fought here at the end.",
+            "setting": [
+                "Tower"
+            ],
+            "enemies": [
+                "Dry Bones",
+                "Boom Boom"
+            ],
+            "obstacles": [
+                "Giant Cogs"
+            ],
+            "boss": "Boom Boom"
+        },
+        "output": {
+            "name": "Crushing-Cogs Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 1-3",
+            "link": "https://mario.wiki/Yoshi_Hill"
+        },
+        "input": {
+            "world": "Acorn Plains",
+            "layout_description": "This level introduces Yoshis and Monty Moles. There are many hills and rocks; as well as underground caves. Many bushes with Yoshi fruits.",
+            "setting": [
+                "Grassy",
+                "Plains"
+            ],
+            "enemies": [
+                "Goomba",
+                "Red Koopa Troopa",
+                "Piranha Plant",
+                "Fire Piranha Plant",
+                "Monty Mole"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Yoshi Hill"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 1-4",
+            "link": "https://mario.wiki/Mushroom_Heights"
+        },
+        "input": {
+            "world": "Acorn Plains",
+            "layout_description": "This is an athletic level with many mushroom platforms and Piranha Plants .",
+            "setting": [
+                "Sky",
+                "Mushrooms"
+            ],
+            "enemies": [
+                "Piranha Plant",
+                "Big Piranha Plant",
+                "Goombrat",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [
+                "Tilting Mushrooms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Mushroom Heights"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 1-5",
+            "link": "https://mario.wiki/Rise_of_the_Piranha_Plants"
+        },
+        "input": {
+            "world": "Acorn Plains",
+            "layout_description": "This level features slanted grounds, Big Piranha Plants , and Hammer Brothers. Many Piranha Plants roam the area.",
+            "setting": [
+                "Grassy",
+                "Plains"
+            ],
+            "enemies": [
+                "Piranha Plant",
+                "Big Piranha Plant",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Hammer Bro.",
+                "Goomba"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Rise of the Piranha Plants"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 1-",
+            "link": "https://mario.wiki/Lemmy%27s_Swingback_Castle"
+        },
+        "input": {
+            "world": "Acorn Plains",
+            "layout_description": "A castle filled with lava, swinging platforms held by chains, and Lava Bubbles . Lemmy Koopa is fought here in his airship.",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Dry Bones",
+                "Lava Bubble",
+                "Lemmy Koopa"
+            ],
+            "obstacles": [
+                "Swinging Platforms"
+            ],
+            "boss": "Lemmy Koopa"
+        },
+        "output": {
+            "name": "Lemmy's Swingback Castle"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 1-Blooper",
+            "link": "https://mario.wiki/Blooper%27s_Secret_Lair"
+        },
+        "input": {
+            "world": "Acorn Plains",
+            "layout_description": "A secret underwater level which can be unlocked by finding the secret exit in Tilted Tunnel . This level introduces Bloopers and unlocks a path to Soda Jungle .",
+            "setting": [
+                "Underwater",
+                "Pipes"
+            ],
+            "enemies": [
+                "Blooper",
+                "Blooper Nanny",
+                "Blooper Baby"
+            ],
+            "obstacles": [
+                "Warp Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Blooper's Secret Lair"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 2-1",
+            "link": "https://mario.wiki/Stone-Eye_Zone"
+        },
+        "input": {
+            "world": "Layer-Cake Desert",
+            "layout_description": "A desert level with shifting Stone-Eyes. Littered with sand geysers, palm trees and Stone-Eyes.",
+            "setting": [
+                "Desert",
+                "Quicksand"
+            ],
+            "enemies": [
+                "Waddlewing",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa",
+                "Red Koopa Paratroopa",
+                "Piranha Plant",
+                "Goomba"
+            ],
+            "obstacles": [
+                "Stone-Eyes",
+                "Sand Geyser"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Stone-Eye Zone"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 2-2",
+            "link": "https://mario.wiki/Perilous_Pokey_Cave"
+        },
+        "input": {
+            "world": "Layer-Cake Desert",
+            "layout_description": "This is a level with Pokeys and Sand Geysers. ",
+            "setting": [
+                "Underground",
+                "Sand",
+                "Desert"
+            ],
+            "enemies": [
+                "Pokey",
+                "Red Koopa Troopa",
+                "Swoop"
+            ],
+            "obstacles": [
+                "Quicksand",
+                "Sand Geyser"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Perilous Pokey Cave"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 2-3",
+            "link": "https://mario.wiki/Fire_Snake_Cavern"
+        },
+        "input": {
+            "world": "Layer-Cake Desert",
+            "layout_description": "It is an underground level with Fire Brothers and Fire Snakes , and introduces Glowing Baby Yoshis .",
+            "setting": [
+                "Cave",
+                "Desert",
+                "Sand",
+                "Dark"
+            ],
+            "enemies": [
+                "Fire Snake",
+                "Fire Piranha Plant",
+                "Fire Bro",
+                "Red Koopa Troopa",
+                "Piranha Plant"
+            ],
+            "obstacles": [
+                "Blackout",
+                "Tilting Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fire Snake Cavern"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 2-Tower",
+            "link": "https://mario.wiki/Stoneslide_Tower"
+        },
+        "input": {
+            "world": "Layer-Cake Desert",
+            "layout_description": "The tower of Layer-Cake Desert. Tower is full of sliding stone platforms and Grrrols.",
+            "setting": [
+                "Tower"
+            ],
+            "enemies": [
+                "Spike Top",
+                "Dry Bones",
+                "Big Dry Bones",
+                "Grrrol",
+                "Boom Boom"
+            ],
+            "obstacles": [
+                "Screwtop Platforms",
+                "Sliding Platforms",
+                "Quicksand"
+            ],
+            "boss": "Boom Boom"
+        },
+        "output": {
+            "name": "Stoneslide Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 2-4",
+            "link": "https://mario.wiki/Spike%27s_Spouting_Sands"
+        },
+        "input": {
+            "world": "Layer-Cake Desert",
+            "layout_description": "A level featuring Spikes and many Flying\u00c2\u00a0? Blocks . This level also contains a secret exit .",
+            "setting": [
+                "Desert",
+                "Stone-Eye ruins",
+                "Sand"
+            ],
+            "enemies": [
+                "Spike",
+                "Red Koopa Troopa",
+                "Green Koopa Paratroopa"
+            ],
+            "obstacles": [
+                "Spike Balls",
+                "Sand Geyser"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spike's Spouting Sands"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 2-5",
+            "link": "https://mario.wiki/Dry_Desert_Mushrooms"
+        },
+        "input": {
+            "world": "Layer-Cake Desert",
+            "layout_description": "The fifth course of Layer-Cake Desert with many Stone Spikes and Mushroom Platforms.",
+            "setting": [
+                "Sky",
+                "Mushrooms",
+                "Desert"
+            ],
+            "enemies": [
+                "Stone Spike",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [
+                "Mushrooms",
+                "Moving Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Dry Desert Mushrooms"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 2-6",
+            "link": "https://mario.wiki/Blooming_Lakitus"
+        },
+        "input": {
+            "world": "Layer-Cake Desert",
+            "layout_description": "A desert level featuring Lakitus and many Piranha Plants along rolling hills. Many palm trees and rolling hills across the stage.",
+            "setting": [
+                "Desert",
+                "Quicksand",
+                "Rolling Hills"
+            ],
+            "enemies": [
+                "Lakitu",
+                "Piranha Pod",
+                "Piranha Plant",
+                "Big Piranha Plant",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [
+                "Rolling Hills"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Blooming Lakitus"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "Layer-Cake Desert-",
+            "link": "https://mario.wiki/Morton%27s_Compactor_Castle"
+        },
+        "input": {
+            "world": "Layer-Cake Desert",
+            "layout_description": "The castle of Layer-Cake Desert with many shifting platforms that can squash the player. Morton is fought here in his airship .",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Dry Bones",
+                "Big Dry Bones",
+                "Lava Bubble",
+                "Morton Koopa Jr.",
+                "Big Pokey"
+            ],
+            "obstacles": [
+                "Shifting Platforms"
+            ],
+            "boss": "Morton Koopa Jr."
+        },
+        "output": {
+            "name": "Morton's Compactor Castle"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 2-Ice Block",
+            "link": "https://mario.wiki/Piranha_Plants_on_Ice"
+        },
+        "input": {
+            "world": "Layer-Cake Desert",
+            "layout_description": "This level is filled with Fire Piranha Plants and Ice Blocks. They spew fire at the ice blocks, melting them for dangerous paths.",
+            "setting": [
+                "Ice",
+                "Snowy"
+            ],
+            "enemies": [
+                "Fire Piranha Plant",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [
+                "Ice Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Piranha Plants on Ice"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 3-1",
+            "link": "https://mario.wiki/Waterspout_Beach"
+        },
+        "input": {
+            "world": "Sparkling Waters",
+            "layout_description": "This level features several Huckit Crabs and Water Geysers .",
+            "setting": [
+                "Tropical",
+                "Beach",
+                "Water"
+            ],
+            "enemies": [
+                "Huckit Crab",
+                "Cheep Cheep",
+                "Piranha Plant",
+                "Clampy"
+            ],
+            "obstacles": [
+                "Water Geyser"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Waterspout Beach"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 3-2",
+            "link": "https://mario.wiki/Tropical_Refresher"
+        },
+        "input": {
+            "world": "Sparkling Waters",
+            "layout_description": "An underwater course where many Warp Pipes and Big Urchins are found.",
+            "setting": [
+                "Underwater",
+                "Tropical",
+                "Warp Pipes"
+            ],
+            "enemies": [
+                "Big Cheep Cheep",
+                "Cheep Cheep",
+                "Blooper",
+                "Urchin",
+                "Big Urchin",
+                "Spiny Cheep Cheep"
+            ],
+            "obstacles": [
+                "Geyser Pipe"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Tropical Refresher"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 3-Tower",
+            "link": "https://mario.wiki/Giant_Skewer_Tower"
+        },
+        "input": {
+            "world": "Sparkling Waters",
+            "layout_description": "This tower level has many Skewers . The bottom of this tower is flooded with water .",
+            "setting": [
+                "Tower"
+            ],
+            "enemies": [
+                "Dry Bones",
+                "Big Dry Bones",
+                "Boom Boom"
+            ],
+            "obstacles": [
+                "Giant Skewer"
+            ],
+            "boss": "Boom Boom"
+        },
+        "output": {
+            "name": "Giant Skewer Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 3-Ghost",
+            "link": "https://mario.wiki/Haunted_Shipwreck"
+        },
+        "input": {
+            "world": "Sparkling Waters",
+            "layout_description": "The ruins of a haunted shipwreck infested with Boos . Like Giant Skewer Tower , part of this level is underwater. Part of a giant ghostly sunken ship graveyard .",
+            "setting": [
+                "Water",
+                "Ship",
+                "Haunted"
+            ],
+            "enemies": [
+                "Boo",
+                "Circling Boo Buddies",
+                "Fish Bone",
+                "Ghost Block"
+            ],
+            "obstacles": [
+                "Warp Door",
+                "Tilting Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Haunted Shipwreck"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 3-3",
+            "link": "https://mario.wiki/Above_the_Cheep_Cheep_Seas"
+        },
+        "input": {
+            "world": "Sparkling Waters",
+            "layout_description": "A course with Yoshi and giant Water Geysers that is full of leaping Cheep Cheeps .",
+            "setting": [
+                "Tropical",
+                "Water",
+                "Beach"
+            ],
+            "enemies": [
+                "Cheep Cheep"
+            ],
+            "obstacles": [
+                "Water Geyser"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Above the Cheep Cheep Seas"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 3-4",
+            "link": "https://mario.wiki/Urchin_Shoals"
+        },
+        "input": {
+            "world": "Sparkling Waters",
+            "layout_description": "The fourth level of Sparkling Waters includes the two types Urchins and Water Geysers . Many palm trees litter the grassy island level . ",
+            "setting": [
+                "Tropical",
+                "Island",
+                "Water"
+            ],
+            "enemies": [
+                "Urchin",
+                "Big Urchin",
+                "Red Koopa Troopa",
+                "Goomba"
+            ],
+            "obstacles": [
+                "Water Geyser"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Urchin Shoals"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 3-5",
+            "link": "https://mario.wiki/Dragoneel%27s_Undersea_Grotto"
+        },
+        "input": {
+            "world": "Sparkling Waters",
+            "layout_description": "This underwater level has Dragoneels , which follows and attacks the player.",
+            "setting": [
+                "Underwater",
+                "Tropical",
+                "Lair"
+            ],
+            "enemies": [
+                "Dragoneel",
+                "Eep Cheep"
+            ],
+            "obstacles": [
+                "Quicksand"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Dragoneel's Undersea Grotto"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "Sparkling Waters-Castle(3-)",
+            "link": "https://mario.wiki/Larry%27s_Torpedo_Castle"
+        },
+        "input": {
+            "world": "Sparkling Waters",
+            "layout_description": "This castle contains many grates , burners , and Torpedo Teds . Larry Koopa is fought at the end of this castle. There is a large underwater section where you dodge the Torpedos.",
+            "setting": [
+                "Castle",
+                "Water"
+            ],
+            "enemies": [
+                "Dry Bones",
+                "Big Dry Bones",
+                "Burner",
+                "Torpedo tube",
+                "Torpedo Ted",
+                "Larry Koopa"
+            ],
+            "obstacles": [],
+            "boss": "Larry Koopa"
+        },
+        "output": {
+            "name": "Larry's Torpedo Castle"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 3-Leaf",
+            "link": "https://mario.wiki/Skyward_Stalk"
+        },
+        "input": {
+            "world": "Sparkling Waters",
+            "layout_description": "A course which consists of climbing a giant beanstalk. This level's leaf platforms turn brown and fall. This is the only level in the game that features balloon Goombas .",
+            "setting": [
+                "Sky",
+                "Beanstalk"
+            ],
+            "enemies": [
+                "Waddlewing",
+                "Goomba"
+            ],
+            "obstacles": [
+                "Leaf Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Skyward Stalk"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 4-1",
+            "link": "https://mario.wiki/Spinning-Star_Sky"
+        },
+        "input": {
+            "world": "Frosted Glacier",
+            "layout_description": "A snowy level that introduces Munchers and Star Lifts that spin when the player steps on them.",
+            "setting": [
+                "Snowy",
+                "Forest",
+                "Night"
+            ],
+            "enemies": [
+                "Muncher",
+                "Goomba",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Red Paratroopa",
+                "Piranha Plant"
+            ],
+            "obstacles": [
+                "Star Lift"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spinning-Star Sky"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 4-2",
+            "link": "https://mario.wiki/Cooligan_Fields"
+        },
+        "input": {
+            "world": "Frosted Glacier",
+            "layout_description": "A level that mainly consists of ice and ice pillars and chunks. This level introduces Cooligans that mainly emerge from unenterable Warp Pipes .",
+            "setting": [
+                "Ice",
+                "Forest"
+            ],
+            "enemies": [
+                "Cooligan"
+            ],
+            "obstacles": [
+                "Warp Pipes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Cooligan Fields"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 4-Tower",
+            "link": "https://mario.wiki/Freezing-Rain_Tower"
+        },
+        "input": {
+            "world": "Frosted Glacier",
+            "layout_description": "The tower of Frosted Glacier with two parts to it. The first part is dodging icicles , while the second one is riding a yellow lift . Boom Boom is the boss of the tower once again.",
+            "setting": [
+                "Tower",
+                "Ice"
+            ],
+            "enemies": [
+                "Icicle",
+                "Huge Icicle",
+                "Dry Bones",
+                "Boom Boom"
+            ],
+            "obstacles": [
+                "Icicle",
+                "Huge Icicle",
+                "Lift"
+            ],
+            "boss": "Boom Boom"
+        },
+        "output": {
+            "name": "Freezing-Rain Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 4-3",
+            "link": "https://mario.wiki/Prickly_Goombas!"
+        },
+        "input": {
+            "world": "Frosted Glacier",
+            "layout_description": "A frosty level that introduces Prickly Goombas . It is an icy mountain with warp pipes. ",
+            "setting": [
+                "Ice",
+                "Mountain",
+                "Aurora",
+                "Night"
+            ],
+            "enemies": [
+                "Goomba",
+                "Prickly Goomba",
+                "Piranha Plant",
+                "Fire Piranha Plant",
+                "Fire Bro"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Prickly Goombas!"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 4-4",
+            "link": "https://mario.wiki/Scaling_the_Mountainside"
+        },
+        "input": {
+            "world": "Frosted Glacier",
+            "layout_description": "A snowy level that includes Scale Lifts and Bullet Bills . This is the only level with Banzai Bills . You climb along the snowy mountain.",
+            "setting": [
+                "Ice",
+                "Mountain",
+                "Aurora",
+                "Night"
+            ],
+            "enemies": [
+                "Waddlewing",
+                "Red Koopa Troopa",
+                "Bullet Bill",
+                "Bill Blaster",
+                "Banzai Bill",
+                "Banzai Bill Cannon"
+            ],
+            "obstacles": [
+                "Scale Lift"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Scaling the Mountainside"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 4-5",
+            "link": "https://mario.wiki/Icicle_Caverns"
+        },
+        "input": {
+            "world": "Frosted Glacier",
+            "layout_description": "An icy cave level with falling icicles, Buzzy Beetles , and Ice Brothers .",
+            "setting": [
+                "Underground",
+                "Ice",
+                "Cave"
+            ],
+            "enemies": [
+                "Icicle",
+                "Huge Icicle",
+                "Buzzy Beetle",
+                "Ice Bro"
+            ],
+            "obstacles": [
+                "Icicle",
+                "Huge Icicle"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Icicle Caverns"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 4-",
+            "link": "https://mario.wiki/Swaying_Ghost_House"
+        },
+        "input": {
+            "world": "Frosted Glacier",
+            "layout_description": "A Ghost House where the screen scrolls. The Ghost House is full of Boos.",
+            "setting": [
+                "Haunted",
+                "Ghost House"
+            ],
+            "enemies": [
+                "Boo",
+                "Circling Boo Buddies",
+                "Big Boo"
+            ],
+            "obstacles": [
+                "Warp Door"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Swaying Ghost House"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 4-",
+            "link": "https://mario.wiki/Wendy%27s_Shifting_Castle"
+        },
+        "input": {
+            "world": "Frosted Glacier",
+            "layout_description": "A castle with moving girders and both types of Thwomps .",
+            "setting": [
+                "Castle",
+                "Aurora"
+            ],
+            "enemies": [
+                "Dry Bones",
+                "Thwomp",
+                "Big Thwomp",
+                "Thwimp",
+                "Wendy O. Koopa"
+            ],
+            "obstacles": [
+                "Sliding Platforms",
+                "Girders",
+                "Icicle",
+                "Huge Icicle"
+            ],
+            "boss": "Wendy O. Koopa"
+        },
+        "output": {
+            "name": "Wendy's Shifting Castle"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 4-Fliprus",
+            "link": "https://mario.wiki/Fliprus_Lake"
+        },
+        "input": {
+            "world": "Frosted Glacier",
+            "layout_description": "A secret course introducing Flipruses , River Piranha Plants , and springboard-like crates.",
+            "setting": [
+                "Ice",
+                "Water",
+                "Snowy",
+                "Aurora"
+            ],
+            "enemies": [
+                "Fliprus",
+                "River Piranha Plant",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [
+                "Crate"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fliprus Lake"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-",
+            "link": "https://mario.wiki/The_Mighty_Cannonship"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "The first Airship course in the game with Bowser Jr. as the boss. This level is partly underwater and features Targeting Teds . This is their only appearance in the game.",
+            "setting": [
+                "Airship"
+            ],
+            "enemies": [
+                "Cannon",
+                "Cannonball",
+                "Big gun",
+                "Giant cannonball",
+                "Mechakoopa",
+                "Mecha Cheep",
+                "Torpedo Base",
+                "Targeting Ted",
+                "Torpedo Ted",
+                "Bowser Jr.",
+                "Mecha Hand"
+            ],
+            "obstacles": [
+                "Cannon"
+            ],
+            "boss": "Bowser Jr."
+        },
+        "output": {
+            "name": "The Mighty Cannonship"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-1",
+            "link": "https://mario.wiki/Jungle_of_the_Giants"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A course with Big Blocks , Big Goombas , and Big Koopa Troopas . It is full of supersized enemied and blocks.",
+            "setting": [
+                "Jungle",
+                "Giant"
+            ],
+            "enemies": [
+                "Goomba",
+                "Hefty Goomba",
+                "Big Goomba",
+                "Green Big Koopa Troopa",
+                "Red Big Koopa Troopa",
+                "Big Piranha Plant"
+            ],
+            "obstacles": [
+                "Big Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Jungle of the Giants"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-2",
+            "link": "https://mario.wiki/Bridge_over_Poisoned_Waters"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "This course features poison and logs that spin when stepped on. It is a toxic swamp. Several Brick Blocks are found here, and this level also contains a secret exit that goes around Soda Jungle's haunted area.",
+            "setting": [
+                "Jungle",
+                "Poison"
+            ],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Red Paratroopa",
+                "Goomba"
+            ],
+            "obstacles": [
+                "Posion",
+                "Spinning Logs"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Bridge over Poisoned Waters"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-3",
+            "link": "https://mario.wiki/Bramball_Woods"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A course that takes place, as the name implies, in the dark woods with Bramballs . Several Donut Blocks are found here, too.",
+            "setting": [
+                "Jungle",
+                "Dark"
+            ],
+            "enemies": [
+                "Bramball",
+                "Stalking Piranha Plant"
+            ],
+            "obstacles": [
+                "Brick Pillasrs",
+                "Donut Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Bramball Woods"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-Tower",
+            "link": "https://mario.wiki/Snake_Block_Tower"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A tower with Spinners , Amps , Big Amps , and large and normal sized Snake Blocks that scale up the tower .",
+            "setting": [
+                "Tower"
+            ],
+            "enemies": [
+                "Amp",
+                "Big Amp",
+                "Spinner",
+                "Boom Boom"
+            ],
+            "obstacles": [
+                "Snake Block"
+            ],
+            "boss": "Boom Boom"
+        },
+        "output": {
+            "name": "Snake Block Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-",
+            "link": "https://mario.wiki/Which-Way_Labyrinth"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A Ghost House with multiple doors. Glowing Baby Yoshis are found here, and this level reveals the fact that Baby Yoshis can eat Boos . This level also contains a secret exit .",
+            "setting": [
+                "Haunted",
+                "Ghost House",
+                "Dark"
+            ],
+            "enemies": [
+                "Boo",
+                "Big Boo",
+                "Broozer",
+                "Scaredy Rat"
+            ],
+            "obstacles": [
+                "Warp Door",
+                "Blackout"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Which-Way Labyrinth"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-4",
+            "link": "https://mario.wiki/Painted_Swampland"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A course with several unenterable Warp Pipes . This level's background is inspired by Vincent van Gogh 's The Starry Night .",
+            "setting": [
+                "Jungle",
+                "Art",
+                "Poison"
+            ],
+            "enemies": [
+                "Boo",
+                "Circling Boo Buddies",
+                "Piranha Plant"
+            ],
+            "obstacles": [
+                "Warp Pipes",
+                "Poison"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Painted Swampland"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-5",
+            "link": "https://mario.wiki/Deepsea_Ruins"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A level featuring a lake where the player must swim through. This level marks the only appearance of Bulbers and Jellybeams in the game. The lake is filled with stationary Stone-Eyes .",
+            "setting": [
+                "Jungle",
+                "Water",
+                "Dark"
+            ],
+            "enemies": [
+                "Fish Bone",
+                "Circling Boo Buddies",
+                "Bulber",
+                "Jellybeam"
+            ],
+            "obstacles": [
+                "Stone-Eyes"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Deepsea Ruins"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-6",
+            "link": "https://mario.wiki/Seesaw_Bridge"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A course with poison water and seesaws .",
+            "setting": [
+                "Jungle",
+                "Poison"
+            ],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Wiggler",
+                "River Piranha Plant"
+            ],
+            "obstacles": [
+                "Seesaw Bridges"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Seesaw Bridge"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-7",
+            "link": "https://mario.wiki/Wiggler_Stampede"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A course with giant and normal sized Wigglers . Takes place over poison water with mushroom platforms.",
+            "setting": [
+                "Jungle",
+                "Poison"
+            ],
+            "enemies": [
+                "Wiggler",
+                "Big Wiggler",
+                "Green Paratroopa",
+                "Red Paratroopa"
+            ],
+            "obstacles": [
+                "Poison",
+                "Mushroom Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Wiggler Stampede"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-Castle",
+            "link": "https://mario.wiki/Iggy%27s_Volcanic_Castle"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A castle with giant lava waves with fiery enemies coming from the lava.",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Dry Bones",
+                "Big Dry Bones",
+                "Lava Bubble",
+                "Magmaargh",
+                "Iggy Koopa"
+            ],
+            "obstacles": [
+                "Lava",
+                "Lava Waves"
+            ],
+            "boss": "Iggy Koopa"
+        },
+        "output": {
+            "name": "Iggy's Volcanic Castle"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 5-Para-Beetles",
+            "link": "https://mario.wiki/Flight_of_the_Para-Beetles"
+        },
+        "input": {
+            "world": "Soda Jungle",
+            "layout_description": "A course with giant and normal sized Para-Beetles , along with King Bills . You jump across the Para-Beetles up into the sky; and some colorful blocks.",
+            "setting": [
+                "Sky",
+                "Clouds"
+            ],
+            "enemies": [
+                "Para-Beetle",
+                "Heavy Para-Beetle",
+                "King Bill"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Flight of the Para-Beetles"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-1",
+            "link": "https://mario.wiki/Fuzzy_Clifftop"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "This is a clifftop level that features Yoshi , Fruits , and Fuzzies . Fuzzies float above the cliffs to dodge.",
+            "setting": [
+                "Cliffs",
+                "Rocky"
+            ],
+            "enemies": [
+                "Fuzzy",
+                "Piranha Plant",
+                "Ice Piranha Plant",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [
+                "Shrinking Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fuzzy Clifftop"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-2",
+            "link": "https://mario.wiki/Porcupuffer_Falls"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "Another cliff level over the water , where Porcupuffers attack. Many Urchins can be found, too.",
+            "setting": [
+                "Cliffs",
+                "Rocky",
+                "Water"
+            ],
+            "enemies": [
+                "Porcupuffer",
+                "Urchin",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Green Paratroopa",
+                "Cheep Cheep"
+            ],
+            "obstacles": [
+                "Warp Pipes",
+                "Geyser Pipe"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Porcupuffer Falls"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-Tower",
+            "link": "https://mario.wiki/Grinding-Stone_Tower"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "The sixth and final tower where Boom Boom is the boss, the final instance he is fought. The main enemies in this tower are Grrrols .",
+            "setting": [
+                "Tower",
+                "Rocky"
+            ],
+            "enemies": [
+                "Grrrol",
+                "Mega Grrrol",
+                "Bony Beetle",
+                "Boom Boom"
+            ],
+            "obstacles": [],
+            "boss": "Boom Boom"
+        },
+        "output": {
+            "name": "Grinding-Stone Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-3",
+            "link": "https://mario.wiki/Waddlewing%27s_Nest"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "This level features Chain Chomps , Waddlewings , and red tilting platforms.",
+            "setting": [
+                "Cliffs",
+                "Rocky",
+                "Sky"
+            ],
+            "enemies": [
+                "Waddlewing",
+                "Chain Chomp",
+                "Piranha Plant"
+            ],
+            "obstacles": [
+                "Tilting Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Waddlewing's Nest"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-4",
+            "link": "https://mario.wiki/Light_Blocks,_Dark_Tower"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "A dark cavern filled with giant Light Blocks , Swoopers , Bob-ombs , and ? Switches that light the Light Blocks when activated.",
+            "setting": [
+                "Underground",
+                "Cliffs",
+                "Cave"
+            ],
+            "enemies": [
+                "Swoop",
+                "Red Paratroopa",
+                "Fire Bro",
+                "Bob-omb"
+            ],
+            "obstacles": [
+                "Light Blocks",
+                "Blackout",
+                "Ladder"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Light Blocks, Dark Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-5",
+            "link": "https://mario.wiki/Walking_Piranha_Plants!"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "A mountain full of Stalking Piranha Plants , moving lifts , and chains.",
+            "setting": [
+                "Cliffs",
+                "Rocky",
+                "Waterfall"
+            ],
+            "enemies": [
+                "Stalking Piranha Plant",
+                "Goomba",
+                "Red Koopa Troopa",
+                "Red Paratroopa"
+            ],
+            "obstacles": [
+                "Chains"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Walking Piranha Plants!"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-6",
+            "link": "https://mario.wiki/Thrilling_Spine_Coaster"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "A dark cave level with a poison lake and Spine Coasters .",
+            "setting": [
+                "Underground",
+                "Cave",
+                "Poison"
+            ],
+            "enemies": [
+                "Swoop",
+                "Spike Top",
+                "Muncher"
+            ],
+            "obstacles": [
+                "Spine Coaster"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Thrilling Spine Coaster"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-Tower(2)",
+            "link": "https://mario.wiki/Screwtop_Tower"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "The first and only tower with Sumo Bros . and Boss Sumo Bro . Elastic platforms are found here, and all the Sumo Bros. in this tower are found on them. The platforms are shocked by the Sumo Bros.",
+            "setting": [
+                "Tower"
+            ],
+            "enemies": [
+                "Bony Beetle",
+                "Fire Bar",
+                "Sumo Bro",
+                "Boss Sumo Bro"
+            ],
+            "obstacles": [
+                "Screwtop Platforms",
+                "Elastic Platforms"
+            ],
+            "boss": "Boss Sumo Bro"
+        },
+        "output": {
+            "name": "Screwtop Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-7",
+            "link": "https://mario.wiki/Shifting-Floor_Cave"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "This underground level is filled with Cross Lifts , Piranha Plants , Big Piranha Plants , and elastic bars. Full of chances to be crushed by the mechanical cave.",
+            "setting": [
+                "Underground",
+                "Cave",
+                "Mechanical"
+            ],
+            "enemies": [
+                "Spike Top",
+                "Piranha Plant",
+                "Big Piranha Plant",
+                "Swoop",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [
+                "Cross Lifts"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Shifting-Floor Cave"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 6-",
+            "link": "https://mario.wiki/Roy%27s_Conveyor_Castle"
+        },
+        "input": {
+            "world": "Rock-Candy Mines",
+            "layout_description": "This castle is full of Conveyor Belts and Iron Blocks that can often squish the player.",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Dry Bones",
+                "Bony Beetle",
+                "Lava Bubble",
+                "Bullet Bill",
+                "Missile Bill",
+                "Roy Koopa"
+            ],
+            "obstacles": [
+                "Conveyor Belts",
+                "Iron Blocks"
+            ],
+            "boss": "Roy Koopa"
+        },
+        "output": {
+            "name": "Roy's Conveyor Castle"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-1",
+            "link": "https://mario.wiki/Land_of_Flying_Blocks"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "A level in the skies with moving clouds and quick-moving Brick Blocks .",
+            "setting": [
+                "Sky",
+                "Clouds"
+            ],
+            "enemies": [
+                "Waddlewing",
+                "Goomba",
+                "Red Koopa Troopa",
+                "Piranha Plant",
+                "Big Piranha Plant"
+            ],
+            "obstacles": [
+                "Mushroom Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Land of Flying Blocks"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-2",
+            "link": "https://mario.wiki/Seesaw_Shrooms_(level)"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "A level with Seesaw Shrooms , Fuzzies , and Yoshi . You bounce across mushrooms in the sky.",
+            "setting": [
+                "Sky",
+                "Clouds",
+                "Mushrooms"
+            ],
+            "enemies": [
+                "Fuzzy",
+                "Piranha Plant",
+                "Paragoomba",
+                "Red Koopa Troopa",
+                "Lakitu",
+                "Spiny Egg",
+                "Spiny"
+            ],
+            "obstacles": [
+                "Seesaw Shroom platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Seesaw Shrooms"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-3",
+            "link": "https://mario.wiki/Switchback_Hill"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "A level above the clouds, filled with arrow lifts and Bullet Bills .",
+            "setting": [
+                "Sky",
+                "Sky Islands",
+                "Clouds"
+            ],
+            "enemies": [
+                "Bullet Bill",
+                "Bill Blaster",
+                "Bill Blaster Turret",
+                "Red Koopa Troopa",
+                "Green Paratroopa"
+            ],
+            "obstacles": [
+                "Arrow Lift"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Switchback Hill"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-Tower",
+            "link": "https://mario.wiki/Slide_Lift_Tower"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "The first and only tower with Magikoopa as the boss. This tower is full of Slide Lifts , as the name suggests.",
+            "setting": [
+                "Tower"
+            ],
+            "enemies": [
+                "Fire Bro",
+                "Dry Bones",
+                "Big Dry Bones",
+                "Fire Bar",
+                "Huge Fire Bar",
+                "Goomba",
+                "Mini Goomba",
+                "Red Koopa Troopa",
+                "Green Paratroopa",
+                "Monty Mole",
+                "Bob-omb",
+                "Magikoopa"
+            ],
+            "obstacles": [
+                "Slide Lifts",
+                "Sliding Platforms"
+            ],
+            "boss": "Magikoopa"
+        },
+        "output": {
+            "name": "Slide Lift Tower"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-Ghost House",
+            "link": "https://mario.wiki/Spinning_Spirit_House"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "The last Ghost House in the game where platforms constantly spin. There are also 3 multi-door rooms in this stage. This level also contains a secret exit .",
+            "setting": [
+                "Haunted",
+                "Ghost House"
+            ],
+            "enemies": [
+                "Boo",
+                "Big Boo",
+                "Circling Boo Buddies",
+                "Broozer",
+                "Ghost Block"
+            ],
+            "obstacles": [
+                "Warp Door",
+                "Spinning Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spinning Spirit House"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-4",
+            "link": "https://mario.wiki/Bouncy_Cloud_Boomerangs"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "A level set in sunset with Bouncy Clouds and Boomerang Bros. You bounce along the clouds and sky islands to dodge boomerangs.",
+            "setting": [
+                "Sky",
+                "Cloud",
+                "Sunset"
+            ],
+            "enemies": [
+                "Boomerang Bro",
+                "Red Koopa Troopa",
+                "Green Paratroopa",
+                "Piranha Plant",
+                "Goomba"
+            ],
+            "obstacles": [
+                "Bouncy Clouds"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Bouncy Cloud Boomerangs"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-5",
+            "link": "https://mario.wiki/A_Quick_Dip_in_the_Sky"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "A cliff-related level with Fuzzies , Water Balls , and Piranha Plants . You climb the mountain through the water bubbles.",
+            "setting": [
+                "Sky",
+                "Clouds",
+                "Cliffs"
+            ],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Green Paratroopa",
+                "Piranha Plant",
+                "Big Piranha Plant",
+                "Fuzzy"
+            ],
+            "obstacles": [
+                "Water Balls"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "A Quick Dip in the Sky"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-6",
+            "link": "https://mario.wiki/Snaking_above_Mist_Valley"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "Like Bouncy Cloud Boomerangs , this is a sunset cloud level. This level features Paratroopas , Foos , and Snake Blocks .",
+            "setting": [
+                "Sky",
+                "Clouds",
+                "Sunset"
+            ],
+            "enemies": [
+                "Foo",
+                "Green Paratroopa",
+                "Red Paratroopa",
+                "Fire Bro"
+            ],
+            "obstacles": [
+                "Snake Block"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Snaking above Mist Valley"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-Castle",
+            "link": "https://mario.wiki/Ludwig%27s_Clockwork_Castle"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "The Meringue Clouds castle with Ludwig as the boss. This level has Bony Beetles , Big Dry Bones , Fire Bros ., Sledge Bros ., Amps , and several moving platforms moved by gears.",
+            "setting": [
+                "Castle",
+                "Sky"
+            ],
+            "enemies": [
+                "Bony Beetle",
+                "Big Dry Bones",
+                "Fire Bro",
+                "Sledge Bro",
+                "Amp",
+                "Ludwig von Koopa"
+            ],
+            "obstacles": [
+                "Moving Platforms",
+                "Sliding Platforms"
+            ],
+            "boss": "Ludwig Von Koopa"
+        },
+        "output": {
+            "name": "Ludwig's Clockwork Castle"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 7-Airship",
+            "link": "https://mario.wiki/Boarding_the_Airship"
+        },
+        "input": {
+            "world": "Meringue Clouds",
+            "layout_description": "The second and final airship with Bowser Jr. as the boss. This airship has two portions: one on the ground, and another portion on the airship. This is the only level in the game to have Rocky Wrenches and two Checkpoint Flags .",
+            "setting": [
+                "Airship",
+                "Sky"
+            ],
+            "enemies": [
+                "Mecha Hand",
+                "Rocky Wrench",
+                "Burner",
+                "Moving torch",
+                "Bob-omb",
+                "Bowser Jr."
+            ],
+            "obstacles": [
+                "Rotating Platforms",
+                "Mecha Hand",
+                "Cannon"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Boarding the Airship"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 8-1",
+            "link": "https://mario.wiki/Meteor_Moat"
+        },
+        "input": {
+            "world": "Peach's Castle",
+            "layout_description": "This level features moving platforms and Meteors over a lava river.",
+            "setting": [
+                "Lava",
+                "Volcanic"
+            ],
+            "enemies": [
+                "Red Koopa Troopa",
+                "Bony Beetle",
+                "Bowser's Flame",
+                "Lava Geyser"
+            ],
+            "obstacles": [
+                "Lava",
+                "Moving Platforms",
+                "Meteors"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Meteor Moat"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 8-2",
+            "link": "https://mario.wiki/Magma-River_Cruise"
+        },
+        "input": {
+            "world": "Peach's Castle",
+            "layout_description": "A level on a raft over a lava lake. Many Monty Moles and other enemies can be found that fall onto the raft, stopping it in place. ",
+            "setting": [
+                "Lava",
+                "Volcanic"
+            ],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Magmaw",
+                "Monty Mole",
+                "Mini Goomba",
+                "Buzzy Beetle"
+            ],
+            "obstacles": [
+                "Limited Raft"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Magma-River Cruise"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 8-3",
+            "link": "https://mario.wiki/Rising_Tides_of_Lava"
+        },
+        "input": {
+            "world": "Peach's Castle",
+            "layout_description": "A volcano level where rising lava, screw mushrooms and Big Buzzy Beetles are found. You have to ascend the volcano to avoid the lava.",
+            "setting": [
+                "Underground",
+                "Lava",
+                "Volcanic"
+            ],
+            "enemies": [
+                "Big Buzzy Beetle",
+                "Red Koopa Troopa",
+                "Spike Top",
+                "Flame Chomp"
+            ],
+            "obstacles": [
+                "Lava",
+                "Screwtop Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Rising Tides of Lava"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 8-4",
+            "link": "https://mario.wiki/Firefall_Cliffs"
+        },
+        "input": {
+            "world": "Peach's Castle",
+            "layout_description": "A level where Mario must climb a mountain dodging Meteors . This is Peach's Castle's secret stage.",
+            "setting": [
+                "Lava",
+                "Volcanic",
+                "Cliffs"
+            ],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Bowser's Flame"
+            ],
+            "obstacles": [
+                "Meteors",
+                "Climbing Walls"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Firefall Cliffs"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 8-Castle-1",
+            "link": "https://mario.wiki/Red-Hot_Elevator_Ride"
+        },
+        "input": {
+            "world": "Peach's Castle",
+            "layout_description": "Here, the player rides and drives a rising elevator which stands still when any enemy or a coin lands on it, while the lava rises. This is the only level in the game that has Bowser Stunners .",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Goomba",
+                "Parabomb",
+                "Bowser Stunner"
+            ],
+            "obstacles": [
+                "Limited Lift",
+                "Lava"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Red-Hot Elevator Ride"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 8-Castle-2",
+            "link": "https://mario.wiki/The_Final_Battle_(New_Super_Mario_Bros._U)"
+        },
+        "input": {
+            "world": "Peach's Castle",
+            "layout_description": "The last part of Peach's Castle, where Bowser is fought and Bowser Jr. attacks the player with his Junior Clown Car .",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Lava Bubble",
+                "Bony Beetle",
+                "Bowser's Flame",
+                "Bob-omb",
+                "Bowser Jr.",
+                "Bowser"
+            ],
+            "obstacles": [],
+            "boss": "Bowser"
+        },
+        "output": {
+            "name": "The Final Battle"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 9-1",
+            "link": "https://mario.wiki/Spine-Tingling_Spine_Coaster"
+        },
+        "input": {
+            "world": "Superstar Road",
+            "layout_description": "This is the second and last level to have Spine Coasters , preceded by Thrilling Spine Coaster . It is set in a place similar to Acorn Plains . The main enemies here are Fuzzies .",
+            "setting": [
+                "Grassy",
+                "Plains"
+            ],
+            "enemies": [
+                "Big Fuzzy"
+            ],
+            "obstacles": [
+                "Spine Coaster"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spine-Tingling Spine Coaster"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 9-2",
+            "link": "https://mario.wiki/Run_for_It"
+        },
+        "input": {
+            "world": "Superstar Road",
+            "layout_description": "This level has a Layer-Cake Desert setting, where the player must hit P Switches to turn coins into Brick Blocks in order to progress. The player has to keep up pace!",
+            "setting": [
+                "Desert",
+                "Stone-Eye ruins"
+            ],
+            "enemies": [
+                "Piranha Plant",
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Green Paratroopa"
+            ],
+            "obstacles": [
+                "Disappearing Platforms",
+                "P-Switches"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Run for It"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 9-3",
+            "link": "https://mario.wiki/Swim_for_Your_Life!"
+        },
+        "input": {
+            "world": "Superstar Road",
+            "layout_description": "This level takes place in an underwater cavern, where a Cheep Chomp is persistently trying to eat the player. This can be used to defeat enemies and thus open paths.",
+            "setting": [
+                "Underground",
+                "Underwater"
+            ],
+            "enemies": [
+                "Cheep Chomp",
+                "Urchin",
+                "Cheep Cheep",
+                "Spiny Cheep Cheep"
+            ],
+            "obstacles": [
+                "Water Geyser"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Swim for Your Life!"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 9-4",
+            "link": "https://mario.wiki/Hammerswing_Caverns"
+        },
+        "input": {
+            "world": "Superstar Road",
+            "layout_description": "Taking place in a frozen cave similar to Icicle Caverns , this level features swinging hammer-like platforms that can help the player cross bottomless pits .",
+            "setting": [
+                "Ice",
+                "Underground"
+            ],
+            "enemies": [
+                "Icicle",
+                "Huge Icicle",
+                "Red Koopa Troopa",
+                "Red Paratroopa",
+                "Buzzy Beetle"
+            ],
+            "obstacles": [
+                "Swinging Platforms",
+                "Hammer Platforms"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Hammerswing Caverns"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 9-5",
+            "link": "https://mario.wiki/Spinning_Platforms_of_Doom"
+        },
+        "input": {
+            "world": "Superstar Road",
+            "layout_description": "Returning to the art style of Painted Swampland , this stage contains poison that can be avoided by riding spinning platforms.",
+            "setting": [
+                "Jungle",
+                "Art",
+                "Poison"
+            ],
+            "enemies": [
+                "Circling Boo Buddies",
+                "Piranha Plant"
+            ],
+            "obstacles": [
+                "Rotating Platforms",
+                "Poison"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Spinning Platforms of Doom"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 9-6",
+            "link": "https://mario.wiki/Fire_Bar_Cliffs"
+        },
+        "input": {
+            "world": "Superstar Road",
+            "layout_description": "The player must deal with many Huge Fire Bars in this Rock-Candy Mines -like level.",
+            "setting": [
+                "Cliffs",
+                "Mountain",
+                "Rocky"
+            ],
+            "enemies": [
+                "Huge Fire Bar",
+                "Red Koopa Troopa",
+                "Buzzy Beetle"
+            ],
+            "obstacles": [],
+            "boss": ""
+        },
+        "output": {
+            "name": "Fire Bar Cliffs"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 9-7",
+            "link": "https://mario.wiki/Lakitu!_Lakitu!_Lakitu!"
+        },
+        "input": {
+            "world": "Superstar Road",
+            "layout_description": "The level has a Meringue Clouds setting, and is populated by Lakitus . The slide lifts from Slide Lift Tower return in this course.",
+            "setting": [
+                "Sky",
+                "Clouds"
+            ],
+            "enemies": [
+                "Lakitu",
+                "Spiny Egg",
+                "Spiny",
+                "Red Koopa Troopa"
+            ],
+            "obstacles": [
+                "Slide Lifts"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Lakitu! Lakitu! Lakitu!"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 9-8",
+            "link": "https://mario.wiki/Pendulum_Castle"
+        },
+        "input": {
+            "world": "Superstar Road",
+            "layout_description": "The background is the same as The Final Battle Castle . This course features big-sized spinners and Donut Block floors. Huge spikey balls on chains rotate throughout the halls.",
+            "setting": [
+                "Castle",
+                "Lava"
+            ],
+            "enemies": [
+                "Spinner",
+                "Bony Beetle"
+            ],
+            "obstacles": [
+                "Spinners",
+                "Donut Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Pendulum Castle"
+        }
+    },
+    {
+        "meta": {
+            "game": "New Super Mario Bros. U",
+            "level_code": "World 9-9",
+            "link": "https://mario.wiki/Follow_That_Shell!"
+        },
+        "input": {
+            "world": "Superstar Road",
+            "layout_description": "The final level in the game, having a sky setting. Here, the player can use Koopa Shells to get a large amount of extra lives and collect Star Coins . It is a relaxing puzzle stage.",
+            "setting": [
+                "Sky",
+                "Sky Islands",
+                "Grassy"
+            ],
+            "enemies": [
+                "Green Koopa Troopa",
+                "Red Koopa Troopa",
+                "Goomba"
+            ],
+            "obstacles": [
+                "Brick Blocks"
+            ],
+            "boss": ""
+        },
+        "output": {
+            "name": "Follow That Shell!"
+        }
+    }
+]
